@@ -67,7 +67,20 @@ website:
         - section: "Final thesis (2009)"
           contents:
             - phd/final.qmd
+            - phd/final-front.qmd
             - phd/final-ch01.qmd
+            - phd/final-ch02.qmd
+            - phd/final-ch03.qmd
+            - phd/final-ch04.qmd
+            - phd/final-ch05.qmd
+            - phd/final-ch06.qmd
+            - phd/final-ch07.qmd
+            - phd/final-ch08.qmd
+            - phd/final-ch09.qmd
+            - phd/final-ch10.qmd
+            - phd/final-ch11.qmd
+            - phd/final-ch12.qmd
+            - phd/final-back.qmd
         - section: "Early direction (2006)"
           contents:
             - phd/early-direction/index.qmd
@@ -84,6 +97,9 @@ website:
   page-footer:
     left: "Jon Minton, 2003-2009 (archived 2026)"
     right: "Built with [Quarto](https://quarto.org)"
+
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 
 format:
   html:

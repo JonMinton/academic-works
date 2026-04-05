@@ -1,0 +1,850 @@
+---
+title: "Appendix, Glossary, and Bibliography"
+---
+
+::: {.archive-notice}
+**Source:** Pages 309--322 of *MintonThesis.pdf* (September 2009). Text extracted from PDF; figures extracted directly as images.
+:::
+
+Appendix: The Screening Tool
+As a result of a request for information I made, which was initially rejected, then only
+acted upon when I responded by mentioning, explicitly, the Freedom of Information
+Act, I received the following information about how the Screening Tool works on 13
+May 2008:
+A score will be produced based on the responses to the screening questions. The
+higher the score, the more likely it is that the claimant will return to work within
+a year from the start of their Incapacity Benefit claim. If the score is above the
+threshold value of 1.11, then the claimant will be screened out and not required
+to attend any additional WFI‟s. However, if the score is below the threshold they
+will still be required to attend additional WFI‟s.
+The variables that are important in predicting whether or not a claimant should
+be screened in or out are each given a parameter value. The score will be
+obtained by giving the claimants‟ response a value; 1 for a positive response or 0
+for a negative response. This is then multiplied by the appropriate parameter and
+totalled to give the final score.
+For example, a person who expects to work within 3 months and their last job
+was „clerical and secretarial‟, but who did not match any of the other entries in
+the table, would have a score of 1.9514 (0.7599 + 1.1915). As this is greater than
+the 1.11 threshold, this claimant would not be required to attend further WFI‟s.
+The response also included a copy of the document Incapacity Benefit Algorithm
+Definition, which included the following table, detailing which variables are used, and
+what scores they are assigned:
+
+
+Question Number & Text
+3 Date of Birth
+4 Are you:
+
+Response Text (or Notes Explaining)
+The answers for these questions must
+correspond to the applicant being older
+than 50 and younger than 61 and male.
+(Age >= 51 and Age < 60)
+
+Score
+-0.5283
+
+7 Do you live with a partner?
+9 When did you last have a job (include
+time on sick pay as time on job)?
+
+Live on your own
+More than 24 months ago
+
+-0.3249
+-1.7989
+
+11 When do you see yourself working
+(again)?
+11 When do you see yourself working
+(again)?
+12a Do you have any formal
+qualifications?
+17 Thinking about the last work you did
+before claiming Incapacity Benefits,
+would you estimate your income was:
+17 Thinking about the last work you did
+before claiming Incapacity Benefits,
+would you estimate your income was:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+13 Would you describe your last regular
+job as:
+14 What is the main health
+problem/disability leading you to make
+this claim?
+
+Within the next 3 months
+
++.7599
+
+Between 3 and 6 months time
+
++1.1005
+
+No
+
+-0.4339
+
+Last job paid less than £200 per week
+
+-0.5075
+
+Less than £10,000 pa
+
+-0.5075
+
+Manager and senior officials
+
++1.1915
+
+Professional Occupations
+
++1.1915
+
+Associate professional and technical
+occupations
+Administrative and secretarial
+occupations
+Skilled trades occupations
+
++1.1915
+
+Personal service occupations
+
++1.1915
+
+Sales and customer service occupations
+
++1.1915
+
+Process, Plant and machine operatives
+
++1.1915
+
+Elementary Occupations
+
++1.1915
+
+Medical Condition 1 or 2 -- Diseases of the
+Skin and Subcutaneous Tissue (L00-L99)
+See Appendix A
+NB If both conditions fall in this group the
+score is only applied once
+Medical Condition 1 or 2 -- Diseases of the
+Nervous System (G00-G99)
+See Appendix A
+NB: If both conditions fall into this group
+the score is only applied once
+
+-1.3048
+
+14 What is the main health
+problem/disability leading you to make
+this claim?
+
+Table A.1 The Screening Tool
+
+
++1.1915
++1.1915
+
+-1.7724
+
+The „Appendix A‟ referenced above defines the following as „Diseases of the Nervous
+System‟
+Chronic Fatigue Syndrome, axonic brain injury, arachnoiditis, Bell‟s Palsy or
+paralysis, brain damage, carpaltunnel syndrome, cataplexy, cerebellar ataxaia,
+cerebral abcess, cerebral palsy, chorea, demyelination, disseminated sclerosis,
+dystonia, encephalitis, epilepsy, facial paralysis, grand mal, Guillian-Barre
+syndrome, hemiparesis, hemiplegia, Huntington‟s chorea, hydrocephalus,
+insomnia, meningitis, migraine, motor-neurone disease, multiple sclerosis,
+muscular dystrophy, myalgic encephalomyelitis, myasthenia, myasthenia gravis,
+myelitis, narcolepsy, neuropathy, paralysis, paraplegia, Parkinson‟s disease or
+syndrome, parkinsonism, peripheral neuropathy, petitmal, phrenicectomy,
+polyneuritis, post viral fatigue syndrome, quadriplegia, spasmodic torticollis,
+spinal aranchnoiditis, sympathectomy, tetraplegia, tic douloureux, transient
+ischaemic attack, transverse myelitis, trigeminal neuralgia, viral fatigue
+And the following as „Diseases of the Skin and Subcutaneous Tissues‟:
+Abscess, acne, boils, carbuncle, cellulitis, cheiropompholyx, connective tissue
+disorder, cyst septic, cyst, pilonidal, dermatitis of any kind, eczema, erythema,
+erythema nodosum, fistula, furuncle (S), furuncolosis, impetigo, ingrowing nails
+(S), leg ulcer, mixed connective tissue disorder, paronychia, pruritus, psoriasis,
+psoriatic arthritis, psoriatic arthropathy, sebaceous cyst, septic cyst, skin disease,
+skin eruption, skin lesion, sunburn, ulcer(s) other, urticaria, whitlow
+
+
+Glossary
+ADF
+
+Advisors Discretionary Fund
+
+AR
+
+Authority Ranking
+
+CDS
+
+Corporate Document Services
+
+CMP
+
+Condition Management Programme
+
+CS
+
+Communal Sharing
+
+DiD
+
+Difference in Differences
+
+DWP
+
+Department for Work and Pensions
+
+EM
+
+Equality Matching
+
+ESA
+
+Employment and Support Allowance
+
+IB
+
+Incapacity Benefit
+
+IBPA
+
+Incapacity Benefits Personal Advisor
+
+ILO
+
+International Labour Organisation
+
+IVB
+
+Invalidity Benefit
+
+IWS
+
+In Work Support
+
+LFS
+
+Labour Force Survey
+
+LLTI
+
+Limiting Longstanding Illness
+
+MP
+
+Market Pricing
+
+NDDP
+
+New Deal for Disabled People
+
+NI
+
+National Insurance
+
+NNH
+
+Number Needed to Harm
+
+NNO
+
+Number Needed to Observe
+
+NNT
+
+Number Needed to Treat
+
+OECD
+
+Organisation for Economic Cooperation and Development
+
+ONS
+
+Office for National Statistics
+
+RMT
+
+Relational Models Theory
+
+RTWC
+
+Return to Work Credit
+
+SDA
+
+Severe Disablement Allowance
+
+SIC
+
+Standard Industrial Classifications
+
+SOC
+
+Standard Occupational Classifications
+
+TSO
+
+The Stationery Office
+
+WFI
+
+Work Focussed Interview
+
+
+Bibliography
+Adam, S., A. Bozio, C. Emmerson, D. Greenberg and G. Knight (2008). A cost-benefit
+analysis of Pathways to Work for new and repeat incapacity benefits claimants. DWP.
+Norwich, HMSO.
+Adam, S., C. Emmerson, C. Frayne and A. Goodman (2006). Early quantitative
+evidence on the impact of the Pathways to Work pilots. DWP, Corporate Document
+Services.
+Altman, D. G. (1998). "Confidence intervals for the number needed to treat." British
+Medical Journal 317: 1309-12.
+Atkinson, J. and D. S. (2001). Evaluation of the New Deal 50 plus - Research with
+Individuals (Wave 1). DWP. Leeds, Corporate Document Services.
+Aylward, M. and G. Waddell (2005). The Scientific and Conceptual Basis of Incapacity
+Benefit. London, The Stationary Office.
+Bailey, R., J. Hales, O. Hayliar and M. Wood (2008). Pathways to Work: customer
+experience and outcomes: Findings from a survey of new and repeat incapacity benefit
+customers in the first seven pilot areas. DWP. London, Corporate Document Services.
+Barnes, H. and M. Hudson (2006). Pathways to Work: Qualitative research on the
+Condition Management Programme. DWP, Corporate Document Services.
+Bartley, M. (2004). Health Inequality: an introduction to theories, concepts, and
+methods. Cambridge, Polity Press.
+Bartley, M. and C. Owen (1996). "Relation between socioeconomic status, employment,
+and health during economic change, 1973-93." British Medical Journal 313(7055): 445449.
+BBC. (2009, 24 March). "Guide: Europe's MPs' pay packages."
+
+Retrieved 1 June,
+
+2009, from http://news.bbc.co.uk/1/hi/uk_politics/7961849.stm.
+Beatty, C. and S. Fothergill (1996). "Labour market adjustment in areas of chronic
+industrial decline: The case of the UK coalfields." Regional Studies 30(7): 627-640.
+Beatty, C. and S. Fothergill (2002). "Hidden unemployment among men: A case study."
+Regional Studies 36(8): 811-823.
+Beatty, C. and S. Fothergill (2004). "Economic change and the labour market in
+Britain's seaside towns." Regional Studies 38(5): 461-480.
+Beatty, C. and S. Fothergill (2005). "The diversion from 'unemployment' to 'sickness'
+across British regions and districts." Regional Studies 39(7): 837-854.
+
+
+Beatty, C., S. Fothergill and P. Lawless (1997). "Geographical variation in the labourmarket adjustment process: the UK coalfields 1981-91." Environment and Planning A
+29(11): 2041-2060.
+Beatty, C., S. Fothergill and R. Macmillan (2000). "A Theory of Employment,
+Unemployment and Sickness." Regional Studies 34(7): 617-630.
+Berthoud, R. (2007). "Work-rich and work-poor: three decades of change." Retrieved
+30 June, 2009, from http://www.jrf.org.uk/sites/files/jrf/1978-employment-distributionpoverty.pdf.
+Bewley, H., R. Dorsett and G. Haile (2007). The Impact of Pathways to Work. DWP.
+London, Corporate Document Services.
+Bewley, H., R. Dorsett and M. Ratto (2008). Evidence on the effect of Pathways to
+Work on existing claimants. DWP. Norwich, HMSO.
+Black, D., J. Smith, M. Berger and B. Noel (2003). "Is the Threat of Reemployment
+Services More Effective than the Services Themselves? Experimental Evidence from
+the UI System,." American Economic Review 93(4): 1313-1327.
+Blass, T. (1991). "Understanding Behavior in the Milgram Obedience Experiment:The
+Role of Personality, Situations, and Their Interactions." Journal of Applied Social
+Psychology 60(3): 398-413.
+Blass, T. (2004). The Man Who Shocked the World: The Life and Legacy of Stanley
+Milgram. Cambridge, MA, Perseus Books.
+Blyth, B. (2006). Incapacity Benefit reforms - Pathways to Work Pilots performance
+and analysis. DWP. Leeds, Corporate Document Services.
+Blyth, B. (2006). Pathways to Work Performance Summary, December 2006. DWP.
+Blyth, B. (2007). Incapacity Benefits Reforms, Pathways to Work Performance
+Summary.
+Blyth, B. (2007). Pathways to Work Performance Summary, May 2007. DWP: 21.
+Blyth, B. (2007). "Pathways to Work Performance Summary, November 2007." from
+http://www.dwp.gov.uk/asd/workingage/pathways2work/pathways_perf_1107.pdf.
+Blyth, B. (2008). Pathways to Work Performance Summary, March 2008. DWP.
+London.
+Bowker, G. C. and S. L. Star (1999). Sorting Things Out: Classification and its
+Consequences. Cambridge, Massachusetts, The MIT Press.
+Brown, S. E. H. P. and W. A. Brown. (2006). "Labour Economics."
+
+Retrieved 20
+
+November, 2007, from Encyclopedaedia Britannica 2006 Ultimate Reference Suite
+DVD.
+
+Campbell, D. T. (1969). "Variation and Selective Retention in Socio-Cultural
+Evolution." General Systems 14: 69-&.
+Campbell, D. T. (1976). Assessing the Impact of Planned Social Change. Dartmouth
+College, Harvard University Press.
+Campbell, D. T. (1990). Levels of Organization, Downward Causation, and the
+Selection-Theory Approach to Evolutionary Epistemology. Theories of the Evolution of
+Knowing. E. Tobach. Hillsdale, NJ, Lawrence Erlbaum: 1-17.
+Cialdini, R. B. (2007). Influence: The psychology of persuasion. London, HarperPress.
+Coleman, N. and L. Kennedy (2005). Destination of benefit leavers 2004. D. f. W. a.
+Pensions. Leeds, Corporate Document Services.
+Cook, R. J. and D. L. Sackett (1995). "The number needed to treat: a clinically useful
+measure of treatment effect." British Medical Journal 310: 452-454.
+Corden, A. and K. Nice (2006). Incapacity Benefit Reforms Pilot: Findings from the
+second cohort in a longitudinal panel of clients. DWP, Corporate Document Services.
+Corden, A. and K. Nice (2006). Pathways to Work from Incapacity Benefits: A study of
+experience and use of Return to Work Credit. DWP, Corporate Document Services.
+Corden, A. and K. Nice (2006). Pathways to Work: Findings from the final cohort in a
+qualitative longitudinal panel of incapacity benefits recipients. DWP. London,
+Corporate Document Services.
+Corden, A., K. Nice and R. Sainsbury (2005). Incapacity Benefit Reforms Pilot:
+Findings from a longitudinal panel of clients. DWP, Crown Copyright.
+CountryReports.org. (2009). "United Kingdom - Statistics."
+
+Retrieved 9 May, 2009,
+
+from
+http://www.countryreports.org/country.aspx?Countryname=United%20Kingdom&count
+ryId=251.
+Damasio, A. R. (1995). Descartes' error : emotion, reason and the human brain. New
+York, Avon Books.
+Damasio, A. R. (2000). The feeling of what happens : body and emotion in the making
+of consciousness. London, W. Heinemann.
+Davies, C. (2008). "Job losses are 'betrayal' of disabled: Unions protest after the
+government refuses to rescue factories that keep thousands in work."
+
+Retrieved 12
+
+April, 2009, from http://www.guardian.co.uk/society/2008/mar/09/disability.
+Davies, S. (2008). "Contracting out employment services to the third and private
+sectors: A critique." Critical Social Policy 28(2): 136-164.
+De Landa, M. (2000). A Thousand Years of Nonlinear History. New York, Swerve.
+
+de Swaan, A. (1988). In Care of the State: Health Care, Education and Welfare in
+Europe and the USA in the Modern Era. Cambridge, Polity Press.
+Diamond, J. (1987). The Worst Mistake in the History of the Human Race. Discover:
+64-66.
+Diamond, J. (1998). Guns, Germs and Steel: A short history of everybody for the last
+13,000 years. London, Vintage.
+Dickens, S., A. Mowlam and K. Woodfield (2004). Incapacity Benefit Reforms - early
+findings from qualitative research. DWP.
+Dickens, S., A. Mowlam and K. Woodfield (2004). Incapacity Benefit Reforms - the
+Personal Adviser Role & Practices. DWP. Leeds, Corporate Document Services.
+Dixon, J., M. Mitchell and S. Dickens (2007). Pathways to Work: Extension to existing
+customers (matched case study). DWP, Corporate document Services.
+Dorsett, R., L. Finlayson, R. Rord, A. Marsh, M. White and G. Zarb (1998). Leaving
+Incapacity Benefit. D. o. S. Security. London, Corporate Document Services.
+DWP (2002). Pathways to work: Helping people into employment. DWP. London,
+TSO.
+DWP. (2005, 15 March 2005). "Johnson announces summer green paper to reform
+Incapacity Benefit as radical "pathways" pilots get 10,000 off IB in a year." Retrieved
+1
+
+September,
+
+2008,
+
+from
+
+http://www.dwp.gov.uk/mediacentre/pressreleases/2005/mar/pathways150305.asp.
+DWP (2006). A New Deal for Welfare: Empowering people to work. DWP, The
+Stationery Office.
+DWP. (2006, April). "Statutory Sick Pay (SSP)."
+
+Retrieved 1 April, 2008, from
+
+http://www.dwp.gov.uk/lifeevent/benefits/statutory_sick_pay.asp.
+DWP. (2008). "Pathways to Work Process."
+
+Retrieved 12 April, 2009, from
+
+http://www.dwp.gov.uk/welfarereform/pathways_process.asp.
+Fiske, A. P. (1992). "The Four Elementary Forms of Sociality: Framework for a Unified
+Theory of Social Relations." Psychological Review 99(4): 689-723.
+Freud, D. (2007). "Reducing dependency, increasing opportunity: options for the future
+of
+
+welfare
+
+to
+
+work."
+
+Retrieved
+
+26
+
+June,
+
+2009,
+
+from
+
+http://www.dwp.gov.uk/publications/dwp/2007/welfarereview.pdf.
+Garside, W. R. (1980). The Measurement of Unemployment: Methods and Sources in
+Great Britain 1850-1979. Oxford, Basil Blackwell.
+GEO. (2009, 24 April). "Equality Bill."
+http://www.equalities.gov.uk/equality_bill.aspx.
+
+Retrieved 26 April, 2009, from
+
+Gigerenzer, G. (2003). Reckoning with Risk: Learning to Live with Uncertainty.
+London, Penguin.
+Goffman, E. (1959). The Presentation of Self in Everyday Life. New York, Doubleday
+Anchor Books.
+Goffman, E. (1990 [1963]). Stigma: Notes on the Management of Spoiled Identity.
+London, Penguin Books.
+Heckman, J. J. and V. J. Hotz (1989). "Choosing Among Alternative Nonexperimental
+Methods for Estimating the Impact of Social Programs: The Case of Manpower
+Training." Journal of the American Statistical Association 84(408): 862-874.
+Hofling, C. K., E. Brotzman, S. Dalrymple, N. Graves and C. M. Pierce (1966). "An
+Experimental Study of Nurse-Physician Relationships." Journal of Nervous and Mental
+Disease 143: 171-80.
+http://www.statistics.gov.uk/. (2007, ). "UK Standard Industrial Classification of
+Economic
+
+Activities
+
+2007."
+
+Retrieved
+
+7
+
+November,
+
+2007,
+
+from
+
+http://www.statistics.gov.uk/methods_quality/sic/downloads/SIC2007explanatorynotes.
+pdf.
+James, W. (1890). The Principles of Psychology. New York, Dover.
+JobCentrePlus. (2008). "Opportunities to Tender Pathways to Work."
+March
+
+2008,
+
+Retrieved 18
+
+2008,
+
+from
+
+http://www.jobcentreplus.gov.uk/JCP/Partners/Opportunitiestotender/Dev_012570.xml.
+html.
+Jones, A. and T. Morgan. (2008, 26 June). "Harman defends positive discrimination
+plans."
+
+Retrieved
+
+26
+
+April,
+
+2009,
+
+from
+
+http://www.independent.co.uk/news/uk/politics/harman-defends-positivediscrimination-plans-854475.html.
+Kay, J. (2007, August). "The Failure of Market Failure." Prospect Magazine. Retrieved
+12 April, 2009, from http://www.prospect-magazine.co.uk/pdfarticle.php?id=9709.
+Kemp, P. and J. Davidson (2007). Routes onto Incapacity Benefit: Findings from a
+survey of recent claimants. DWP. Leeds, Corporate Document services.
+Knight, T., S. Dickens, M. Mitchell and K. Woodfield (2005). Incapacity Benefit
+reforms - the Personal Advisor role and practices: Stage Two. DWP, Corporate
+Document Services.
+Lemert, C., Ed. (2004). Social Theory: the multicultural and classic readings. Oxford,
+Westview Press.
+
+
+Loehlin, J. C. (1998). Latent Variable Models: An Introduction to Factor, Path, and
+Structural Analysis. Mahwah, N. J., Lawrence Erlbaum Associates.
+Mauss, M. (2000). The Gift: the form and reason for exchange in archaic societies.
+London, V. W. Norton.
+Merton, R. K. (1968). Social Theory and Social Structure. New York, Free Press.
+Milgram, S. (2005 [1974]). Obedience to Authority: An Experimental View. London,
+Pinter & Martin.
+Mitchell, M. and K. Woodfield (2008). Qualitative research exploring the Pathways to
+Work sanctions regime. DWP. London, The Stationary Office.
+Myers, D. G. (1999). Social Psychology. New York, McGraw-Hill.
+NAO (2006). Jobcentre Plus: Delivering Effective Services through Personal Advisers.
+news.bbc.co.uk. (2008, 20 February). "Bid to Tackle 'sick-note culture': Health
+Secretary Alan Johnson says he wants to see doctors take a lead in tackling the sick-note
+culture."
+
+Retrieved
+
+19
+
+March,
+
+2008,
+
+from
+
+http://news.bbc.co.uk/1/hi/health/7253577.stm.
+Ogus, A. I. and N. J. Wikeley (1995). The Law of Social Security. London,
+Butterworths.
+ONS. (2000). "Standard Occupational Classification 2000 Volume 1."
+November,
+
+Retrieved 7
+
+2007,
+
+from
+
+http://www.statistics.gov.uk/methods_quality/ns_sec/downloads/SOC2000_Vol1_V5.p
+df.
+ONS. (2002). "UK Standard Industrial Classification of Economic Activites 2003."
+Retrieved
+
+7
+
+November
+
+2007,
+
+from
+
+http://www.statistics.gov.uk/methods_quality/sic/downloads/UK_SIC_Vol1(2003).pdf.
+ONS. (2007, September). "How exactly is unemployment measured?"
+November,
+
+Retrieved 6
+
+2007,
+
+from
+
+http://www.statistics.gov.uk/downloads/theme_labour/unemployment.pdf.
+ONS. (2007). "Introduction to UK Standard Industrial Classification of Economic
+Activities
+
+SIC(92)."
+
+Retrieved
+
+25
+
+November,
+
+2007,
+
+from
+
+http://www.statistics.gov.uk/methods_quality/sic/default.asp.
+ONS. (2008). "Life Expectancy at birth by health and local authorities in the United
+Kingdom: Results for England and Wales."
+
+Retrieved 19 November, 2008, from
+
+http://www.statistics.gov.uk/statbase/Product.asp?vlnk=8841.
+
+
+Osborne, H. (2009, 6 March). "British compulsory retirement age can stay at 65, says
+European
+
+court."
+
+Retrieved
+
+26
+
+April,
+
+2009,
+
+from
+
+http://www.guardian.co.uk/money/2009/mar/06/retirement-age-ruling.
+Pearsall, J. (1999). The Concise Oxford Dictionary. J. Pearsall. Oxford, Oxford
+University Press.
+Pearsall, J., C. Baily, C. Soanes and A. Stevenson, Eds. (1999). The Concise Oxford
+English Dictionary. Oxford, Oxford University Press.
+Polanyi, K. (2001 [1957]). The Great Transformation: The Political and Economic
+Origins of Our Time. Boston, Beacon Press.
+Ravetz, A. (2006). "Green Paper: A New Deal for Welfare: Empowering people to
+work. 2006: An independent assessment of the arguments for proposed Incapacity
+Benefit reform." Retrieved 2 September, 2008, from http://www.leeds.ac.uk/disabilitystudies/archiveuk/ravetz/Green%20Paper%20IB%20critique.pdf.
+Richards, S. J. (2008). "Applying Survival Models to Pensioner Mortality Data."
+Retrieved 20 November, 2008, from http://www.richardsconsulting.co.uk/laws.pdf.
+Russell, B. (2000 [1946]). History of Western Philosophy. London, Routledge.
+Service, E. (1962). Primitive Social Organization. New York, Random House.
+Service, E. (1975). Origins of the State and Civilization. New York, Norton.
+Smillie, M. (2005, 26 May). "Pathways to Work: Joint PCT Board Meeting (Carlisle
+and District, Eden Valley and West Cumbria)."
+
+Retrieved 28 March, 2008, from
+
+http://www.cumbriapct.nhs.uk/pct/about/trustboard/2005/05_may/pathways.pdf.
+Smith, A. (1776). An Inquiry into the Nature and Causes of the Wealth of Nations,
+www.bibliomania.com.
+Stiglitz, J. (2002). Globalisation and its Discontents. London, Penguin.
+Taleb, N. N. (2007). The Black Swan: The Impact of the Highly Improbable. London,
+Penguin.
+Thompson, J. B. (1992). Editor's Introduction. Language and Symbolic Power. J. B.
+Thompson. Oxford, Polity Press: 1-31.
+Tilly, C., Ed. (1975). The Formation of National States in Western Europe. Studies in
+Political Development. Princeton, N.J, Princeton University Press.
+Tilly, C. (1975). Reflections on the History of European State-making. The Formation
+of National States in Western Europe. C. Tilly. Princeton, Princeton University Press: 383.
+Tilly, C. (2006). Why? what happens when people give reasons ... and why. Oxford,
+Princeton University Press.
+
+Timms, S. (2009, April). "Budget 2009: Building Britain's Future." Retrieved 1 June,
+2009,
+
+from
+
+http://www.hm-
+
+treasury.gov.uk/d/Budget2009/bud09_completereport_2520.pdf.
+Weber, M. (1946). The Bureaucratic Machine. Social Theory: The multicultural and
+classic readings. C. Lemert. Oxford, Westview Press: 104-110.
+Weber, M. (1947). The Theory of Social and Economic Organization. New York, The
+Free Press.
+Weber, M. (2002 [1930]). The Protestant Ethic and the Spirit of Capitalism. London,
+Routledge.
+Webster, D. (2006). "Welfare Reform: Facing up to the Geography of Worklessness."
+Local Economy 21(2): 107-116.
+Wilkinson, R. (2005). The Impact of Inequality: How to make sick societies healthier.
+Oxford, Routledge.
+Wooldridge, J. M. (2006). Introductory Econometrics: A Modern Approach. Mason,
+OH, Thompson South-Western.
+www.fecareers.co.uk. (2008). "Personal Job Advisor, Tutor / Trainer."
+
+Retrieved 2
+
+May, 2008, from http://www.fecareers.co.uk/jobboard/cands/jobview.asp?v=497971.
+www.hmrc.gov.uk. (2008). "NM Revenue & Customs: National Minimum Wage."
+Retrieved 31 March, 2008, from http://www.hmrc.gov.uk/nmw/.
+www.hr-in-a-box.co.uk. (2008). "Statutory Holiday Entitlement - New Rules."
+Retrieved 2 May, 2008, from http://www.hr-in-a-box.co.uk/holiday.php.
+www.jobcentreplus.gov.uk. (2008). "Customers: Working Age Benefits: Severe
+Disablement
+
+Allowance
+
+(SDA)."
+
+Retrieved
+
+6
+
+May,
+
+2008,
+
+from
+
+http://www.jobcentreplus.gov.uk/jcp/Customers/WorkingAgeBenefits/Dev_008431.xml
+.html.
+www.newcastle.gov.uk/. (2008). "Jobcentre Plus work focused interviews." Retrieved
+20 March, 2008, from http://www.newcastle.gov.uk/core.nsf/a/wr_jcpluswfi.
+www.nomisweb.co.uk. (2008). "Benefits payments - incapacity benefit/ severe
+disablement - benefit type - information."
+
+Retrieved 6 May, 2008, from
+
+https://www.nomisweb.co.uk/query/advanced.aspx?Session_GUID={FE5AE536-9F974D17-BC30-75F80651C2EA.
+www.nomisweb.co.uk. (2008). "DWP benefits: release of August 2007 figures
+delayed."
+
+Retrieved
+
+8
+
+May,
+
+2008,
+
+from
+
+https://www.nomisweb.co.uk/articles/showArticle.asp?title=&article=news/080207_dw
+p.htm.
+
+www.ons.gov.uk. (2008). "About the Standard Occupational Classification 2000."
+Retrieved
+
+1
+
+September,
+
+2008,
+
+from
+
+http://www.ons.gov.uk/about-
+
+statistics/classifications/current/SOC2000/about-soc2000/index.html.
+www.opsi.goc.uk. (2006, 3 April). "The Employability Equality (Age) Regulations
+2006."
+
+Retrieved
+
+26
+
+April,
+
+2009,
+
+from
+
+http://www.opsi.gov.uk/si/si2006/20061031.htm.
+www.parliament.uk (2006). Incapacity Benefits and Pathways to Work: Third Report of
+Sessions 2005-06. H. o. C. W. a. P. Committee. London, The Stationery Office. Vol 1.
+www.parliament.uk. (2008). "House of Commons Hansard Debates for 31 March 2008
+(pt 0003)."
+
+Retrieved 21 May, 2008, from http://www.parliament.the-stationery-
+
+office.co.uk/pa/cm200708/cmhansrd/cm080331/debtext/80331-0003.htm.
+www.parliament.uk. (2009, 5 March). "'Supplementary memorandum submitted by the
+Department for Work and Pensions‟, DWP‟s Commissioning Strategy and the Flexible
+New Deal -- Work and Pensions Committee."
+
+Retrieved 12 April, 2009, from
+
+http://www.publications.parliament.uk/pa/cm200809/cmselect/cmworpen/59/59we28.ht
+m.
+www.seetec.co.uk. (2008). "About Seetec Government Programmes."
+
+Retrieved 26
+
+March, 2008, from http://www.seetec.co.uk/seetec-18.
+www.seetec.co.uk. (2008). "Programme Centre."
+
+Retrieved 26 March, 2008, from
+
+http://www.seetec.co.uk/seetec-454.
+www.taoiseach.gov.ie. (1998, 10 April). "The Northern Ireland Peace Agreement: The
+Agreement reached in the multi-party negotiations."
+
+Retrieved 26 April, 2009, from
+
+http://www.taoiseach.gov.ie/attached_files/Pdf%20files/NIPeaceAgreement.pdf.
+www.telegraph.co.uk. (2007). "Incapacity benefit claims still on the rise." Retrieved 6
+May,
+
+2008,
+
+from
+
+http://www.telegraph.co.uk/news/newstopics/politics/1567016/Incapacity-benefitclaims-still-on-the-rise.html.
+www.tomorrowproject.net. (2008). "The story so far."
+
+Retrieved 2 May, 2008, from
+
+http://www.tomorrowproject.net/pub/1__GLIMPSES/Employment/-285.html.

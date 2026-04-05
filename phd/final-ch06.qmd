@@ -1,0 +1,394 @@
+---
+title: "Chapter 6: Some Theories of Observable Social Phenomena and their Implications as Socioeconomic Mechanisms"
+---
+
+::: {.archive-notice}
+**Source:** Pages 101--111 of *MintonThesis.pdf* (September 2009). Text extracted from PDF; figures extracted directly as images.
+:::
+
+6 Some theories of observable social phenomena and their
+implications as socioeconomic mechanisms
+6.1 Introduction
+The last chapter illustrated how, within large, bureaucratic structures, role definitions
+and metrics come to be relied upon increasingly by central nodes, as means of abstractly
+controlling and surveying the actions both of spatially and organisationally distant
+functionaries, and also of the broader world within which the bureaucratic structure
+operates. The reason for this is relatively simple: both spatial and cognitive factors
+operate to limit the number of people, places, and situations an individual can directly
+attend to;104 and within large, modern organisations the number of people and places
+connected via the bureaucratic structure tends to be much above this spatial and
+cognitive ceiling level. Although new technologies can do something to raise the ceiling
+level somewhat (increasing speed of travel and thus 'compressing' space and time to
+some extent; raising cognitive capacity slightly through the consumption of caffeine and
+other stimulant substances), the spatial and cognitive demands placed on managers of
+bureaucracies can to be vastly in excess of their capacities for direct knowledge and
+attention. Role-definitions and metrics are thus required as tools of indirect
+commanding and indirect knowledge (respectively), because direct commanding and
+knowing is no longer a possibility for all but the most proximal staff.
+Relying entirely on metrics, however, can produce a severely distorted picture of what
+functionaries' actions are and ought to be, and of the world within which the
+bureaucracy operates. The bureaucracy only 'sees' what it measures, and only measures
+what it 'sees'. Certain patterns of action and behaviour, whose function, existence, and
+importance is easily understood when experienced directly, can become either
+exaggerated or obscured when observed indirectly through an abstracted metric.
+The construction of metrics, therefore, can have a very profound and significant effect
+upon political actions and behaviours, and should thus be considered an important topic
+of investigation for social scientists interested in understanding political processes.
+Moreover, and as I will consider in more detail in the next chapter, the study of
+government metrics and standards can help to identify the meshwork of theoretical
+assumptions political actors, both past and present, have made and are making about
+
+"I can't be in two places at once!" and "One thing at a time!" being oft-repeated acknowledgements
+of these limitations
+
+
+society and government, and so the „world‟ modern, bureaucratic political organisations
+are orientated towards recognising, responding to, bringing about or maintaining.
+Lurking within obscure technical documents and records are clues as to the broader
+„philosophy of society‟ and world view to which modern governments subscribe, and
+based upon which direct their actions and operations. Such a philosophy of society is
+likely not to have been consciously selected from a range of possible philosophies, but
+to have emerged from a combination of path dependency, function creep, enculturation
+and habituation, and hasty assumption-making following from the quotidian toils and
+demands of bureaucratic function. The overall purpose of this chapter is to briefly
+summarise a „superior story‟ told about quotidian practices, the kinds of things that
+happen all the time, and as a result perhaps tend to be noticed less than events more
+uncommon and salient. More specifically, the purposes of this chapter are as follows:
+1. To introduce and describe a set of theories (and fairly well developed empirical
+research programme), developed by the social psychologist and anthropologist
+Alan Page Fiske, collectively referred to as „Relational Models Theory‟ (RMT).
+2. To describe the each of the four constituent modes of social interaction --
+Communal Sharing, Authority Ranking, Equality Matching, and Market Pricing
+-- that Fiske suggests can usefully be applied to understanding and typologising
+the vast majority of social behaviour.
+3. To consider the extent to which these four modes of social interaction may
+usefully be considered from an economic perspective, by highlighting
+conceptual similarities between RMT and a relatively unpopular and
+uncommon school of economic thought known as Substantivism, most strongly
+associated with the economic historian Karl Polanyi. To do this, the parallels
+between the four modes posited in RMT and the four economic patterns
+suggested Polanyi‟s most famous book, The Great Transformation. I will make
+the argument that Substantivism is in some senses closer to the historical and
+conceptual origins of economics than much of the more atomistic and
+formalistic theory now associated with the discipline.
+4. The chapter will conclude by suggesting how, from an RMT/Substantivist
+perspective, many economic metrics, relied upon by political bureaucracies to
+understand mass societal behaviour, systematically exaggerate the importance
+and prevalence of the fourth mode (Market Pricing) and attenuate the
+importance of the other three modes.
+
+The broad aim of the chapter is to provide a framework for thinking about political
+philosophy and political economy as it actually appears to be currently applied. By
+doing this, the importance of government metrics in emphasising and de-emphasising,
+promoting and reprimanding, different forms and modes of interpersonal behaviour can
+be better understood. By thinking about modern political economic practice from the
+perspective of either Relational Model Theory or Substantivism (which I suggest at this
+level of detail are largely synonymous), it becomes clearer that many metrics and
+measures whose existence and political usefulness we take for granted, are in fact the
+result of a series of historical contingencies and „accidents‟, created in very different
+times and with very different functions in mind, that have through time grown into very
+powerful but unthinking political „actors‟, shaping and framing the decisions made by
+policy-makers throughout the world, by becoming integral parts of their conceptual
+landscape (their doxa). By offering RMT and Substantivism as attempts at formalising
+and foregrounding quotidian behaviours, their latent function as economic patterns can
+be made more apparent, and the need to link economic and political theory with
+everyday practice made much clearer.
+
+6.2 Relational Models Theory
+According to Fiske, RMT "postulates that people in all cultures use just four relational
+models to generate most kinds of social interaction, evaluation and affect"; [p . 689]
+"that people‟s intentions with regard to other people are essentially sociable, and their
+social goals inherently relational: People interact with others in order to construct and
+participate in one or another of the four basic types of social relationships." [p. 689]
+Although Fiske hypothesises that these four modes of social relations exist within all
+human cultures, he suggests that the domains of social action to which they are applied
+differ from culture to culture.
+[E]ach of the four universal models can be realized only in some culture-specific
+manner; there are no culture-free implementations of the models. Each model
+leaves open a number of parameters (variables or options) that require some
+determinant setting. The models cannot be operationalized without specifying
+application rules determining when and to whom and with regard to what they
+
+
+apply, and without setting some parameters about how they are to be put into
+practice.105
+Fiske suggests that almost all domains of human action, and types of personal
+relationship, are performed using not just one, but a complex combination of the
+relational modes: "For example, roommates may share tapes and records freely with one
+another (CS), work on a task at which one is an expert and imperiously directs the other
+(AR), divide equally the cost of gas on a trip (EM), and transfer a bicycle from one to
+the other for a price determined by its utility or exchange value (MP)."106 The degree to
+which a domain of human action is social (employs any of the modes) also varies
+between cultures, individuals, and encounters, at the limit producing what Fiske terms
+an „asocial‟ or „null relationship‟.107
+The four modes -- Communal Sharing, Authority Ranking, Equality Matching, and
+Market Pricing -- are described below.
+
+6.3 Mode 1: Communal Sharing (CS)
+Fiske defines communal sharing relationships as follows:
+Communal Sharing (CS) relationships are based on a conception of some
+bounded group of people as equivalent and undifferentiated. In this kind of
+relationship, the members of a group or dyad treat each other as all the same,
+focusing on commonalities and disregarding distinct individual identities. People
+in a CS relationship often think of themselves as sharing some common
+substance (e.g., "blood"), and hence think that it is natural to be relatively kind
+and altruistic to people of their own kind. Close kinship ties usually involve a
+major CS component, as does intensive love; ethnic and national identities and
+even minimal groups are more attenuated forms of CS. Rituals involving
+stereotyped actions are often important in constituting and sustaining group
+
+
+Fiske, A. P. (1992). "The Four Elementary Forms of Sociality: Framework for a Unified Theory of Social
+Relations." Psychological Review 99(4): 689-723., p. 713. Furthermore, Fiske states that RMT "conceives
+of human conflict and antagonism as arising out of the attacker's perception of fundamental
+transgressions against one of the four basic models." (p. 711)
+Ibid., p. 711
+Ibid., p. 708-9. As an example, consider walking past someone on a public street: simply registering
+that that other person exists, and changing one's course slightly to avoid bumping into her, would be
+close to a purely Null relationship; saying "Hello" as one passes, based on the expectation that she will
+also say "Hello", will be introducing a slight aspect of sociality (probably predominantly Equality
+Matching, EM) into the relationship.
+
+
+membership: Examples include initiation rituals and other rites of passage,
+religious worship, and ceremonial meals.108
+Within CS relationships, social categories matter. For two persons to be ready and
+willing to share with each other „communal‟ goods, both must recognise each other as
+„one of us‟. Within CS relationships, the social boundary separating „Us‟ from „Them‟
+is usually diligently enforced (often at significant cost to group members), but, once
+someone is identified as „Us‟ rather than „Them‟, their individual debits from and
+credits to the communal resource pool are seldom monitored or scrutinised to any great
+detail. Instead, as one of „us‟, they are trusted to use those resources made available to
+them in an appropriate way.
+
+6.4 Mode 2: Authority Ranking, and Mode 3: Equality Matching
+Fiske describes Authority Ranking in the following terms:
+Authority Ranking (AR) relationships are based on a model of asymmetry
+among people who are linearly ordered along some hierarchical social
+dimension. The salient social fact in an AR relationship is whether a person is
+above or below each other person. People higher in rank have prestige,
+prerogatives, and privileges that their inferiors lack, but subordinates are often
+entitled to protection and pastoral care. Authorities often control some aspects of
+their subordinates' actions. People in an authority ranking relationship typically
+use spatial order and magnitude order metaphors to differentiate themselves:
+They think of "higher-ups" and speak of "belittling," classify people into leaders
+in the forefront and followers behind, speak of superiors as "greater," use plural
+nouns to address them, or accord them a larger personal space. Relationships
+between people of different ranks in the military are predominantly governed by
+this mode, as are relations across generations and between genders in many
+traditional societies.
+Conversely, Equality Matching relationships are described as follows:
+Equality matching (EM) relationships are based on a model of even balance and
+one-for-one correspondence, as in turn taking, egalitarian distributive justice, inkind reciprocity, tit-for-tat retaliation, eye-for-an-eye revenge, or compensation
+by equal replacement. People are primarily concerned about whether an EM
+
+Ibid., p. 691
+
+
+relationship is balanced, and keep track of how far out of balance it is. People in
+an EM relationship often mark their relationship with very concrete operations
+of balancing, comparing, or counting-out items in one-for-one correspondence.
+The idea is that each person is entitled to the same amount as each other person
+in the relationship, and that the direction and magnitude of an imbalance are
+meaningful. Common examples are people in a car pool or a baby-sitting
+cooperative, or the matching rules for competitive sports that require turn taking,
+equal time, and equal team size. Acquaintances and colleagues who are not
+intimate often interact on this basis: They know how far from equality they are,
+and what they would need to do to even things up. People can combine things at least entities of the same kind - to make up the difference. Equality matching
+is like a pan balance: people know how to assemble actions on one side to equal
+any given weight on the other side.
+To some extent, both AR and EM systems apply the same underlying principle:
+reciprocation. In this sense, AR may be considered a form of „vertical‟ reciprocal
+arrangement, whereas EM a form of „horizontal‟ reciprocal arrangement. Throughout
+chapters two and four, when considering both the emergence of polities more generally
+(chapter two) and the emergence of modern bureaucracies more specifically (chapter
+four), we came across countless examples of vertical social hierarchies emerging only
+as a result of an implicit (or even explicit) reciprocal agreement between Authority and
+Subordinate: Subordinates agree not to attempt to depose the Authority so long as the
+Authority agrees to keep the Subordinate safe from physical harm, through the
+establishment of a police force, and malnutrition, by maintaining and redistributing food
+and other supplies as and when needed (Chapter two). The Subordinate agrees to work
+for the Authority in Company X, and in exchange the Authority agrees to provide the
+Subordinate regular emoluments for his subservience, as well as access to a (subset of)
+the resources of Company X (Chapter four: in this case Authority Ranking relationships
+are combined with elements of Communal Sharing).
+Although the agreements struck between two agents may be unequal in terms of pay-off
+and prestige, and the inequity of the arrangements is often both a function of, and a
+means by which may be maintained, the existing disparity of power between agents,
+the reciprocal framework underlying AR relationships, as well as EM relationships,
+should not be forgotten. Charles Tilly implicitly makes this point when discussing the
+
+
+emergence of what we think of as modern political rights (including Human Rights),
+over a period of around five-hundred years within Europe:
+[T]he significant thing about [political] rights is not that they should exist in the
+abstract, but that the state, rather than some other organization, should become
+the focus of their enforcement. Indeed, rather than thinking of abstract rights
+which are enforced (or violated) by states, it would be more illuminating to think
+of political rights as claims binding the agents of the state to specific groups of
+people: religious minorities can call on the state to defend them from
+persecution, adult citizens can insist the state give them their day in court, the
+indigent can claim sustenance from the state. These are political rights in a large
+sense -- political in that they constitute binding claims on the agents of
+government, rather than on some other group.109
+In each case, these political rights emerge as reciprocal, something-for-something
+agreements between agents, one of whom exists as (or claims itself to be, or
+retrospectively becomes known as) a polity or government. Such political agreements
+are not necessarily all AR relationships -- consider, for example, bilateral trade
+agreements made between two states of equal size and wealth -- but are overwhelmingly
+reciprocal in quality. In a more abstract and contentious sense, the principle of
+reciprocation may even be at the heart of effective and durable Communal Sharing
+relationships, as each individual member of a group with access to some Commons
+implicitly believes that allowing another group member access to the Commons now
+will mean they will have access to the Commons later. (This may be what Polanyi was
+intimating when he wrote that, "in the long run, all social obligations are reciprocal."110)
+
+6.5 Mode 4: Market Pricing
+Market pricing (MP) relationships are based on a model of proportionality in
+social relationships; people attend to ratios and rates. People in an MP
+relationship usually reduce all the relevance features and components under
+consideration to a single value or utility metric that allows the comparisons of
+many qualitatively and quantitatively diverse factors. People organize their
+
+Tilly, C., Ed. (1975). The Formation of National States in Western Europe. Studies in Political
+Development. Princeton, N.J, Princeton University Press. pp. 36-7
+Polanyi, K. (2001 [1957]). The Great Transformation: The Political and Economic Origins of Our Time.
+Boston, Beacon Press., p. 48
+
+
+interactions with reference to ratios of this metric, so that what matters is how a
+person stands in proportion to others - for example, your percentage share in a
+business venture or the ratio of what you pay to what the other person gives you
+in return. Proportions (like intervals in EM) are continuous, and can take on any
+value. In an MP relationship, social value is defined by such ratios. The most
+prominent examples of interactions governed by market pricing are thus those
+that are orientated toward prices, wages, commissions, rents, interest rates, tithes
+and taxes, and all other relationships organized in terms of cost-benefit ratios
+and rational calculations of efficiency or expected utility. Money is the
+prototypical of MP relations, but there are also many MP relationships that do
+not involve money. In this kind of relationship, people tend to discuss (and
+probably cognize) value-relevant features of things propositionally, analyzing
+inputs and outputs using arbitrary symbols. For example, the use of numbers in
+equations is common, and people use abstract, conceptually formulated analysis
+in MP more readily than in other relationships: "If we buy this care and make
+payments of $620 per month, then with the salary left over, we won't be able to
+go to Cancun this summer unless air fares go down 50%"
+Of the four modes of social interaction, Market Pricing appears the most cognitively
+demanding and, to some extent, unintuitive. Fiske suggests that the four models may
+have emerged sequentially in the following order -- Communal Sharing, Authority
+Ranking, Equality Matching, Market Pricing111 -- perhaps in step with increasing
+complexity and cognitive capacity of the organism and the social organisation within
+which it is embedded. As Fiske suggests, "The transformation of the relationship
+between a given pair of people or among the members of a particular group probably
+tends to move in the opposite direction, from MP to EM to CS, or from AR to CS". As
+such, one may imagine human interpersonal relationships progressing along (or at least
+striving towards) a qualitative trajectory: beginning with the cold formality and
+calculating cost-benefit analyses of Market Pricing, and culminating with the warm
+intuitive informality, the relaxed and comforting sense that „what‟s mine is yours and
+what‟s yours is mine‟, and that one is part of something much greater than oneself,
+inherent in Communal Sharing relationships.
+
+
+Fiske, A. P. (1992). "The Four Elementary Forms of Sociality: Framework for a Unified Theory of Social
+Relations." Psychological Review 99(4): 689-723., p. 712
+
+
+6.6 Substantivism
+As I stated at the start of this chapter, I believe that RMT represents something with
+resonances that extend beyond psychology or anthropology, and into economic theory
+and political economy. To highlight this, I want to draw attention to what appears to be
+a consonance between RMT and the Substantivist economic position sketched by
+economic historian Karl Polanyi within his 1957 book The Great Transformation112.
+Despite being separated by discipline, geography, and almost half a century, the two
+theorists make almost identical claims, about the existence of four basic modes of interpersonal relationship, and use terms that are almost synonyms of each others. The terms
+both theorists use for the four modes are summarised in Table 6.1
+
+1
+2
+3
+4
+
+Polanyi
+Householding
+Redistribution
+Reciprocation
+Market Economy
+
+Fiske
+Communal Sharing
+Authority Ranking
+Equality Matching
+Market Pricing
+
+Table 6.1 Relationship between terms used by Polanyi & Fiske
+Sources: Polanyi, K, (2001 [1957]), The Great Transformation: The Political and Economic Origins of Our Time.
+Boston: Beacon Press; Fiske, A. P. (1992), "The Four Elementary Forms of Sociality: Framework for a Unified
+Theory of Social Relations", Psychological Review, 99 (4): 689-723
+
+Furthermore, the breadth with which the term „economy‟ may legitimately be
+considered and interpreted is suggested by its etymology: from the Greek oikonomia,
+meaning „household management‟.113 Most of the books that the modern discipline of
+economics trace their lineage to, for example Adam Smith‟s The Wealth of Nations114,
+were originally described as works of „political economy‟ rather than simply
+„economics‟. Their concern could thus logically be assumed to be that of „managing the
+political household‟, rather than (for example) the creation of axioms asserting the
+behaviour of „economic agents‟ (and the assertion and implication that such economic
+agents behave very much like human beings).
+„Substantivism‟, Polanyi‟s term for his approach to economic theory, asserts that
+economics should involve investigating and describing processes by which people
+provide for the needs of themselves and those with whom they are associated;
+112
+
+Polanyi, K. (2001 [1957]). The Great Transformation: The Political and Economic Origins of Our Time.
+Boston, Beacon Press.
+113
+"ORIGIN C15: from Fr. économie, or via L. from Gk. oikonomia 'household management', based on
+oikos 'house' + nemein 'manage'" (Pearsall, J., C. Baily, C. Soanes and A. Stevenson, Eds. (1999). The
+Concise Oxford English Dictionary. Oxford, Oxford University Press., pp. 453-4)
+114
+Smith, A. (1776). An Inquiry into the Nature and Causes of the Wealth of Nations,
+www.bibliomania.com.
+
+
+economics, in this sense, is thus primarily a study of provisioning practices. Within The
+Great Transformation, Polanyi suggests that modern economics had come to adopt too
+much of an individualistic, rather than communalistic, perspective on the nature of
+economies, reflecting too exhaustive and exclusive a focus, amongst conventional
+economists, on social activities within the eighteenth and nineteenth centuries. "The
+corrective of such a „short-run‟ perspective", Polanyi wrote, "would obviously have
+been the linking up of economic history with social anthropology", but states that this
+course has been "consistently avoided."115
+
+6.7 Conclusion: Bureaucracies, Metrics, and Modes
+By re-associating abstract economic theory with quotidian provisioning practices, we
+can hopefully gain a better sense of the broader purpose of political and economic
+decisions. If, even in the early twenty-first century, most real economic practices
+involve weaving a tapestry of interpersonal modes of interaction, then to what extent
+does attempting to maximise the amount of just one of the colours of weave -- one of the
+relational modes -- lead to the creation of a tapestry that is either richer or more durable?
+If one were to imagine each of the four relational modes as represented by a different
+colour (say red, yellow, green, and blue), then judging the „value‟ of the tapestry by the
+amount of thread of a single colour it contains, say red, does not appear to be a sensible
+activity (although, technically, it would be „rational‟). If such a comparative rule were to
+be applied to the creation of new tapestries, or the „improvement‟ of existing tapestries,
+then the result would be to attempt to create a new tapestry comprising only of the
+colour to be maximised, or to „improve‟ an existing tapestry either by surrounding it
+with a dense border of this colour, or to unpick existing threads in the „wrong‟ colours
+and replace them with threads of the „right‟ colour.
+Imagine, now, that one colour is easier to see, to measure, to record, than the others. In
+this case. Even though all colours are necessary for a rich tapestry, only reds appear a
+vibrant red; all other colours instead appear the same shade of drab, monochrome grey.
+Someone with this form of selective colour-blindness may well behave exactly as a
+robot applying the colour-maximising rule described above. Instead of seeing her
+actions as being a manifestation of a kind of absurd myopia, however, she would
+believe herself to be providing vibrancy and colour to something that before was dull
+and uninspiring.
+115
+
+Polanyi, K. (2001 [1957]). The Great Transformation: The Political and Economic Origins of Our Time.
+Boston, Beacon Press., p. 47
+
+
+The danger of having a set of political metrics that can only observe and only seriously
+attempts to measure one of the four relational models, one of the four economic
+patterns, is directly analogous to this selectively colour-blind weaver.

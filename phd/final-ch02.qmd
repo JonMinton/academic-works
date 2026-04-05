@@ -1,0 +1,616 @@
+---
+title: "Chapter 2: Organisms, Decisions and Emotions: Some Theories of Very Small Scale Social Phenomena"
+---
+
+::: {.archive-notice}
+**Source:** Pages 23--39 of *MintonThesis.pdf* (September 2009). Text extracted from PDF; figures extracted directly as images.
+:::
+
+2 Organisms, Decisions and Emotions: Some Theories of
+Very Small Scale Social Phenomena
+2.1 Introduction
+The topics covered within this chapter are perhaps the least intuitive of those covered
+within the entire thesis, and as such this chapter may be more challenging than many of
+those that follow. Paradoxically, this is because the contents of this chapter include the
+topic of intuition itself: what it is and how it emerged. This is because having intuitions
+-- as well as feelings, suspicions, beliefs, thoughts, and habits -- is part of what it means
+to be members of a particular type of complex organism (human beings), and this
+chapter is about organisms, both in the more specific sense of the human organism, and
+in a more general sense. It considers the ontology, the essential features and qualities, of
+„the organism‟ as a particular way of thinking about structures and relationships
+between elements. The purposes of this chapter include:
+1. To highlight the extent to which conscious acts such as thinking, seeing,
+imagining, and deciding are related to, and dependent upon, unconscious acts
+such as breathing, sensing, feeling, and responding.
+2. To suggest the mutually interdependent relationship between „higher‟ mental
+functions (those of which we are conscious) and „lower‟ mental functions
+(those of which we are not conscious), and thus to make the case that, in order
+to understand the operation of „higher‟ functions, „lower‟ functions must also
+be understood.
+3. Following from the previous point, to illustrate the importance of emotional
+responses in decision-making; and conversely, to present the theory that aspects
+of the brain and body function as emotional „simulators‟ (or emotional-stimulus
+replicators).
+4. To suggest some adaptive benefits, and thus the selective forces, that may lead
+to the development of „higher‟ mental functions.
+5. To illustrate the extent to which the majority of individuals‟ behaviours,
+actions, and performances are automated and unconscious, rather than
+consciously evaluated and pre-selected; as a corollary, to indicate the extent to
+which consciousness -- and choice-making (a conscious act) -- may be thought
+of, from the perspective of the organism, as a „burden‟ to be avoided where
+possible, rather than as something to be „sought‟ or „maximised‟.
+
+6. To present a conceptual distinction, and description of the relationship, between
+the „organism‟ and the „environment‟; and between the „subject‟ and the
+„object‟.
+In order to avoid having to do the additional work of developing a conceptual and
+terminological lexicon, as well as learning a new set of theories, this discussion will be
+anchored around the theories and descriptions provided by a single theorist, the
+neuroscientist Antonio Damasio, and on accounts presented within his book, The
+Feeling of What Happens4.
+By detailing the essential qualities of organisms, I will present not just a relatively novel
+description of social beings, but also a set of concepts and associated terminology,
+derived from analysis of one kind of emergent phenomena, which may be of use in later
+chapters when attempting to understand other phenomena. In particular, within later
+chapters I will attempt to identify similarities between the functioning of (very-small
+scale) biological organisms and (large scale) bureaucratic organisations. Illustrative
+questions include:
+To what extent do legal documents perform similar tasks within organisations as
+emotions do within organisms?
+To what extent do organisational roles and management hierarchies have similar
+information-processing qualities as those observed within organisms?
+To what extent do both organisms and organisations „learn‟, and become
+„habituated‟ to respond to particular forms of (external) environmental stimuli in
+the same ways?
+To what extent are organisations like organisms in their quest for self-replication
+and self-preservation?
+
+2.2 Health Inequalities and Human Physiology
+To begin with, consider the following description of the „psychosocial model‟ of health
+inequalities:
+The original ideas behind [the psychosocial model] were based on the existence
+of two types of response to external threats shared by both humans and other
+animals. ... The most well known ... is the so called „fight or flight‟ response.
+
+4
+
+Damasio, A. R. (2000). The feeling of what happens : body and emotion in the making of consciousness.
+London, W. Heinemann.
+
+
+The body received alarm messages from the brain that can be thought of as
+activating one or other of two „response circuits‟ [...]
+[The sympathetic-adrenomedullary circuit] involves the sympathetic
+nervous system, which, in balance with the parasympathetic nervous system, is
+responsible for much of what goes on in a routine way in the body without
+conscious awareness. They govern how fast the heart is beating, response to
+changes in outside temperature (shivering, sweating) and the pH (acidity) level
+of the blood, for example. Sympathetic nervous stimulation releases adrenaline
+from the adrenal medulla, and at the same time the ends of the sympathetic
+nerves themselves release noradrenaline. This prompts the release into the
+bloodstream of fibrinogen, a substance that helps blood to clot more easily. At
+the same time, the heart rate and blood pressure rise, and the small blood vessels
+(capillaries) nearest to the skin narrow sharply. This would prevent excessive
+blood loss from a wound, but it also has the effect of raising the blood pressure.5
+To use terms and concepts which will be described in more detail later in the chapter,
+one could say the following: the release of fibrinogen, the increase in heart rate and
+blood pressure, the narrowing of capillaries -- are all automatic, unconscious
+components of what Damasio calls "complex, stereotyped patterns of response"6,
+known collectively as an „emotion‟ -- and are the chronic, proximate causes of heart
+diseases which exhibit a well observed and consistent social gradient. One can treat
+such proximate causes -- for example, through the consumption of aspirin, which thins
+the blood -- in order to counter the „abnormal‟, physiological imbalance of the human
+organism. However, following the logic of the psychosocial hypothesis, this
+„abnormality‟, within the blood of the organism, results directly from a normal response
+to an abnormal environment.
+From the perspective to be developed within this chapter, the above can be understood
+by thinking about the relationship between a biological organism and an aspect of the
+environment inhabited by the organism; for reasons to be made clear, we can refer to
+„the aspect of the environment‟ as an „object‟, and name this particular type of object a
+„Stressor‟.
+
+5
+
+Bartley, M. (2004). Health Inequality: an introduction to theories, concepts, and methods. Cambridge,
+Polity Press. pp. 80-1
+6
+Damasio, A. R. (2000). The feeling of what happens : body and emotion in the making of consciousness.
+London, W. Heinemann. p. 55
+
+
+The biological organism is in this case a „human being‟, one of „us‟ at the most
+fundamental physiological, emotional, cognitive and existential level. We would thus
+lose something of the substantive implications of this perspective if we were to refer to
+this organism in a way which implies an ontological „otherness‟ („they‟, „it‟). Instead, as
+„we‟ are „the organism‟, the above passage, a technical description of human
+physiology, begins to assume a tragic quality: We are made conscious of our emotional
+responses to different social situations, in order that we can make decisions about how
+to act in order to move away from the negative environmental aspects -- „Stressors‟, in
+this case -- and towards positive environmental aspects. However, we exist in a social
+environment where such Stressors are all-pervasive. Our awareness of our emotions
+means that we know we should move away from the Stressors, but the environment is
+such that we cannot.
+The use of the first-person plural within the above discussion is intended to suggest both
+what may be at stake, and what might be gained, from temporarily adopting an
+organism-centred perspective to social and societal issues, as opposed to the more
+intuitive individual- and group-centred perspectives we are likely to adopt in every-day
+life. Once the behaviours and sensations of the individual, and the sense of being an
+individual, are understood to be largely explicable in terms of, and often appear
+consequences of, the properties and functions of the organism, then the extent to which
+being able to make a gestalt shift in perspective, from that of the individual, to that of
+the organism, can aid our understanding of social, sociological, and societal phenomena
+becomes clearer.
+
+2.3 The Individual and the Organism
+To help make this transition, I will briefly consider an apparently esoteric and abstract
+problem usually addressed only by philosophers: the nature (and the notion) of „self‟. In
+Bertrand Russell‟s History of Western Philosophy, when discussing the French
+philosopher René Descartes‟ famous assertion "Cogito, ergo sum" ("I think, therefore I
+am"), he suggests the statement is problematic because „I‟ (the „--o‟ part of „cogito‟) is
+undefined. Instead, suggests Russell, the statement should simply assert that "there are
+thoughts".7 William James, a few decades earlier, made a similar observation within his
+book The Principles of Psychology. 8
+
+7
+
+Russell wrote that:
+Descartes's indubitable facts are his own thoughts -- using 'thought' in the widest possible
+sense. 'I think' is his ultimate premise. Here the word 'I' is really illegitimate; he ought to state
+
+
+It is astonishing what havoc is wrought in psychology by admitting at the outset
+apparently innocent suppositions that nevertheless contain a flaw. The bad
+consequences develop themselves later on, and are irredeemable, being woven
+through the whole texture of the work. ... The only thing which psychology has a
+right to postulate at the outset is the fact of thinking itself, and that must first be
+taken up and analyzed. [...]
+The first fact for us, then, as psychologists, is that thinking of some sort goes on.
+... If we could say in English „it thinks,‟ as we say „it rains‟ or „it blows,‟ we
+should be stating the fact most simply and with the minimum of assumption. As
+we cannot, we must simply that that thought goes on.
+If accepting the concept of self is more problematic than accepting the concept of
+thinking, then this raises a new question: What is it that is doing the thinking? The
+problem of what is thinking led Damasio to suggest the following:
+How do we ever know that we are seeing a given object? How do we become
+conscious in the full sense of the word? How is the sense of self in the act of
+knowing implanted in the mind? The way into a possible answer for the
+questions on self came only after I began seeing the problem of consciousness in
+terms of two key players, the organism and the object, and in terms of the
+relationships those players hold in the course of their natural interactions. The
+organism in question is that within which consciousness occurs; the object in
+question is any object that gets to be known in the consciousness process; and
+the relationships between organism and object are the contents of the knowledge
+we call consciousness. Seen in this perspective, consciousness consists of
+constructing knowledge about two facts: that the organism is involved in relation
+to some object, and that the object in the relation causes a change in the
+organism.9
+When a change occurs within an organism, as a result of its relationship with a
+particular object, Damasio suggests the organism experiences an „image‟ of the object.
+
+his ultimate premise in the form 'there are thoughts'. The word 'I' is grammatically convenient,
+but does not describe a datum.
+Russell, B. (2000 [1946]). History of Western Philosophy. London, Routledge. p. 550
+8
+James, W. (1890). The Principles of Psychology. New York, Dover. pp. 224-5
+9
+Damasio, A. R. (2000). The feeling of what happens : body and emotion in the making of consciousness.
+London, W. Heinemann. pp. 19-20
+
+
+In this case, he uses the term „image‟ as a synonym for „mental pattern‟,10 and by this
+usage an „image‟ generalises beyond visual patterns, referring equally, for example, to
+tactile patterns (the sensation of being touched by a feather, or of a spider crawling
+along one‟s skin), auditory patterns (the sound of a police siren speeding away on a
+nearby street), olfactory patterns (the smell of roses or fetid gorgonzola), or any other
+form of sensory pattern.
+The organism does not have to be conscious of an image, or even be capable of
+consciousness, in order to experience the image, because an image of an object is
+simply the organism‟s subjective response to the object. (Therefore, if there were no
+organisms, there would be no objects, and no images.) There are some images that the
+organism is conscious of experiencing, and others that the organism is not. Whether
+subjectively experienced or not, biological correlates of images may -- in theory, but not
+always in practice -- be observed by third parties. Examples of such correlates include:
+changes in the skin‟s electrical conductance; changes in the form -- pattern, shape,
+intensity, duration -- of electromagnetic field surrounding the skull. From Damasio‟s
+perspective, all subjective mental images could, in theory, be shown to be perfectly
+correlated with a given objective pattern of biological activity.
+
+2.4 Organisms and Boundaries
+The term „organism‟ itself is perhaps even more difficult, but at least as important, to
+understand. Most fundamentally, the concept of an „organism‟ (much like that of an
+„organisation‟, covered later in the thesis), is dependent upon "the definition of their
+boundary, the separation between that is in and what is out."11
+The structure of the organism is inside the boundary and the life of the organism
+is defined by the maintenance of internal states within the boundary. Singular
+individuality depends on the boundary.12
+Damasio then states that "even when large variations occur in the environment that
+surrounds an organism, there is a dispositional arrangement in the organism‟s structure
+that modifies the inner workings of the organism."13
+
+10
+
+Ibid. p. 317
+Damasio, A. R. (1995). Descartes' error : emotion, reason and the human brain. New York, Avon Books.
+pp. 135-6
+12
+Ibid., pp. 135-6
+13
+Ibid., pp. 135-6
+11
+
+
+The dispositional arrangement ensures that the environmental variations do not
+cause a correspondingly large and excessive variation of activity within. When
+variations that trespass into a dangerous range are about to occur, they can be
+averted by some preemptive action; and where dangerous variations have
+already occurred, they can still be corrected by some appropriate action.14
+The process by which a living system or organism comes to maintain its nonequilibrium stable state is called homeostasis. As Damasio explains:
+Homeostasis refers to the coordinated and largely automated physiological
+reactions required to maintain stable internal states in a living organism.
+Homeostasis describes the automatic regulation of temperature, oxygen
+concentration, or pH in your body.15
+From this perspective, organisms are thus fundamentally a form of homeostatic system,
+which use a series of internal feedback loops to self-regulate and maintain a nonequilibrium stable state with respect to a variety of qualities that exist within the
+organism. Once the internal structure of the organism loses its functional integrity, and
+can no longer maintain the differential boundary between itself and that which
+surrounds it, then, by this definition, it ceases to be alive.
+
+2.5 Organisms as Abstract Machines
+In asserting that the organism functions as a homeostatic system, the claim is implicitly
+being made that the organism represents a particular form of -- to use a term Manuel De
+Landa attributes to Giles Deleuze and Felix Guattari -- „abstract machine.‟16 This may be
+thought of, heuristically, as a formal specification of a set of relationships between
+components, but not of the materials out of which the components are constructed. For
+example, both an unopened bottle of wine and an unopened tin can may be thought of as
+different instantiations of the same abstract machine „closed container‟, which defines a
+relationship --that may be formally specified topologically - between three components:
+„contents‟, „boundary‟, and „outside‟. These abstract machine components may be
+thought to „exist‟ to the extent that one can perform isomorphic „mapping‟ between
+substrates: „the glass is to the bottle as the tin is to the can‟, „the wine is to the bottle as
+14
+
+Damasio, A. R. (2000). The feeling of what happens : body and emotion in the making of
+consciousness. London, W. Heinemann. pp. 135-6
+15
+Damasio, A. R. (1995). Descartes' error : emotion, reason and the human brain. New York, Avon
+Books.., pp. 40-41
+16
+See De Landa, M. (2000). A Thousand Years of Nonlinear History. New York, Swerve. esp. pp. 57-70
+
+
+the baked beans are to the can‟, and so on. The names given to enterprises which
+attempt to describe and understand this form of abstract machine, the homeostatic
+system, include „systems theory‟, „control theory‟ and „cybernetics‟.
+To recapitulate: from a cybernetics perspective, a system could be considered to be
+„alive‟ if it manages, through feedback loops and mechanisms within its internal
+structure, to maintain a non-equilibrium stable state, with regard to a set of definable
+and measurable properties, and with respect to that which is external to it (the
+environment). The „equilibrium‟ refers to the normal state of the environment with
+respect to those properties by which the „living system‟ and environment differ.
+Functionally, „the boundary‟, by which the living system or organism is defined, refers
+to a significant and systematic difference between the conditions of a given range of
+properties - moisture content, pH levels, electrical activity and so on - between that
+which is outside (the environment) and that which is inside (the organism).
+
+2.6 Objects and Emotions
+An object is an aspect of the environment that has been differentiated from others by an
+organism. Even without consciousness, the organism can objectify aspects of the
+environment by producing systematically different responses to different environmental
+aspects (i.e. produce images of the objects). For example, towards some aspects of the
+environment, the organism may shrink, and to others it may swell. In this example the
+former environmental aspect would be, from the perspective of the organism, a „shrinkinducing‟ object, whereas the latter would be a „swell-inducing‟ object.
+At the most basic level, an emotion is a response to an object. Within the hypothesised
+organism above, shrinking and swelling are, effectively, emotions. Damasio asserts that
+"emotions are part and parcel of the regulations we call homeostasis."17 In the ShrinkSweller, one may presume, the emotional responses of shrinking and swelling may
+allow better regulation of core temperature when the external temperature of the
+environment decrease, in the cases of shrinking, or increases rapidly, in the case of
+swelling.
+
+17
+
+Damasio, A. R. (2000). The feeling of what happens : body and emotion in the making of
+consciousness. London, W. Heinemann., p. 41
+
+
+2.7 Feelings and Self
+Decision-making requires a conscious, reasoning self. Damasio suggests the faculties
+for reason and consciousness emerge atop a biological hierarchy of increasingly
+complex biological and regulatory processes, as shown in 
+
+![Levels of Life Regulation](images/fig-021.png){#fig-2-1}
+
+Figure 2.1 below.
+
+Figure 2.1 Levels of Life Regulation
+(Redrawn from Damasio 2000, p. 55)
+
+Note that the arrows of causal influence, from highest to lowest level, run in both
+directions. In order for an emotion to become a feeling, there needs to exist the
+biological machinery for signalling, in one part of the organism, that an emotion is
+occurring in another part. Such signals can then be relayed to the non-emotive part of
+the organism, and the appropriate emotional response generated.
+To continue with the example of the Shrink-Sweller, a shrink-inducing object may
+induce an emotional response through direct contact with one side of the organism. This
+change in the internal state of that side of the organism could then, through a sequence
+of internal causal influence, lead to a similar emotional response within the rest of the
+
+organism. If the sequence of internal causal influence is systematic in its behaviour in
+response to the change in the emotional state within an aspect of the organism, then this
+causal sequence functions as a signalling mechanism within the organism. This internal
+signalling, in response to emotional change, is the core quality of feeling. This particular
+pattern of signalling responses, resulting from the organism‟s contact with the object, is
+what Damasio refers to as an image; the Shrink-Sweller organism thus has an „image‟
+of shrink-inducing objects, and an „image‟ of swell-inducing objects.
+
+2.8 Centralisation and the Proto-self
+An early prerequisite for the sense of self is the emergence of a complex, holistic system
+of emotional identification and signalling within the organism. This is the function of
+the central nervous system. With internal sensory centralisation, the emotional
+responses -- complex, unconscious behaviours -- of the entire organism can come to be
+coordinated, and where such coordination of activity is evolutionary advantageous such
+trends towards sensory centralisation develop. The sense of self depends upon the
+capacity of the organism to behave coherently as a single entity, and respond
+systematically, effectively and in a coordinated fashion to changes in any of its aspects.
+When an organism becomes centrally connected in this way, it becomes meaningful to
+consider the organism to be an object with respect to itself. (To recall, an „object‟ has
+here been defined as something which may have systematic influence upon the
+organism. With a central nervous system, which relays changes in the emotional state of
+any aspect of the organism, the organism comes to yield a coherent, systematic, unified
+response upon itself.)
+
+2.9 Emotions and Decision-making
+Given the above discussion, I am now in a better position to start to understand the
+process of decision-making, and the relationship between decision-making and
+emotions. This relationship should not be underestimated. As Damasio states, "emotion
+is integral to the processes of reasoning and decision making, for worse and for
+better."18
+From this perspective, the faculty of decision-making relates intimately to the
+prediction, generation, and evaluation of differing emotional states under a variety of
+hypothesised environmental circumstances. The capacity to reason is thus ultimately
+dependent upon, and in service to, the capacity to know and compare feelings. The
+18
+
+Ibid., p. 41
+
+
+faculty for reason thus does not, and cannot, exist without emotion (which itself cannot
+exist without complex life). As Damasio states, "the engines of reason still require
+emotion, which means that the controlling power of reason is often modest."19
+Thoughts, elements of the reasoning process, come to generate dispositional memories
+of how the organism, the biological predicate of the self, tends to respond to a given
+object.
+There is no such thing as pure perception of an object within a sensory channel
+... They perceive an object ... the organism requires both specialized sensory
+signals and signals from the adjustment of the body, which are necessary for
+perception to occur. [...]
+The statement also holds true when you are simply thinking of an object rather
+than actually perceiving it in the world outside your organism. ... The records we
+hold of the objects and events that we once perceived include the motor
+adjustments we made to obtain the perception in the first place and also include
+the emotional reactions we had then. [Emphasis added].
+
+[E]ven when we
+
+"merely" think about an object, we tend to reconstruct memories not just of a
+shape or color but also of the perceptual engagement the objects required and of
+the accompanying emotional reactions, regardless of how slight. ... [T]he images
+you form in your mind always signal to the organism its own engagement with
+the business of making images and evoke some emotional reactions. You simply
+cannot escape the affectation of your organism, motor and emotional most of all,
+that is part and parcel of having a mind.20
+[…]
+Now let us turn to the case of an object that is not actually present but has,
+rather, been committed to memory. According to my framework, the memory of
+that object has been stored in dispositional form. Dispositions are records which
+are dormant and implicit rather than active and explicit, as images are. Those
+dispositional memories of an object that was once actually perceived include not
+only records of the sensory aspects of the object ... but also records of the motor
+adjustments that necessarily accompanies the gathering of the sensory signals;
+
+19
+20
+
+Ibid., p. 58
+Ibid. pp. 147-8, emphasis in original unless otherwise stated
+
+
+moreover the memories also contain records of the obligate emotional reaction
+to the object. As a consequence, when we recall an object, when we allow
+dispositions to make their implicit information explicit, we retrieve not just
+sensory data but also accompanying motor and emotional data. When we recall
+an object, we recall not just sensory characteristics of an actual object but the
+past reactions of the organism to that object.21
+The image of the object is re-imagined, and through this the dispositional tendencies of
+the organism in response to the object come to be remembered (and thus to some extent
+involuntarily „performed‟).
+
+2.10 The As-if-body-loop
+If mindfulness and consciousness perform, ultimately, the function of selecting from a
+limited range of potential behaviours, a limited proportion of the time, it follows that the
+vast majority of one‟s behaviours are not consciously determined at all. Instead, they
+exist as unconscious, predetermined patterns of behaviour, of varying levels of
+complexity, in response to particular „stimuli‟. If this process of remembering were to
+continually involve the entire body, the process could be expensive, in terms of both
+time and other resources (because, in this case, deciding would require rapid and
+substantial alteration of the body‟s electro-chemical and physiological functioning).
+Thus, in order to make the process of reasoning „cheaper‟, faculties of the brain develop
+which simulate the responses of the rest of the body to a given object.
+Thoughts entering this „as-if-body-loop‟, as Damasio calls it, thus induce the same
+kinds of response within the periphery of the brain, from the perspective of the decisionmaking aspects of the brain, as would comparable signals from the brain to the rest of
+the body. Much of the brain thus behaves as a kind of emotional simulator, a cognitive
+laboratory under which various what-if scenarios, involving different relationships
+between objects, may be compared in order to assess their likely effects upon the
+organism.
+
+2.11 From Memories and Dispositions to Habits and Habitus
+The previous sections have described, from a neurological perspective, how decisions
+are made. In doing so, it has illustrated the extent to which unconscious processes predominate both our responses to, and understanding of, our environment, and our
+conscious decisions to aspects thereof. Understanding individual and group behaviours
+21
+
+Ibid. pp. 160-1, emphasis added
+
+
+may often be more a matter of understanding the decisions people don‟t make than the
+decisions that they do.
+Recall from Figure 2.1 that the majority of processes performed by the human organism
+are below the level of consciousness, and also that the causal arrows -- from „high‟ to
+„low‟ processes -- go in both directions. This makes sense if one thinks about it: bring to
+one‟s mind and linger upon a vivid memory of a time one was scared, and within
+seconds this act of „high reason‟ has permeated downwards through the levels, rekindling a sense of the feeling of fear (initially just within the as-if-body loop), then
+inducing a genuine whole-body emotion, which in turn leads to changes in the
+performance of aspects of one‟s basic physiology (faster breathing, greater perspiration,
+and so on); the low level physiological change may then permeate back upwards,
+heightening the strength of the emotional response, which then amplifies the feeling
+(which now occurs throughout the entire body, rather than just within the as-if-body
+loop), which in turn makes the fearful memory even more vivid.
+Conscious acts also enter the realm of the unconscious by generating dispositional
+tendencies within the organism; more colloquially, these may be termed „habits‟, and
+may be thought of as complex patterns of behaviour acquired through experiences.
+Although the division is far from absolute, the capacity to acquire habits or dispositions
+is something that separates people from most other types of organism. As William
+James wrote:
+Man22 is born with a tendency to do more things than his has ready-made
+arrangements for in his nerve-centres. Most of the performances of other animals
+are automatic. But in him the number of them is so enormous, that most of them
+must be the fruit of painful study. If practice did not make perfect, nor habit
+economize the expense of nervous and muscular energy, he would therefore be
+in a sorry plight.23
+Being „too conscious‟, therefore, of the vast and complex array of repertoires one needs
+to perform in order to function on a day-to-day basis, is likely to severely impede the
+extent to which one can perform such repertoires, and so function effectively. And as
+
+22
+
+The reader will hopefully forgive the archaic use of male nouns and pronouns to refer to both males
+and females.
+James, W. (1890). The Principles of Psychology. New York, Dover. p. 113
+
+
+James then explained: "habit diminishes the conscious attention with which our acts are
+performed.24" He continues:
+One may state this abstractly thus: If an act requires for its execution a chain, A,
+B, C, D, E,F,G, etc., of successive nervous events, then in the first performances
+of the action the conscious will must choose each of these events from a number
+of wrong alternatives that tend to present themselves; but habit soon brings it
+about that each event calls up its own appropriate successor without any
+alternative offering itself, and without any references to the conscious will, until
+at last the whole chain, A, B, C, D, E, F, G, rattles itself off as soon as A occurs,
+just as if A and the rest of the chain were fused into a continuous stream.25
+As a tangible example of the above process, James offered the following illustration:
+The writer well remembers how, on revisiting Paris after ten years‟ absence,
+and, findings himself in the street in which for one winter he had attended
+school, he lost himself in a brown study, from which he was awakened by
+finding himself upon the stairs which led to the apartment in a house many
+streets away in which he had lived during that earlier time, and to which his
+steps from the school had then habitually led. We all of us have a definite
+routine manner of performing certain daily offices [...]. Our lower centres know
+the order of these movements, and show their knowledge by their „surprise‟ if
+the objects are altered so as to oblige the movement to be made in a different
+way. But our higher thought-centres know hardly anything about the matter.26
+Just as James‟ discussion of habits can be called upon to highlight the relationship
+between „higher functions‟ of the human organism and every-day individual behaviours
+and experiences, so Pierre Bourdieu‟s concept of habitus can be used to link individual
+habits with social groups. As an editor‟s introduction to an volume of Bourdieu‟s essays
+describes the concept:
+The habitus is a set of dispositions which incline agents to act and react in
+certain ways. The dispositions generate practices, perceptions and attitudes
+which are „regular‟ without being consciously co-ordinated or governed by any
+„rule‟. The dispositions generate practices, perceptions and attitudes which are
+
+Ibid. p.114, emphasis in the original
+Ibid. p. 114, emphasis added
+Ibid., p. 115, emphasis added
+
+
+„regular‟ without consciously co-ordinated or governed by any „rule‟. The
+dispositions which constitute the habitus are inculcated, structured, durable,
+generative and transposable -- features that each deserve a brief explanation.
+Dispositions are acquired through a gradual process of inculcation in which
+early childhood experiences are particularly important. Through a myriad of
+mundane processes of training and learning ... the individual acquires a set of
+dispositions which literally mould the body and become second nature. The
+dispositions produced thereby are also structured in the sense that they
+unavoidably reflect the social conditions within which they are acquired. ...
+[T]he similarities and differences that characterize the social conditions of
+existence of individuals will be reflected in the habitus, which may be relatively
+homogeneous across individuals from similar backgrounds. Structured
+dispositions are […] ingrained in the body in such a way that they endure
+through the life history of the individual, operating in a way that is preconscious and hence not readily amenable to conscious reflection and
+modification [and] are generative and transposable in the sense that they are
+capable of generating a multiplicity of practices and perceptions in fields other
+than those in which they were originally acquired. As a durably installed set of
+dispositions, the habitus tends to generate practices and perceptions, works and
+appreciations, which concur with the conditions of existence of which the
+habitus is itself the product.27
+In any case, the extent to which broader social factors systematically shape individual
+habits and dispositions, and the extent to which the capacity for persons to embody
+dispositions is dependent upon the qualities of the „human organism‟ -- what we have in
+common with, and what makes us (mostly) distinct from, other forms of „organism‟ --
+should now be clear. A rudimentary understanding of physiology and neurobiology can
+thus be very useful in helping to understand problems that occur at the levels of human
+individuals, groups of individuals, and larger scale groups of groups.
+
+2.12 Conclusion: Sketching an Abstract Machine
+This chapter has considered organisms both in the specific sense of the human
+organism, and in a more general sense, of „the organism‟ as a particular form of
+
+
+Thompson, J. B. (1992). Editor's Introduction. Language and Symbolic Power. J. B. Thompson. Oxford,
+Polity Press: 1-31. pp. 12-13, emphasis in original.
+
+
+„abstract machine‟. From the more general perspective, the „the human organism‟
+represents just one out of many possible instantiations.
+To what extent could „the organism as abstract machine‟ -- a particular, scientific way
+of thinking about types of relationship between types of elements -- be usefully extended
+beyond the realm of biological phenomena, and used to gain insight into sociological
+phenomena? Based on the above, here is a preliminary, and highly speculative, list of
+defining qualities of the organism-as-abstract-machine:
+1. A salient and meaningful definition of a boundary, demarcating an „inside‟ from
+an „outside‟, which does predictive work in allowing observers to infer
+systematic differentials between the conditions on either side of the boundary
+with respect to a number of specifiable properties.
+2. Organisms may be of markedly differing sizes, but are composed of (for the
+purposes of analysis) irreducible elements known as „cells‟.
+3. The overall purpose of an organism is homeostasis: the maintenance of the
+boundary defining inside from outside, and thus the establishment of an
+obdurate coherence in structure.
+4. As the size of (the number of cells contained within) the organism increases, so
+there is a tendency for two concurrent changes to occur with respect to the
+relationship between, and the performances of, individual cells: Firstly, for the
+degree of organism centralisation -- the extent to which experiences encountered
+by aspects of the organism affect the entire organism -- to increase; and
+secondly, for increasing functional specialisation of individual cells, with a
+cell‟s particular function determined primarily by its relationship with other
+cells, and with the organism boundary. These two concurrent properties may be
+thought heuristically as defining the organism‟s complexity.
+5. Within more complex organisms, centralisation allows more rapid information
+transfer between cells throughout the organism, and thus greater co-ordination of
+the organism as a whole. With centralisation, an internal command-and-control
+structure emerges. As the possible variety of specialised functions undertaken
+by any particular cell within an organism increases, so some cells (in the
+biological organism, those in the brain/central nervous system) take on the
+exclusive task of information processing, and others information transfer.
+However, the information reaching these central control cells is heavily filtered
+
+
+and mediated by intermediate cells, and only an abstracted fraction of the
+information available to the „source‟ cells.
+6. Within more complex organisms, groups of cells may operate (and be
+understood more effectively) as organism sub-systems; each cell within the
+cluster may well exhibit relatively simple behaviour, but collectively exhibit
+more complex behaviour whose internal and external influences are better
+understood by thinking of the cluster as a single unit with a given set of
+properties, than by considering each constituent cell individually.
+7. The vast majority of cells (and sub-systems) tend to exhibit both „autonomous‟
+and „directed‟ modes of operation. When adjacent cells (or sub-systems) are not
+signalling (transferring relevant information) that a particular cell (or subsystem) should do otherwise, the cell (or sub-system) has a default form of
+operation. When particular signals are received, however, the operations
+performed change in a systematic manner.
+This list is by no means exhaustive or systematic, but hopefully highlights which types
+of element and relationship need to be identified in non-biological phenomena in order
+that the abstracted ontology of „the organism‟ can be usefully applied.
+Just as this chapter has considered the unintuitively small, so the next chapter will
+consider the unintuitively large: processes of societal emergence and change that played
+out over large sections of the globe, and over thousands of years.
