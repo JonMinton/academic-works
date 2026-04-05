@@ -8,7 +8,7 @@ title: "Final Submitted Thesis (2009)"
 
 ## Download
 
-The PDF of the final submitted thesis will be made available here once it has been copied from the archive.
+[Download MintonThesis.pdf (4.7 MB, 322 pages)](../downloads/MintonThesis.pdf){.download-btn}
 
 **Title:** *Work and its Other: A Multiple-perspective Analysis of Incapacity Benefit Reform*
 
@@ -17,6 +17,10 @@ The PDF of the final submitted thesis will be made available here once it has be
 **Date:** September 2009
 
 **Pages:** 322
+
+### Post-viva revision (2011)
+
+[Download RevisedMintonThesis.doc (11 MB, 307 pages)](../downloads/RevisedMintonThesis.doc){.download-btn}
 
 ---
 
