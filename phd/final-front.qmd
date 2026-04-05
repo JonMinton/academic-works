@@ -3,856 +3,196 @@ title: "Front Matter"
 ---
 
 ::: {.archive-notice}
-**Source:** Pages 1--16 of *MintonThesis.pdf* (September 2009). Text extracted from PDF; figures extracted directly as images.
+**Source:** Pages 1--16 of *MintonThesis.pdf* (July 2009). Text extracted from PDF.
 :::
 
-University of York
+# Work and its Other: A Multiple-perspective Analysis of Incapacity Benefit Reform
 
-Work and its Other: A Multipleperspective Analysis of Incapacity
-Benefit Reform
-
-Jonathan William Minton
-Department of Sociology
+**Jonathan William Minton**\
+Department of Sociology\
+University of York\
 July 2009
 
-Abstract
-
-This is a thesis of two halves: five „theory‟ chapters and five „empirical‟ chapters,
-prefaced by an introduction, and then followed by a conclusion.
-The five „empirical‟ chapters are based around understanding the development and rollout of a programme of Incapacity Benefits reform known as „Pathways to Work‟, which
-was first introduced in 2002. Pathways to Work has since been implemented in all
-Jobcentre Plus offices across the UK, and so this half of the thesis could be seen as a
-case study of a „successfully implemented‟ government policy.
-The five „theoretical‟ chapters introduce, explain, and interpret a range of theories about
-social processes that operate at various temporal and spatial scales. These theories range
-from the very small scale (human neurobiology) to the very large scale (archaeology
-and biogeography), and conclude with mid-scale theories relating to observed and
-intuitive everyday interpersonal interactions.
-The two halves of the thesis are intended to be complementary, with the „theoretical‟
-half illuminating the „empirical‟ half and the „empirical‟ half illuminating the
-„theoretical‟ half. The thesis concludes by offering a number of policy suggestions, and
-making the complementarity between thesis halves more explicit.
-
-
-List of Contents
-List of Contents ................................................................................................................. 3
-List of Figures ................................................................................................................. 10
-List of Tables ................................................................................................................... 14
-Acknowledgements ......................................................................................................... 15
-Author‟s Declaration ....................................................................................................... 16
-
-
-Introduction .............................................................................................................. 17
-1.1
-
-Theory Section .................................................................................................. 18
-
-1.2
-
-Evidence Section .............................................................................................. 20
-
-1.3
-
-Summary and Conclusion................................................................................. 21
-
-Organisms, Decisions and Emotions: Some Theories of Very Small Scale Social
-
-Phenomena ...................................................................................................................... 23
-
-
-2.1
-
-Introduction ...................................................................................................... 23
-
-2.2
-
-Health Inequalities and Human Physiology ..................................................... 24
-
-2.3
-
-The Individual and the Organism ..................................................................... 26
-
-2.4
-
-Organisms and Boundaries ............................................................................... 28
-
-2.5
-
-Organisms as Abstract Machines ..................................................................... 29
-
-2.6
-
-Objects and Emotions ....................................................................................... 30
-
-2.7
-
-Feelings and Self .............................................................................................. 31
-
-2.8
-
-Centralisation and the Proto-self ...................................................................... 32
-
-2.9
-
-Emotions and Decision-making ....................................................................... 32
-
-2.10
-
-The As-if-body-loop ......................................................................................... 34
-
-2.11
-
-From Memories and Dispositions to Habits and Habitus ................................. 34
-
-2.12
-
-Conclusion: Sketching an Abstract Machine ................................................... 37
-
-Empires, Elites and States: Some Theories of Very Large Scale Social Phenomena
-40
-3.1
-
-Introduction ...................................................................................................... 40
-
-3.2
-
-Evolution and Social Processes ........................................................................ 41
-
-3.3
-
-Food, Social Structure, and Societal Complexity ............................................. 41
-
-3.4
-
-Stages of Societal Complexity.......................................................................... 45
-
-3.5
-
-Societal Complexity and Environmental Carrying Capacity ........................... 48
-
-3.6
-
-Types of Social Problems ................................................................................. 50
-
-3.6.1
-
-Internal Security Problems: The problem of conflict between unrelated
-
-strangers 50
-3.6.2
-
-Internal Logistical Problems: The problem of transferring goods between
-
-members51
-3.6.3
-
-Internal Logistical Problems: Societal Decision Making .......................... 53
-
-3.6.4
-
-External Security Issues: Threat from other states .................................... 53
-
-3.7
-
-Kleptocracy and the Growth of Inequality ....................................................... 55
-
-Obedience and Hierarchy: Some Theories of Small Scale Social Phenomena ....... 59
-4.1
-
-Introduction ...................................................................................................... 59
-
-4.2
-
-Description ....................................................................................................... 61
-
-4.3
-
-The Break-point ................................................................................................ 63
-
-4.4
-
-Predictions ........................................................................................................ 63
-
-4.5
-
-Modes of Response ........................................................................................... 65
-
-4.5.1
-
-
-Performative Morality ............................................................................... 67
-
-4.6
-
-Variations ......................................................................................................... 67
-
-4.7
-
-Summary & Discussion .................................................................................... 74
-
-Bureaucracies and Organisations: Some Theories of Large Scale Social Phenomena
-76
-5.1
-
-Introduction ...................................................................................................... 76
-
-5.2
-
-Weber‟s Anatomy of Bureaucracy ................................................................... 77
-
-5.3
-
-Durable Multi-level Hierarchies ....................................................................... 78
-
-5.3.1
-
-Types of Authority .................................................................................... 81
-
-5.4
-
-Modernity: the transition from traditional to legal rule .................................... 82
-
-5.5
-
-Functionaries and Roles ................................................................................... 85
-
-5.6
-
-Writing, Law and Literacy................................................................................ 90
-
-5.6.1
-5.7
-
-Written Documents as Symbolic Authority Figures ................................. 93
-
-The Self-sustaining Qualities of Bureaucratic Structures ................................ 97
-
-Some theories of observable social phenomena and their implications as
-
-socioeconomic mechanisms .......................................................................................... 101
-
-
-6.1
-
-Introduction .................................................................................................... 101
-
-6.2
-
-Relational Models Theory .............................................................................. 103
-
-6.3
-
-Mode 1: Communal Sharing (CS) .................................................................. 104
-
-6.4
-
-Mode 2: Authority Ranking, and Mode 3: Equality Matching....................... 105
-
-6.5
-
-Mode 4: Market Pricing.................................................................................. 107
-
-6.6
-
-Substantivism ................................................................................................. 109
-
-6.7
-
-Conclusion: Bureaucracies, Metrics, and Modes ........................................... 110
-
-The Emergence of the Work-As-Employment and State-As-Providers Norms .... 112
-7.1
-
-Introduction .................................................................................................... 112
-
-7.2
-
-A Cross-sectional Slice through Contemporary Economic Categorisation.... 112
-
-7.2.1
-
-Technical Documents as Evidence .......................................................... 113
-
-7.2.2
-
-Analysis of Evidence ............................................................................... 121
-
-7.3
-
-Longitudinal
-
-Considerations:
-
-The
-
-Historical
-
-Origins
-
-of
-
-Recorded
-
-Unemployment .......................................................................................................... 127
-7.3.1
-
-The Use of Union Records ...................................................................... 127
-
-7.3.2
-
-Historical Context and „General Employment‟ ....................................... 128
-
-7.3.3
-
-Centralisation and Adaptation ................................................................. 129
-
-7.4
-
-7.4.1
-
-Epistemic Poverty ................................................................................... 132
-
-7.4.2
-
-Gaming the System ................................................................................. 132
-
-7.5
-
-Two Concepts: „Epistemic Poverty‟ and „Gaming the System‟ ..................... 131
-
-Concluding Remarks ...................................................................................... 134
-
-Invalidity Benefit and Incapacity Benefit .............................................................. 135
-8.1
-
-Introduction .................................................................................................... 135
-
-8.2
-
-On the Conditions Under Which the Qualities of Government Benefit (And
-
-Related) Statistics Arose............................................................................................ 135
-
-8.3
-
-Longitudinal Investigations ............................................................................ 137
-
-8.3.1
-
-Sickness and Unemployment Benefits: Some comparisons ................... 139
-
-8.3.2
-
-Exploring Longitudinal Patterns in More Detail ..................................... 140
-
-8.3.3
-
-Longitudinal Comparisons between IVB/IB and other Longitudinal
-
-Statistics 141
-8.3.4
-
-IVB/IB and Working Age Population ..................................................... 142
-
-8.3.5
-
-IVB/IB and Female Working Age Economic Activity ........................... 143
-
-8.3.6
-
-Cohort Effects and Social Class .............................................................. 146
-
-8.4
-
-On the relationship between sickness, employment, and social class amongst
-
-males 148
-8.4.1
-
-Introduction and Summary ...................................................................... 148
-
-8.4.2
-
-Replication .............................................................................................. 149
-
-8.4.3
-
-Correlations ............................................................................................. 154
-
-8.4.4
-
-A Graphical Illustration ........................................................................... 156
-
-8.5
-
-Cross-Sectional Trends and Characteristics ................................................... 157
-
-8.5.1
-
-Introduction ............................................................................................. 157
-
-8.5.2
-
-„Reasons for Inactivity‟ ........................................................................... 158
-
-8.5.3
-
-On the relationship between incapacity benefit claimant levels and state
-
-retirement age......................................................................................................... 159
-8.6
-
-Summary and Discussion ............................................................................... 161
-
-Pathways to Work: Qualitative Descriptions ......................................................... 163
-9.1
-
-Introduction .................................................................................................... 163
-
-9.2
-
-What is Pathways to Work?............................................................................ 164
-
-9.3
-
-Pathways to Work: Plans and Pilot Schemes ................................................. 165
-
-9.4
-
-Key Elements of Pathways to Work ............................................................... 167
-
-9.5
-
-Incapacity Benefit Personal Advisers (IBPAs) .............................................. 171
-
-9.6
-
-Work-Focussed Interviews (WFIs) ................................................................ 176
-
-9.7
-
-The Screening Tool ........................................................................................ 178
-
-9.7.1
-
-Size of the „included middle‟ .................................................................. 180
-
-9.7.2
-
-Micro/Macro-scale Conflicts of Interest ................................................. 181
-
-9.7.3
-
-Notes regarding Targets and Incentives .................................................. 184
-
-9.8
-
-The Condition Management Programme (CMP) ........................................... 185
-
-9.8.1
-
-Notes on „The Bio-psychosocial model‟ and „Illness Behaviour‟ .......... 186
-
-9.8.2
-
-Funding and Provision ............................................................................ 188
-
-9.8.3
-
-Some facts and observations ................................................................... 189
-
-9.8.4
-
-Return to Work Credit (RTWC).............................................................. 191
-
-9.9
-
-Section Summary and Discussion .................................................................. 198
-Pathways to Work: Secondary Analysis of Early Quantitative Evidence of
-
-Programme Effectiveness .............................................................................................. 204
-10.1
-
-Introduction: „The Graph‟ .............................................................................. 204
-
-10.2
-
-Inference ......................................................................................................... 208
-
-10.2.1
-
-The Concept of The Treatment Effect..................................................... 209
-
-10.2.2
-
-Controlling for Variables ........................................................................ 210
-
-10.2.3
-
-Comparisons ............................................................................................ 211
-
-10.2.4
-
-Changes over Time.................................................................................. 212
-
-10.2.5
-
-Combination ............................................................................................ 212
-
-10.3
-
-Inferring Treatment Effects from The Graph ................................................. 213
-
-10.3.1
-
-Axis Scales .............................................................................................. 215
-
-10.3.2
-
-The Rising Trend in Control Regions ..................................................... 216
-
-10.3.3
-
-Shifting Start Dates and Anticipatory Treatment Effects ........................ 217
-
-10.4
-
-Off-flow Rates and Number Needed to Treat ................................................ 218
-
-10.4.1
-
-Proxy Measures and Intended Outcomes ................................................ 220
-
-10.5
-
-Cost Per Successful Intervention: an illustrative approximation.................... 222
-
-10.6
-
-Aggregate Effects ........................................................................................... 224
-
-10.6.1
-
-Heavily Diluted Aggregate: Mixing „Treated Flow‟ with „Untreated
-
-Stock‟
-
-231
-
-10.7
-
-Introducing the Number Needed to Observe (NNO)...................................... 232
-
-10.7.1
-
-Estimating the Number Needed to Observe (NNO)................................ 233
-
-10.8
-
-Subsection Concluding Remarks .................................................................... 237
-
-10.8.1
-
-Concluding Observations Regarding The Graph: 6 Month verses 12
-
-Month Off-Flow Rates ........................................................................................... 238
-
-Pathways to Work: Secondary Analysis of Later Quantitative Evidence of
-
-Programme Effectiveness .............................................................................................. 241
-11.1
-
-Introduction .................................................................................................... 241
-
-11.2
-
-The Policy Studies Report: Methodology ...................................................... 242
-
-11.3
-
-Reported Impact Estimates ............................................................................. 247
-
-11.4
-
-The Motivational Explanation and Employment Outcomes .......................... 252
-
-11.5
-
-Concluding Remarks ...................................................................................... 253
-
-
-Discussions and Conclusion ............................................................................... 255
-
-12.1
-
-Introduction .................................................................................................... 255
-
-12.2
-
-The Five-year Discussion: Evidence-based politics and the rhetorical use of
-
-statistics ..................................................................................................................... 256
-12.2.1
-
-Introduction ............................................................................................. 256
-
-12.2.2
-
-Redefining Purpose and Success ............................................................. 256
-
-12.2.3
-
-Bait and Switch ....................................................................................... 264
-
-12.2.4
-
-Discussion ............................................................................................... 266
-
-12.3
-
-The Thirty-year Discussion: On the nonlinear relationship between „job
-
-fitness‟ (including physical fitness) and employability ............................................. 270
-12.3.1
-
-Introduction ............................................................................................. 270
-
-12.3.2
-
-The Model ............................................................................................... 271
-
-12.3.3
-
-Objections and Provisos .......................................................................... 275
-
-12.3.4
-
-Concluding Remarks ............................................................................... 278
-
-12.4
-
-The Hundred-year Discussion ........................................................................ 280
-
-12.4.1
-
-Introduction ............................................................................................. 280
-
-12.4.2
-
-The Second Epidemiological Transition, Ageing, and Retirement ......... 280
-
-12.4.3
-
-Concluding Remarks: Fair Retirement Ages and Incapacity Benefits .... 288
-
-12.5
-
-Policy Recommendations ............................................................................... 289
-
-12.5.1
-
-Hundred Year Recommendation: Flexible Entry to the Third Age ........ 289
-
-12.5.2
-
-Thirty Year Recommendation: Sheltered Employment .......................... 291
-
-12.5.3
-
-Five Year Recommendation: Technocracy and dispersal of power ........ 294
-
-12.6
-
-Summary and Discussion ............................................................................... 298
-
-12.6.1
-
-Interpretive Summary of the First Half of The Thesis ............................ 299
-
-12.6.2
-
-Theory and Government.......................................................................... 305
-
-12.6.3
-
-Government and Meaning ....................................................................... 307
-
-Appendix: The Screening Tool ..................................................................................... 309
-Glossary......................................................................................................................... 312
-Bibliography .................................................................................................................. 314
-
-
-List of Figures
-Figure 1.1 Relationship between thesis sections and chapters ........................................ 18
-Figure 1.2 Relationship between theory chapters ........................................................... 20
-Figure 1.3 Relationship between evidence chapters ....................................................... 21
-Figure 2.1 Levels of Life Regulation .............................................................................. 31
-Figure 3.1 Two 'modes of living'. ................................................................................... 42
-Figure 3.2 Mergers and Acquisitions. ............................................................................. 55
-Figure 4.1 Milgram's Obedience to Authority experiments: Predicted break-points...... 64
-Figure 4.2 Actual, predicted, and chosen shock levels ................................................... 66
-Figure 5.1 Graphical representation of Charles Tilly's 'codes' ........................................ 95
-Figure 7.1 International Labour Organisation classifications ....................................... 115
-Figure 8.1 'Reasons for Inactivity' ................................................................................. 138
-Figure 8.2 Number of people on benefits, 1979-2005 .................................................. 139
-Figure 8.3 IVB/IB and ILO Unemployment levels within UK, 1975-2007 ................. 140
-Figure 8.4 Working age population and IVB/IB claimant numbers, 1975-2007 .......... 142
-Figure 8.5 IVB/IB claimants per 1000 people of working age, 1975-2007 .................. 143
-Figure 8.6 Numbers of male IVB/IB claimants and female working age economic
-activity rates .................................................................................................................. 144
-Figure 8.7 Female IVB/IB claimants per 1000 male IVB/IB claimants, 1975-2007 .... 145
-Figure 8.8 Index of IVB/IB population to overall working population, for males,
-females, and combined (1975=100) .............................................................................. 146
-Figure 8.9 'Inactivity rates for men with high levels of qualifications [A levels and
-above] by age group and birth cohort; 1986 to 2001‟ (Original image in colour) ........ 147
-Figure 8.10 'Inactivity rates for men with no qualifications by age group and birth
-cohort; United Kingdom; 1986 to 2001' (Original image in colour) ............................ 148
-Figure 8.11 Proportions employed according to socioeconomic group, 1975-2003 .... 150
-Figure 8.12 Proportion employed according to limiting longstanding illness and
-socioeconomic group..................................................................................................... 151
-Figure 8.13 Proportions unemployed according to limiting longstanding illness and
-socioeconomic group..................................................................................................... 152
-Figure 8.14 Proportions inactive according to limiting longstanding illness and
-socioeconomic group..................................................................................................... 153
-Figure 8.15 Suggested relationship between economic activity, personal health and
-economic 'health' ........................................................................................................... 156
-
-Figure 8.16 Reasons for economic inactivity amongst males by age group (Original
-figure in colour) ............................................................................................................. 158
-Figure 8.17 Reasons for economic inactivity amongst females by age group (Original
-figure in colour) ............................................................................................................. 158
-Figure 8.18 Numbers of IB claimants by gender and age group, May 2007 ................ 160
-Figure 8.19 Over- and under-representation of IB claimants at different age groups .. 161
-Figure 9.1 Theory Underlying Screening Tool ............................................................. 180
-Figure 9.2 RTWCs as a proportion of initial WFIs ....................................................... 195
-Figure 9.3 RTWCs as a proportion of recorded job entries .......................................... 197
-Figure 10.1 Six Month Off-flow Rates (Blyth 2006) .................................................... 205
-Figure 10.2 'IB outflow in Pathways pilot districts compared with non-Pathway[sic]
-districts‟ ......................................................................................................................... 206
-Figure 10.3 „Pathways six month off-flow rate by month of benefit start and pilots
-phase‟ (Original image in colour) ................................................................................. 207
-Figure 10.4 '"Pathways to work" increases the off-flow from incapacity benefit (Six
-month off-flow rate, per cent)‟ (Original image in colour) Source and title: Figure 3 of
-OECD (2005) „Economic Survey of the United Kingdom, 2005‟, retrieved 3 July 2009
-from http://www.oecd.org/dataoecd/18/34/35473312.pdf ............................................ 207
-Figure 10.5 '"Pathways to Work" increases the off-flow from incapacity benefit'
-(Original image in colour) ............................................................................................. 208
-Figure 10.6 Examples of the importance of scale ......................................................... 216
-Figure 10.7 Total number of IB/SDA claimants by claimant type, August 1999 - May
-2007 ............................................................................................................................... 226
-Figure 10.8 Total number of IB claimants (including IB Credits but excluding SDA) by
-duration of claim, August 1999 - May 2007 ................................................................. 227
-Figure 10.9 Proportion of all IB claimants (including IB credits, excluding SDA) who
-have been on IB for 5 years or over, August 1999 - May 2007 ................................... 228
-Figure 10.10 Trends in IB numbers by duration of claim, August 1999 - May 2007,
-indexed to November 2003 (Pathways Pilot) levels ..................................................... 229
-Figure 10.11 Trends in IB numbers by type of claim, August 1999 - May 2007, indexed
-to November 2003 (Pathways Pilot) levels ................................................................... 230
-Figure 10.12 New IB claimants (duration of 3 months and under), and Pathways starts,
-August 2005- May 2007 ................................................................................................ 232
-Figure 10.13 New IB claimants (duration of 6 months and under), and Pathways starts,
-November 2005- May 2007 .......................................................................................... 234
-
-Figure 10.14 New claimants (6 months and under) as a proportion of all claimants,
-including Pathways region contributions ...................................................................... 235
-Figure 10.15 '12 Month off-flow rate' Source: Slide 21 of DWP (2007), „Pathways to
-Work: Invitation to Tender Provider Event‟, retrieved 14 May 2007 from
-www.jobcentreplus.gov.uk/JCP/stellent/groups/jcp/documents/websitecontent/dev_013
-465.ppt ........................................................................................................................... 239
-Figure 11.1 'Tests of the counterfactual estimates of incapacity benefits receipt in
-October 2003 areas in the period one year before the introduction of Pathways' ......... 244
-Figure 11.2 'Tests of the counterfactual estimates of incapacity benefits receipt in
-October 2003 areas in the period two years before the introduction of Pathways' ....... 244
-Figure 11.3 'Tests of the counterfactual estimates of incapacity benefits receipt in April
-2004 areas in the period one year before the introduction of Pathways' ....................... 245
-Figure 11.4 'Tests of the counterfactual estimates of incapacity benefits receipts in April
-2004 areas in the period two years before the introduction of Pathways‟ .................... 245
-Figure 11.5 'Tests of the counterfactual estimates of incapacity benefits receipt in April
-2004 areas in the period one year before the introduction of Pathways for those starting
-a claim immediately prior to the introduction of Pathways' ......................................... 247
-Figure 11.6 Estimated impact of Pathways treatment on four mutually exclusive
-outcomes........................................................................................................................ 248
-Figure 11.7 'Impact of Pathways on being off incapacity benefits by month, 2004 areas'
-....................................................................................................................................... 249
-Figure 12.1 Observed and latent variables .................................................................... 258
-Figure 12.2 Graphical representation of empirical/imaged and observed/not observed
-object distinction ........................................................................................................... 259
-Figure 12.3 Example of imagined object as generative rule ......................................... 260
-Figure 12.4 Three measurable indicators supporting the assertion that an 'aspirational
-statement' is valid .......................................................................................................... 261
-Figure 12.5 Pathways Evaluation: Original pairing of technical and aspirational
-assertions ....................................................................................................................... 262
-Figure 12.6 A recursive process leading readers to infer that more empirical objects
-exist in support of an imagined object than are officially stated ................................... 263
-Figure 12.7 Revised argument for the 'success' of Pathways ........................................ 264
-Figure 12.8 Example of job selection process with two candidates for four jobs
-(Original image in colour) ............................................................................................. 272
-
-
-Figure 12.9 Predicted relationship between job 'fitness', number of rivals, and
-employability................................................................................................................. 274
-Figure 12.10 Male mean and variance of age of death, England and Wales, 1841-2005
-....................................................................................................................................... 281
-Figure 12.11 Female mean and variance of age of death, England and Wales, 1841-2005
-....................................................................................................................................... 281
-Figure 12.12 Male mean age of death and state retirement age, England & Wales, 18412005 ............................................................................................................................... 283
-Figure 12.13 Male state retirement age as a 'changing promise' ................................... 285
-Figure 12.14 Estimates of 'Fair' retirement ages based on social class ......................... 287
-
-
-List of Tables
-Table 3.1 Jared Diamond's 'Types of Societies' .............................................................. 46
-Table 4.1 Qualitative interpretation of results to different types of Milgram experiment
-......................................................................................................................................... 70
-Table 5.1 Charles Tilly's 4 types of reasons .................................................................... 97
-Table 6.1 Relationship between terms used by Polanyi & Fiske .................................. 109
-Table 8.1 Pairwise correlation coefficients, employment, inactivity, and unemployment,
-given social class and health, 1973-2003 inclusive....................................................... 155
-Table 9.1 Key Incapacity Benefit events, according to the DWP ................................. 164
-Table 9.2 Pathways evaluations as of 19 March 2008 .................................................. 170
-Table 9.3 'Gains to be realised by those moving into work from an incapacity benefit
-whilst the return-to-work credit is payable ................................................................... 193
-Table 10.1 Six month off-flow rate estimates, control & treatment regions ................. 219
-Table 10.2 Six month off-flow Number Needed to Treat estimates ............................. 219
-Table 10.3 Pathways NNT estimates for employment outcome estimates, assuming 54%
-'conversion' in phase one and 57% in phase two regions .............................................. 221
-Table 10.4 Pathways NNT estimates for employment outcome estimates, assuming 52%
-'conversion' in all regions ............................................................................................. 222
-Table 11.1 'Effect of Pathways on receipt of incapacity benefits - summary measures for
-April 2004 areas', with additional NNT estimates ........................................................ 250
-Table A.1 The Screening Tool ...................................................................................... 310
-
-
-Acknowledgements
-Progress towards completing this thesis has been approximately sigmoid in shape: slow
-in the first year, increasingly fast in the second year ("I think you‟re about six months
-from completion..."), and then slow again in the third year ("...maybe not."). So slow, in
-fact, that the third year stretched over into a fourth year as, well, „other stuff happened‟.
-Sigmoid curves are asymptotic, never quite reaching their destination. I want to
-apologise to my thesis advisory „team‟ -- Roger Burrows, Danny Dorling, and Kate
-Pickett -- for at times making the sigmoid curve look more like prophecy than
-approximation. I also want to thank Roger and Danny for allowing me the opportunity
-to begin the PhD in the first place, and for then allowing it to develop (mutate?) from a
-GIS project to something closer to a work of applied political philosophy.
-I would also like to thank Stuart Adam, Jenny Allen, Kelly Benneworth, Beverly
-Geesin, Roger Bowles, Jonathan Bradshaw, Gill Callaghan, Colin Campbell, Stephen
-Clayton, Thomas Cochrane, Jacqueline Davidson, Richard Dorsett, Paul Drew, JeanBaptiste Gouyon, Steve Hall, Martin Ham, Nicola Holt, Gary King, Richard King,
-Graham Lewis, Daryl Martin, Duncan McVicar, Rob Mellows, Dan Mercea, Andrew
-Oswald, Theo Papadopoulos, Simon Parker, Nicholas Pleace, Darren Reed, Barbara
-Robertson, Roy Sainsbury, Simon Shaw, Phil Stanworth, Charles Tilly, Merran Toerien,
-Emma Uprichard, Roberto de Vogli, Simon Walker, Gemma Warren, Richard
-Wilkinson, Astrid Winkler, and Simon Winlow. Each of these people, I think, has
-contributed towards my thinking about the concepts, facts, and ideas developed over the
-course of the PhD. They, of course, deserve some of the credit but none of the blame for
-what is presented here, which they may disagree with entirely.
-Finally, I would like to thank my mother, Helen Minton, for eagle-eyed proofreading,
-and to her and my father, Nigel Minton, for allowing me to soliloquise at length to them
-about many of the ideas contained within this thesis, even where such soliloquies were
-unsolicited; and to thank Natalie Wheatley, also for proof-reading, and for offering
-persistent encouragement that I "complete and submit it", despite not really knowing
-what „it‟ is.
-
-
-Author's Declaration
-I hereby declare that the material in this thesis is solely my own and has not previously
-been published.
+## Abstract
+
+This is a thesis of two halves: five 'theory' chapters and five 'empirical' chapters, prefaced by an introduction, and then followed by a conclusion.
+
+The five 'empirical' chapters are based around understanding the development and roll-out of a programme of Incapacity Benefits reform known as 'Pathways to Work', which was first introduced in 2002. Pathways to Work has since been implemented in all Jobcentre Plus offices across the UK, and so this half of the thesis could be seen as a case study of a 'successfully implemented' government policy.
+
+The five 'theoretical' chapters introduce, explain, and interpret a range of theories about social processes that operate at various temporal and spatial scales. These theories range from the very small scale (human neurobiology) to the very large scale (archaeology and biogeography), and conclude with mid-scale theories relating to observed and intuitive everyday interpersonal interactions.
+
+The two halves of the thesis are intended to be complementary, with the 'theoretical' half illuminating the 'empirical' half and the 'empirical' half illuminating the 'theoretical' half. The thesis concludes by offering a number of policy suggestions, and making the complementarity between thesis halves more explicit.
+
+## List of Contents
+
+- List of Contents
+- List of Figures
+- List of Tables
+- Acknowledgements
+- Author's Declaration
+
+1. Introduction
+    - 1.1 Theory Section
+    - 1.2 Evidence Section
+    - 1.3 Summary and Conclusion
+2. Organisms, Decisions and Emotions: Some Theories of Very Small Scale Social Phenomena
+    - 2.1 Introduction
+    - 2.2 Health Inequalities and Human Physiology
+    - 2.3 The Individual and the Organism
+    - 2.4 Organisms and Boundaries
+    - 2.5 Organisms as Abstract Machines
+    - 2.6 Objects and Emotions
+    - 2.7 Feelings and Self
+    - 2.8 Centralisation and the Proto-self
+    - 2.9 Emotions and Decision-making
+    - 2.10 The As-if-body-loop
+    - 2.11 From Memories and Dispositions to Habits and Habitus
+    - 2.12 Conclusion: Sketching an Abstract Machine
+3. Empires, Elites and States: Some Theories of Very Large Scale Social Phenomena
+    - 3.1 Introduction
+    - 3.2 Evolution and Social Processes
+    - 3.3 Food, Social Structure, and Societal Complexity
+    - 3.4 Stages of Societal Complexity
+    - 3.5 Societal Complexity and Environmental Carrying Capacity
+    - 3.6 Types of Social Problems
+    - 3.7 Kleptocracy and the Growth of Inequality
+4. Obedience and Hierarchy: Some Theories of Small Scale Social Phenomena
+    - 4.1 Introduction
+    - 4.2 Description
+    - 4.3 The Break-point
+    - 4.4 Predictions
+    - 4.5 Modes of Response
+    - 4.6 Variations
+    - 4.7 Summary & Discussion
+5. Bureaucracies and Organisations: Some Theories of Large Scale Social Phenomena
+    - 5.1 Introduction
+    - 5.2 Weber's Anatomy of Bureaucracy
+    - 5.3 Durable Multi-level Hierarchies
+    - 5.4 Modernity: the transition from traditional to legal rule
+    - 5.5 Functionaries and Roles
+    - 5.6 Writing, Law and Literacy
+    - 5.7 The Self-sustaining Qualities of Bureaucratic Structures
+6. Some theories of observable social phenomena and their implications as socioeconomic mechanisms
+    - 6.1 Introduction
+    - 6.2 Relational Models Theory
+    - 6.3 Mode 1: Communal Sharing (CS)
+    - 6.4 Mode 2: Authority Ranking, and Mode 3: Equality Matching
+    - 6.5 Mode 4: Market Pricing
+    - 6.6 Substantivism
+    - 6.7 Conclusion: Bureaucracies, Metrics, and Modes
+7. The Emergence of the Work-As-Employment and State-As-Providers Norms
+    - 7.1 Introduction
+    - 7.2 A Cross-sectional Slice through Contemporary Economic Categorisation
+    - 7.3 Longitudinal Considerations: The Historical Origins of Recorded Unemployment
+    - 7.4 Two Concepts: 'Epistemic Poverty' and 'Gaming the System'
+    - 7.5 Concluding Remarks
+8. Invalidity Benefit and Incapacity Benefit
+    - 8.1 Introduction
+    - 8.2 On the Conditions Under Which the Qualities of Government Benefit (And Related) Statistics Arose
+    - 8.3 Longitudinal Investigations
+    - 8.4 On the relationship between sickness, employment, and social class amongst males
+    - 8.5 Cross-Sectional Trends and Characteristics
+    - 8.6 Summary and Discussion
+9. Pathways to Work: Qualitative Descriptions
+    - 9.1 Introduction
+    - 9.2 What is Pathways to Work?
+    - 9.3 Pathways to Work: Plans and Pilot Schemes
+    - 9.4 Key Elements of Pathways to Work
+    - 9.5 Incapacity Benefit Personal Advisers (IBPAs)
+    - 9.6 Work-Focussed Interviews (WFIs)
+    - 9.7 The Screening Tool
+    - 9.8 The Condition Management Programme (CMP)
+    - 9.9 Section Summary and Discussion
+10. Pathways to Work: Secondary Analysis of Early Quantitative Evidence of Programme Effectiveness
+    - 10.1 Introduction: 'The Graph'
+    - 10.2 Inference
+    - 10.3 Inferring Treatment Effects from The Graph
+    - 10.4 Off-flow Rates and Number Needed to Treat
+    - 10.5 Cost Per Successful Intervention: an illustrative approximation
+    - 10.6 Aggregate Effects
+    - 10.7 Introducing the Number Needed to Observe (NNO)
+    - 10.8 Subsection Concluding Remarks
+11. Pathways to Work: Secondary Analysis of Later Quantitative Evidence of Programme Effectiveness
+    - 11.1 Introduction
+    - 11.2 The Policy Studies Report: Methodology
+    - 11.3 Reported Impact Estimates
+    - 11.4 The Motivational Explanation and Employment Outcomes
+    - 11.5 Concluding Remarks
+12. Discussions and Conclusion
+    - 12.1 Introduction
+    - 12.2 The Five-year Discussion: Evidence-based politics and the rhetorical use of statistics
+    - 12.3 The Thirty-year Discussion: On the nonlinear relationship between 'job fitness' (including physical fitness) and employability
+    - 12.4 The Hundred-year Discussion
+    - 12.5 Policy Recommendations
+    - 12.6 Summary and Discussion
+
+- Appendix: The Screening Tool
+- Glossary
+- Bibliography
+
+## List of Figures
+
+- Figure 1.1 Relationship between thesis sections and chapters
+- Figure 1.2 Relationship between theory chapters
+- Figure 1.3 Relationship between evidence chapters
+- Figure 2.1 Levels of Life Regulation
+- Figure 3.1 Two 'modes of living'
+- Figure 3.2 Mergers and Acquisitions
+- Figure 4.1 Milgram's Obedience to Authority experiments: Predicted break-points
+- Figure 4.2 Actual, predicted, and chosen shock levels
+- Figure 5.1 Graphical representation of Charles Tilly's 'codes'
+- Figure 7.1 International Labour Organisation classifications
+- Figure 8.1 'Reasons for Inactivity'
+- Figure 8.2 Number of people on benefits, 1979--2005
+- Figure 8.3 IVB/IB and ILO Unemployment levels within UK, 1975--2007
+- Figure 8.4 Working age population and IVB/IB claimant numbers, 1975--2007
+- Figure 8.5 IVB/IB claimants per 1000 people of working age, 1975--2007
+- Figure 8.6 Numbers of male IVB/IB claimants and female working age economic activity rates
+- Figure 8.7 Female IVB/IB claimants per 1000 male IVB/IB claimants, 1975--2007
+- Figure 8.8 Index of IVB/IB population to overall working population (1975=100)
+- Figure 8.9 'Inactivity rates for men with high levels of qualifications by age group and birth cohort; 1986 to 2001'
+- Figure 8.10 'Inactivity rates for men with no qualifications by age group and birth cohort; 1986 to 2001'
+- Figure 8.11 Proportions employed according to socioeconomic group, 1975--2003
+- Figure 8.12 Proportion employed according to limiting longstanding illness and socioeconomic group
+- Figure 8.13 Proportions unemployed according to limiting longstanding illness and socioeconomic group
+- Figure 8.14 Proportions inactive according to limiting longstanding illness and socioeconomic group
+- Figure 8.15 Suggested relationship between economic activity, personal health and economic 'health'
+- Figure 8.16 Reasons for economic inactivity amongst males by age group
+- Figure 8.17 Reasons for economic inactivity amongst females by age group
+- Figure 8.18 Numbers of IB claimants by gender and age group, May 2007
+- Figure 8.19 Over- and under-representation of IB claimants at different age groups
+- Figure 9.1 Theory Underlying Screening Tool
+- Figure 9.2 RTWCs as a proportion of initial WFIs
+- Figure 9.3 RTWCs as a proportion of recorded job entries
+- Figure 10.1--10.15 *(see Chapter 10)*
+- Figure 11.1--11.7 *(see Chapter 11)*
+- Figure 12.1--12.14 *(see Chapter 12)*
+
+## List of Tables
+
+- Table 3.1 Jared Diamond's 'Types of Societies'
+- Table 4.1 Qualitative interpretation of results to different types of Milgram experiment
+- Table 5.1 Charles Tilly's 4 types of reasons
+- Table 6.1 Relationship between terms used by Polanyi & Fiske
+- Table 8.1 Pairwise correlation coefficients, employment, inactivity, and unemployment, given social class and health, 1973--2003
+- Table 9.1 Key Incapacity Benefit events, according to the DWP
+- Table 9.2 Pathways evaluations as of 19 March 2008
+- Table 9.3 'Gains to be realised by those moving into work from an incapacity benefit whilst the return-to-work credit is payable'
+- Table 10.1 Six month off-flow rate estimates, control & treatment regions
+- Table 10.2 Six month off-flow Number Needed to Treat estimates
+- Table 10.3 Pathways NNT estimates for employment outcome estimates (54%/57% conversion)
+- Table 10.4 Pathways NNT estimates for employment outcome estimates (52% conversion)
+- Table 11.1 'Effect of Pathways on receipt of incapacity benefits -- summary measures for April 2004 areas'
+- Table A.1 The Screening Tool
+
+## Acknowledgements
+
+Progress towards completing this thesis has been approximately sigmoid in shape: slow in the first year, increasingly fast in the second year ("I think you're about six months from completion..."), and then slow again in the third year ("...maybe not."). So slow, in fact, that the third year stretched over into a fourth year as, well, 'other stuff happened'. Sigmoid curves are asymptotic, never quite reaching their destination. I want to apologise to my thesis advisory 'team' -- Roger Burrows, Danny Dorling, and Kate Pickett -- for at times making the sigmoid curve look more like prophecy than approximation. I also want to thank Roger and Danny for allowing me the opportunity to begin the PhD in the first place, and for then allowing it to develop (mutate?) from a GIS project to something closer to a work of applied political philosophy.
+
+I would also like to thank Stuart Adam, Jenny Allen, Kelly Benneworth, Beverly Geesin, Roger Bowles, Jonathan Bradshaw, Gill Callaghan, Colin Campbell, Stephen Clayton, Thomas Cochrane, Jacqueline Davidson, Richard Dorsett, Paul Drew, Jean-Baptiste Gouyon, Steve Hall, Martin Ham, Nicola Holt, Gary King, Richard King, Graham Lewis, Daryl Martin, Duncan McVicar, Rob Mellows, Dan Mercea, Andrew Oswald, Theo Papadopoulos, Simon Parker, Nicholas Pleace, Darren Reed, Barbara Robertson, Roy Sainsbury, Simon Shaw, Phil Stanworth, Charles Tilly, Merran Toerien, Emma Uprichard, Roberto de Vogli, Simon Walker, Gemma Warren, Richard Wilkinson, Astrid Winkler, and Simon Winlow. Each of these people, I think, has contributed towards my thinking about the concepts, facts, and ideas developed over the course of the PhD. They, of course, deserve some of the credit but none of the blame for what is presented here, which they may disagree with entirely.
+
+Finally, I would like to thank my mother, Helen Minton, for eagle-eyed proofreading, and to her and my father, Nigel Minton, for allowing me to soliloquise at length to them about many of the ideas contained within this thesis, even where such soliloquies were unsolicited; and to thank Natalie Wheatley, also for proof-reading, and for offering persistent encouragement that I "complete and submit it", despite not really knowing what 'it' is.
+
+## Author's Declaration
+
+I hereby declare that the material in this thesis is solely my own and has not previously been published.
