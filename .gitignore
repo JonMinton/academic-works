@@ -1,0 +1,9 @@
+/.quarto/
+/docs/
+/_site/
+*.html
+!index.qmd
+.DS_Store
+__pycache__/
+*.pyc
+.env

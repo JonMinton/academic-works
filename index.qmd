@@ -1,0 +1,83 @@
+---
+title: "Academic Works"
+subtitle: "Three dissertations spanning Electronic Engineering, Critical Theory, and Sociology"
+---
+
+Before becoming a statistician and data scientist, I pursued an unusual academic path: from Electronic Engineering through Critical Theory to Sociology and Human Geography. These three works trace that intellectual journey.
+
+Each work is presented here as a navigable web document, with the original files available for download where possible. The content has been recovered from CD-ROM and DVD backups spanning 2003--2011, converted from Word documents to this format.
+
+---
+
+::: {.work-card}
+::: {.degree}
+BEng (Hons) Electronic Engineering — 2:1
+:::
+
+### [An Investigation Into Machine Vision Calibration Systems](beng/index.qmd)
+
+::: {.institution}
+University of Nottingham, School of Electrical and Electronic Engineering, 2003
+:::
+
+The purpose of this project is to create a working prototype for a machine vision system capable of being used in certain types of machine calibration and related problems. Specifically, the prototype needs to be able to identify and determine the real-life displacement of an object within fixed boundaries on a two-dimensional plane, and provide information to the prototype user.
+
+**Supervisors:** Dr Mark Pitter, Prof M. Somekh
+
+::: {}
+[Digital Image Correlation]{.topic-tag} [Fast Fourier Transforms]{.topic-tag} [Fiduciary Markers]{.topic-tag} [Machine Vision]{.topic-tag} [MATLAB]{.topic-tag}
+:::
+:::
+
+::: {.work-card}
+::: {.degree}
+MA Critical Theory and Cultural Studies — Distinction
+:::
+
+### [Richard Rorty and the New Left / Pre-PhD Research](ma/index.qmd)
+
+::: {.institution}
+University of Nottingham, 2004 (MA) + 2006 (pre-PhD research document)
+:::
+
+The MA dissertation ("Richard Rorty and the New Left") is not in the archive, but an extended pre-PhD research document *is* — "Simulating Geographies of Homelessness and Worklessness" (2006), which represents an early direction for the PhD before it pivoted towards Pathways to Work. This section presents the MA context alongside the pre-PhD research document.
+
+::: {}
+[Critical Theory]{.topic-tag} [Complexity Theory]{.topic-tag} [Behavioural Economics]{.topic-tag} [Homelessness]{.topic-tag} [Bourdieu]{.topic-tag} [Wilkinson]{.topic-tag}
+:::
+:::
+
+::: {.work-card}
+::: {.degree}
+PhD Sociology and Human Geography
+:::
+
+### [Work and its Other: A Multiple-perspective Analysis of Incapacity Benefit Reform](phd/index.qmd)
+
+::: {.institution}
+University of York, 2009
+:::
+
+A multiple-perspective theoretical framework for analysing the reform of incapacity benefits in the UK. Drawing on neuroscience (Damasio), sociology (Weber), political economy (Polanyi), and biogeography (Diamond), it builds from individual decision-making through bureaucratic organisation to the Pathways to Work programme.
+
+**Supervisors:** Prof Roger Burrows, Prof Danny Dorling, Dr Kate Pickett
+
+**Two versions presented:** the pre-revision draft (2008, preferred) and the final submitted thesis (2009, 322pp).
+
+::: {}
+[Incapacity Benefits]{.topic-tag} [Welfare Reform]{.topic-tag} [Damasio]{.topic-tag} [Weber]{.topic-tag} [Polanyi]{.topic-tag}
+:::
+:::
+
+---
+
+## Technical notes
+
+These documents were recovered from personal CD-ROM and DVD backups dating from 2003 to 2011. The original files were Microsoft Word documents (.doc/.docx), converted to markdown using `textutil` (macOS) and Python processing. Some content was lost in conversion:
+
+- **Figures and diagrams:** The BEng thesis referenced CorelDRAW graphics and MATLAB figures; these are shown as placeholders in the web version but the original image files (430+ BMP/EMF) are preserved in the archive.
+- **Equations:** Mathematical notation embedded via Microsoft Equation Editor was stripped during conversion; equation references are preserved as placeholders.
+- **The MA thesis** is a working draft with visible authorial notes — this is presented as-is, preserving the texture of work in progress.
+- **The PhD** is presented in two versions: the 2008 working draft (pre-revision) and the final submitted PDF (2009).
+
+The underlying archive, including all original MATLAB code, test images, and document files, is maintained in a private vault. The MATLAB codebase for the BEng project is being ported to Python for interactive demonstration.

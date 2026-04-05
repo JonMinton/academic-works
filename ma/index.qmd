@@ -1,0 +1,58 @@
+---
+title: "MA: Richard Rorty and the New Left"
+subtitle: "Critical Theory and Cultural Studies, University of Nottingham, 2004"
+---
+
+::: {.archive-notice}
+**Archive notice:** The MA dissertation proper ("Richard Rorty and the New Left") is not currently available in the archive — only coursework notes and module results have been recovered. What *is* available is an extended research document from April 2006, titled "Simulating Geographies of Homelessness and Worklessness," which was written during the transition from MA to PhD. This document represents an early direction for the PhD (later pivoted towards Pathways to Work) rather than the MA dissertation itself, but it is the most substantial piece of intellectual work from this period.
+:::
+
+## MA in Critical Theory and Cultural Studies
+
+| | |
+|---|---|
+| **Degree** | MA Critical Theory and Cultural Studies |
+| **Classification** | Distinction |
+| **Institution** | University of Nottingham |
+| **Year** | 2003--2004 |
+| **Dissertation** | "Richard Rorty and the New Left" (not in archive) |
+
+### Coursework modules
+
+| Module | Title | Mark | Credits |
+|--------|-------|------|---------|
+| L64001 | Cultural Studies: Theory and Practice | 58 | 30 |
+| V9D002 | Social and Political Theories | 67 | 30 |
+| V9D003 | Postmodernisms | 57 | 30 |
+| V9D015 | Thought, Image and Critique | 59 | 30 |
+| V9D016 | Dissertation in Cultural Studies and Critical Theory | 68 | 60 |
+
+---
+
+## Pre-PhD research document (2006)
+
+### "Simulating Geographies of Homelessness and Worklessness"
+
+*Mapping jobs, homes, and historical legacies onto the ages of old age*
+
+This extended document was written during the transition from MA to PhD (2005--2006). It represents the early theoretical direction for the PhD — an ambitious attempt to bridge complexity theory, behavioural economics, and critical social theory to understand spatial disadvantage. The PhD later pivoted from this direction towards an analysis of the Pathways to Work programme.
+
+The document is explicitly a work in progress, with visible authorial notes, structural uncertainty, and bracketed working commentary preserved as-is.
+
+### Chapters
+
+1. [Preface](preface.qmd) — Personal context and writing process
+2. [Concepts](concepts.qmd) — How home and work map onto pension and place
+3. [House and Home](house-and-home.qmd) — Home as multi-valued asset; chaos and catastrophe theory
+4. [Work and Worklessness](work-and-worklessness.qmd) — Work as community worthiness; relative deprivation
+5. [Heuristics and Attitudes](heuristics-and-attitudes.qmd) — Cognitive psychology and public attitudes to non-working populations
+6. [Chaos and Complexity](chaos-and-complexity.qmd) — Chaotic, complex, and complicated phenomena
+7. [Statistical Theory as Model](statistical-theory.qmd) — Gary King's statistical modelling approaches
+8. [Literature Review](literature-review.qmd) — Extensive reading notes (Bourdieu, Ball, Diamond, Wilkinson)
+9. [Bibliography](bibliography.qmd)
+
+### Key themes
+
+::: {}
+[Complexity Theory]{.topic-tag} [Behavioural Economics]{.topic-tag} [Kahneman & Tversky]{.topic-tag} [Homelessness]{.topic-tag} [Worklessness]{.topic-tag} [Bourdieu]{.topic-tag} [Wilkinson]{.topic-tag}
+:::

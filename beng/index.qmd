@@ -1,0 +1,58 @@
+---
+title: "BEng: An Investigation Into Machine Vision Calibration Systems"
+subtitle: "Final Year Project, University of Nottingham, 2003"
+---
+
+::: {.archive-notice}
+**Archive notice:** This document was recovered from a CD-ROM backup (May 2003) and converted from Microsoft Word format. Figures created in CorelDRAW and MATLAB are shown as placeholders; the original image files (430+ bitmaps, 59 vector graphics) and complete MATLAB codebase (175+ source files) are preserved in the archive.
+:::
+
+## Overview
+
+| | |
+|---|---|
+| **Degree** | BEng (Hons) Electronic Engineering |
+| **Classification** | Second Class, Division One (2:1) |
+| **Institution** | University of Nottingham, School of Electrical and Electronic Engineering |
+| **Year** | 2003 |
+| **Supervisors** | Dr Mark Pitter, Prof M. Somekh |
+| **Dedication** | "To my dear friends, Taurine and Caffeine" |
+
+## Abstract
+
+The purpose of this project is to create a working prototype for a machine vision system capable of being used in certain types of machine calibration and related problems. Specifically, the prototype needs to be able to identify and determine the real-life displacement of an object within fixed boundaries on a two-dimensional plane, and provide information to the prototype user.
+
+## Key results
+
+The system achieved:
+
+- **0.01% accuracy** relative to the bounded area for object displacement measurement
+- Successful single-camera operation (improved over original two-camera design)
+- **0.5mm precision** in real-world displacement measurement (actual: 6.0mm right, 4.0mm down; measured: 5.5mm, 4.0mm)
+- Robust performance across varying lighting conditions and with non-critical objects present
+
+## Technical approach
+
+The project combined two complementary techniques:
+
+1. **Digital Image Correlation (DIC)** — using 2D fast Fourier transforms to detect displacement between image pairs
+2. **Fiduciary Marker Analysis** — using colour-based detection with edge finding, dilation, hole-filling, and erosion to identify reference points
+
+The system operated in two stages:
+
+- **Stage 1 (Prototype Positioning):** Detecting and correcting camera-to-plane misalignment using fiduciary markers
+- **Stage 2 (Object Displacement):** Using DIC to find the actual object displacement, with rigid-body compensation
+
+## Chapters
+
+1. [Abstract](abstract.qmd)
+2. [Introduction](introduction.qmd) — Problem definition, examples, test setup
+3. [Theory](theory.qmd) — Fourier transforms, cross-correlation, marker identification
+4. [Methods and Process](methods.qmd) — System architecture and flow diagrams
+5. [Results](results.qmd) — Single test case, lighting/distance robustness, calibration
+6. [Discussion and Conclusion](conclusion.qmd)
+7. [Appendix](appendix.qmd) — References and bibliography
+
+## Code
+
+The original MATLAB codebase is being ported to Python — see [Code Overview](code-overview.qmd) for details and interactive demonstrations.

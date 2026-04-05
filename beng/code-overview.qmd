@@ -1,0 +1,85 @@
+---
+title: "Code Overview: MATLAB to Python Port"
+---
+
+::: {.callout-tip}
+## Work in progress
+The original MATLAB codebase is being ported to Python for interactive demonstration. This page will contain working Python implementations of the key algorithms alongside the original MATLAB source.
+:::
+
+## Original MATLAB codebase
+
+The BEng Final Year Project was implemented entirely in MATLAB. The complete codebase (175+ source files) is preserved in the archive, organised as follows:
+
+### Core modules
+
+| Module | Purpose | Key files |
+|--------|---------|-----------|
+| **DIC** | Digital Image Correlation | `Main.m`, `ImCor2_05.m`, `SubImage.m` |
+| **PlaneFind** | Camera-to-plane alignment | `CalibMain.m`, `PlaneFind/` (14+ files) |
+| **Common** | Shared utilities | `FindMarkerCoords.m`, `RigidBodyFind.m` |
+
+### Test data
+
+- **374 bitmap images** — test and calibration images at various distances, angles, and lighting conditions
+- **14 MATLAB figure files** — visualisation results from algorithm runs
+- **11 MATLAB data files** (.mat) — saved algorithm outputs and calibration data
+
+## Python port (planned)
+
+The port will implement the key algorithms using:
+
+- **NumPy/SciPy** for FFT-based cross-correlation
+- **OpenCV** for image processing (edge detection, dilation, erosion, hole-filling)
+- **Matplotlib/Plotly** for interactive visualisation
+
+### Key algorithms to port
+
+1. **2D cross-correlation via FFT** — the core DIC algorithm
+2. **Colour-based marker detection** — exclusive colour plane extraction
+3. **Marker identification pipeline** — edge detection, dilation, hole-filling, erosion, restoration
+4. **Weighted centroid calculation** — marker position determination
+5. **Rigid body compensation** — separating camera motion from object displacement
+6. **Calibration** — polynomial fit for angle estimation
+
+```python
+# Placeholder — Python implementation coming soon
+import numpy as np
+from scipy.fft import fft2, ifft2, fftshift
+
+def cross_correlate_2d(image1, image2):
+    """
+    2D cross-correlation using FFT.
+    Finds the displacement between two images.
+    """
+    f1 = fft2(image1)
+    f2 = fft2(image2)
+    cc = ifft2(f1 * np.conj(f2))
+    cc_shifted = fftshift(np.abs(cc))
+
+    # Find peak location
+    peak = np.unravel_index(np.argmax(cc_shifted), cc_shifted.shape)
+
+    # Convert to displacement
+    dy = peak[0] - image1.shape[0] // 2
+    dx = peak[1] - image1.shape[1] // 2
+
+    return dx, dy, cc_shifted
+```
+
+### Interactive demonstrations (planned)
+
+Once the port is complete, this page will include:
+
+- **Live cross-correlation demo** — upload or select test images, see the FFT correlation surface
+- **Marker detection walkthrough** — step through the 7-stage pipeline with intermediate results
+- **Calibration explorer** — interactive plot of angle calibration curves
+
+## Archive inventory
+
+The complete archive includes:
+
+- `cdrom-new-2003-matlab/` — 36 MATLAB source files, 26 test images, 2 project snapshots
+- `cdrom-new-2003-fyp/Work/work/` — Full working directory with DIC, PlaneFind, Images, CalibImages, Common
+- `cdrom-new-2003-fyp/Writeup/` — 59 EMF vector graphics, 23 Word documents, 19 CorelDRAW files
+- 2 ZIP archives with dated project snapshots (March 2003)

@@ -1,0 +1,96 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jon Minton — Academic Works"
+  description: "Three academic works spanning Electronic Engineering, Critical Theory, and Sociology"
+  site-url: https://jonminton.github.io/academic-works
+  repo-url: https://github.com/JonMinton/academic-works
+  repo-actions: [issue]
+
+  navbar:
+    background: "#1c3447"
+    foreground: "#ffffff"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "BEng"
+        href: beng/index.qmd
+      - text: "MA"
+        href: ma/index.qmd
+      - text: "PhD"
+        href: phd/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/JonMinton/academic-works
+      - text: "jonminton.net"
+        href: https://jonminton.net
+
+  sidebar:
+    - id: beng
+      title: "BEng: Machine Vision"
+      style: floating
+      contents:
+        - beng/index.qmd
+        - section: "Thesis"
+          contents:
+            - beng/abstract.qmd
+            - beng/introduction.qmd
+            - beng/theory.qmd
+            - beng/methods.qmd
+            - beng/results.qmd
+            - beng/conclusion.qmd
+            - beng/appendix.qmd
+        - section: "Code"
+          contents:
+            - beng/code-overview.qmd
+
+    - id: ma
+      title: "MA / Pre-PhD Research"
+      style: floating
+      contents:
+        - ma/index.qmd
+        - section: "Thesis"
+          contents:
+            - ma/preface.qmd
+            - ma/concepts.qmd
+            - ma/house-and-home.qmd
+            - ma/work-and-worklessness.qmd
+            - ma/heuristics-and-attitudes.qmd
+            - ma/chaos-and-complexity.qmd
+            - ma/statistical-theory.qmd
+            - ma/literature-review.qmd
+            - ma/bibliography.qmd
+
+    - id: phd
+      title: "PhD: Work and its Other"
+      style: floating
+      contents:
+        - phd/index.qmd
+        - section: "Pre-revision (2008)"
+          contents:
+            - phd/pre-outline.qmd
+            - phd/pre-ch1.qmd
+            - phd/pre-ch2.qmd
+            - phd/pre-ch3.qmd
+            - phd/pre-ch4.qmd
+        - section: "Final thesis (2009)"
+          contents:
+            - phd/final.qmd
+
+  page-footer:
+    left: "Jon Minton, 2003-2009 (archived 2026)"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
+    highlight-style: github

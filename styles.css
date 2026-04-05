@@ -1,0 +1,157 @@
+/* Academic Works custom styles */
+
+/* Archive notice banner */
+.archive-notice {
+  background-color: #f8f9fa;
+  border-left: 4px solid #6c757d;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  color: #495057;
+}
+
+.archive-notice strong {
+  color: #343a40;
+}
+
+/* Missing figure placeholder */
+.missing-figure {
+  background-color: #e9ecef;
+  border: 2px dashed #adb5bd;
+  border-radius: 4px;
+  padding: 2rem;
+  text-align: center;
+  margin: 1rem 0;
+  color: #6c757d;
+  font-style: italic;
+}
+
+/* Missing equation placeholder */
+.missing-equation {
+  background-color: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+  font-family: 'Computer Modern', serif;
+  font-style: italic;
+  color: #856404;
+}
+
+/* Work card on landing page */
+.work-card {
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: box-shadow 0.2s;
+}
+
+.work-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.work-card .degree {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6c757d;
+  margin-bottom: 0.25rem;
+}
+
+.work-card .institution {
+  font-size: 0.9rem;
+  color: #495057;
+}
+
+.work-card .classification {
+  display: inline-block;
+  background-color: #198754;
+  color: white;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  margin-left: 0.5rem;
+}
+
+/* Topic tags */
+.topic-tag {
+  display: inline-block;
+  background-color: #e9ecef;
+  color: #495057;
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  margin: 0.15rem;
+}
+
+/* Version switcher for PhD */
+.version-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.version-tab {
+  padding: 0.75rem 1.5rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 0.95rem;
+  color: #6c757d;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+}
+
+.version-tab.active {
+  color: #0d6efd;
+  border-bottom-color: #0d6efd;
+  font-weight: 600;
+}
+
+/* Download button */
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #0d6efd;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+
+.download-btn:hover {
+  background-color: #0b5ed7;
+  color: white;
+}
+
+/* Chapter navigation at bottom */
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dee2e6;
+}
+
+/* Draft notes styling */
+.draft-note {
+  background-color: #cff4fc;
+  border: 1px solid #9eeaf9;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  color: #055160;
+}
+
+/* Equation reference */
+.eqn-ref {
+  font-family: 'Computer Modern', serif;
+  font-style: italic;
+  color: #6c757d;
+}

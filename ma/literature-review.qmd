@@ -1,0 +1,160 @@
+---
+title: "Literature Review"
+---
+
+Literature ReviewIntroduction
+
+The purpose of this (temporary) section is to summarise some books and articles I have read in order to determine if and where such material should fit within the main thesis. Considering a lot of the material in the appendices may end up in the main sections too, I suspect the thesis will start ‘back-heavy’ and then even itself out.
+I’m going to try to find a way to tag books in this section to keywords relating to earlier sections within the thesis.
+
+Topics
+Various topics deserving of a literature review include:
+Depression, Unemployment, Psychosomatic Illness, Hypertension, Social Status, Financial Insecurity, Long-term Illness, Relative Deprivation
+Paul Gilbert is a psychiatrist specialising in the relationship between depression and social status. His ideas have been developed into the semi-popular book Britain on the Couch by Oliver James. A list and summary of his some of his work is as follows:
+Historical Trends, Social Anthropology, Human Universals, Sex Differences, Crossnational Comparisons, Demography, Population BulgesCognitive Biases, Social Attitudes, Support for Social Security, History of Social Security, Attitudes to Pensions, Attitudes to the Elderly, Attitudes by the Elderly, Marketing Psychology and Advertising, Attitudes to the disabled, Incapacity Benefit, Attitudes to Incapacity Benefit, Optimism Bias, Hindsight Bias, Confirmation Bias, Representativeness Heuristic, Conjunction Fallacy, Planning FallacyCycles, Socioeconomic and Poverty Traps, Effects of Cohort Attitudes, Race as social group identifier, Class, Leveraging of Life Chances.MaterialsCitation Maps
+A number of websites – I believe connected via PubMed – offer ‘citation maps’, showing the intriguing web of connections between journal articles. Selecting an editorial article in the*Journal of Epidemiological and Community Health*as the source for the citation map, the following graph is produced:
+
+( Figure 1)
+Figure1. Citation Map for Bartley 2005
+
+The cyan oval shows the original article, and the yellow ovals the most popular and cited articles cited directly or indirectly by the original article.
+
+At least one of the articles in the web was to do with analysing the effects of job status and job security on employees within the British Civil service. (The Whitehall and Whitehall II surveys)
+It produces the following citation map:
+
+( Figure 2)
+Figure2. Citation Map of Ferrie et Al. 1995BooksDistinction Summary
+Written 1979. Translated from French 1984.
+Conceptually develops from Bourdieu’s anthropological research on hunter-gatherer societies within Algeria.
+Sociology, and appreciated by postmodern academics due to its French authorship and use of a Marxian vocabulary. But at the same uses empirical evidence and methodologies and is referenced favourably by the evolutionary psychologist Steven Pinker in the Blank Slate. Therefore could be useful as ‘bridging’ material.
+The extension of anthropological ideas to modern societies suggests Bourdieu implicitly believes in a common human behavioural ‘core’, rather than in us as beings that are infinitely socially malleable. This suggests he’s more of a ‘tragic realist’/pluralist, rather than a cultural relativist.
+Explores social value of items as indicators of class membership.
+Attempts to provide some kind of empirical methodology with which to test Kant’s Critique of Judgement.
+Uses survey data to show a pattern between social activity – as evidenced by indicators such as museum attendance - and education (formal qualifications); and between education and social origin (e.g. father’s occupation). The former suggests an implicit practical logic to social activities as a way of signalling class membership. The latter suggests the extent to which classes reproduce themselves.
+The surveys were conducted in the ‘60s in France, so the data themselves are unlikely to be useful. Just the underlying principles and concepts.
+Key Ideas
+Class reproduction (literally and figuratively)
+Snob Value
+Social signalling and differentiating
+Cross-cultural patterns of behaviour
+Sections to referenceRelationshipsSimilar to
+George Orwell’s observations on social capital in*Down and Out in Paris and London*and*Keep the Aspidistras Flying*.
+Robert Putnam
+Veblen’s*Theory of the Leisure Class*?
+Influenced by
+Kant’s Critique of Judgement
+Bourdieu’s anthropology (Practical Reason?)
+Influence uponCritical Mass Summary
+Won 2005 Aventis Science Book prize. Written by a mathematical physicist. Summarises contemporary complexity and chaos research on social phenomena conducted (overwhelmingly) by other mathematical physicists. Good overview of a number of other popular chaos/complexity science books, including Mark Buchanan’s Small World, and Paul Ormerod’s ‘post-orthodox economics’.
+Breakdown by Chapter
+Raising Leviathan
+*Hobbes was influenced by the deductive approach of Euclid’s geometry and the principles of causal mechanics, and attempted to establish a set of ‘mechanical’ political science of social causation. The theory of the emergence of leviathan, though described qualitatively rather than through mathematical formulae, provides descriptions of interactions between people which can be converted into formulae, and do possess assumptions of reasonable causality. (“First one thing happens, then another, then another…”)*
+
+Lesser Forces
+*Heat is a useful physical analogy to social complexity: at the level of the physical particle, the degree of predictability of a single atom is small, but averaging out over many millions of atoms, and adopting a sufficiently large timescale, one can observe highly predictable patterns at the macro-timescale: randomness begets regularity.*
+
+The Law of Large Numbers
+*“…for a heady half century or so there seemed to be no demarcations between physics, mathematics, economics, politics and sociology.”
+*The Law of Large Numbers and the discovery (by Gauss and LaPlace) of distributions underlying large numbers of independent events which, given enough observations, reveal regularities.*
+
+The Grand Ah-Whoom
+*Considers abrupt changes in phenomena, which are inherent to the nature of the phenomena, but which are not always deducible from the behaviour of the material within which the phenomena exists, but which are not always inductively predictable by observation of the phenomena.Such phenomena undergo*phase transitions*, small changes in an input variable, which under most conditions lead to a proportionate change in the output variable, lead instead to a disproportionate change in the output variable when they occur at the edge of a phase. The archetypal example of material whose phenomena undergo phase transitions is water, whose properties change dramatically around 0 and 100 degrees centigrade (by definition).*
+
+On Growth and Form
+*Considers the naturally occurring phenomena of spontaneous (bottom-up) ‘emergence’ of pattern and regularity from chaotic material.Describes the concept of ‘bifurcation’ – such as that observed when a ball sits atop a symmetrical two-dimensional ‘hill’ – any small and random motion either to the left or right, exerted upon the ball, have a dramatic nonlinear effect upon the trajectory the ball takes.*
+
+The March of Reason
+*On patterns in crowd movements.‘The Language of Space’: considers town planning as social planning‘City Limits’: considers the fractal-like growth patterns of cities.*
+
+On the Road
+*Phase transitions in traffic flows*
+
+Rhythms of the Marketplace
+*‘The Iron Law’: Discusses Marx’s ‘endogenous’ theory of economic instability: the internal forces within economics – caused by the dynamic relationship between wages and prices of goods – leading to such instability.This is an extremely important and relevant section, which provides a good theoretical justification for the need for state intervention into socioeconomic issues: if the markets are inherently unstable, such that, over a long enough period, they will plunge people into periods of severe relative poverty for no reason other than cyclic chance, then this*is*a need for the state to provide a material safety net. The inherent instability of the system also does much to discredit the ‘deserving/undeserving poor’ binary made by large swathes of the centre-right public.‘Can the Market be Steady?’: describes the inherently unstable and arrhythmic nature of the markets in more detail. Attacks general equilibrium theory as economic dogma rather than fact.Argues that price fluctuations follow a non-gaussian probability distribution function, with a much greater probability of an event that deviates from the population mean than would be assumed by a Gaussian distribution model.*
+
+Agents of Fortune
+*Local interaction effects: ‘clustering’, and ‘herding’: Keynes’ notion of economic markets as a kind of beauty contest where people are asked who they think will win – they’re thus asked whom*they*think*other people*will think (other people will think…) is the most attractive.“The interacting-agents models of microeconomics suggest that the economy is intrinsically unstable.” *
+
+Uncommon Proportions
+*Suggests many socioeconomic phenomena follow a ‘power-law’ pattern, which emerges from local interaction effects and leads to is modelled within catastrophe theory. Power Laws on a log-log scale, follow a straight line. A name given to the phenomena is ‘self-organising criticality’, and is described in great detail by Per Bak in his book*How Nature Works.*Sandpiles are commonly used to describe such types of phenomena.Mentions the origin of the principle of the Power Law by the sociologist (who was originally an engineer) Vilredo Pareto, who came up with what has become known as the 80:20 rule: 80 per cent of the wealth is owned by 20 per cent of the populationThis is another important idea – self-organised inequities of wealth, which is covered in more detail in Mark Buchanan’s Small World. It suggests another fundamental role for government intervention.*
+
+The Work of Many Hands
+*Discusses microsimulation modelling by political scientists such as Robert Axtell which seek to reproduce the macroscale pattern of business numbers and sizes (the power law described earlier). The inference is that, if the microsimulation can reproduce observed patterns by positing certain axioms about individual-level behaviour, the individual-level behaviour being posited possibly bears some (much simplified) resemblance to reality.*
+
+Join the Club
+*‘Setting Standards’:*
+Provides one of many descriptions of “The QWERTY Effect” – the establishment of suboptimal norms through satisficing and path-dependency. Quite often, many possible solutions to problem reduce to just one or two solutions, because having many solutions to a problem is itself a problem: it leads to problems with inefficiency caused by an inability to benefit from economies of scale due to incompatibilities between solution-systems. This leads to a strong desire to arrive quickly at a satisfactory standard. Once a standard has begun to gain some popularity, its increased popularity is itself considered a reason to increase its popularity. This is an example of*autocatalys*, or*positive feedback*. Eventually the solution-space narrows onto just one or two solutions, other configurations of the ‘landscape’ are not stable for long periods of time.
+Once a stable configuration of the solution landscape has been established, the landscape is often very resilient to change. The established solutions – VHS rather than Betamax, QWERTY rather than something more efficient – become historical legacies which often become increasingly suboptimal and inefficient relative to possible new solutions which arise. Eventually, the difference in efficiency between the historical solution and the new solution becomes so great that cultural conservatism/lock-in is overpowered and the new solution usurps the dominant position occupied by the previous solution.
+
+*‘Head for the Valleys’:*
+This describes how this approach has been formalised and used by the political scientist Robert Axelrod, under the term*Landscape Theory*, which is derived from statistical physics.
+Multitudes in the Valley of Decision
+Physical science’s most important message to social science: “do not be tempted too readily into extrapolating from the psychology of the individual to the behaviour of the group”
+
+‘Cast your Vote’
+Describes voting patterns as being based on local interaction (‘herd mentality’ effects) and following a power-law (linear on a log-log graph)
+
+‘Which Way to Turn?’
+Joshua Epstein suggests many conventions and norms are established within society so as to reduce the number of decisions people have to make: neither driving on the left nor the right side of the road is intrinsically preferable, what is preferable is that everyone drives on the*same*side of the road, irrespective of which side that happens to be. “Epstein suggests that we structure society so as to keep the need for thought to a minimum.” (p. 384)
+
+‘Worlds Apart’
+Describes Schelling’s approach in his 1978 book*Micromotives and Macrobehaviour*in some detail. Develops the racial segregation model referencing a computer model created by Paul Ormerod: ‘A preference to mix with people similar to oneself is as old as humanity’.
+
+*‘Crime and Punishment’*
+This section describes Campbell and Ormerod’s ‘tipping point’ model to crime – which presents the effects of two variables (punitive and socioeconomic) as having a nonlinear relationship to crime levels. It relates it, of course, to Malcolm Gladwell’s speculation, in*The Tipping Point*, as to the reasons for declines in crime levels in New York City.
+
+The Colonization of Culture
+
+Small Worlds
+Weaving the Web
+Order in Eden
+Pavlov’s Victory
+Towards Utopia?
+Key IdeasSections to referenceRelationshipsSimilar toInfluenced byInfluence uponGuns, Germs, and SteelSummary
+One of the most interesting and important books I’ve read. Describes
+Key IdeasSections to referenceRelationshipsArticlesOther
+
+ADDIN EN.REFLIST 1. Gilbert, P., et al.,*Interpersonal sensitivities: their links to mood, anger and gender.*Psychol Psychother, 2006.79(Pt 1): p. 37-51.
+2. Martin, Y., et al.,*The relation of entrapment, shame and guilt to depression, in carers of people with dementia.*Aging Ment Health, 2006.10(2): p. 101-6.
+3. Gilbert, P.,*Evolution and depression: issues and implications.*Psychol Med, 2006.36(3): p. 287-97.
+4. Irons, C. and P. Gilbert,*Evolved mechanisms in adolescent anxiety and depression symptoms: the role of the attachment and social rank systems.*J Adolesc, 2005.28(3): p. 325-41.
+5. Gilbert, P. and C. Irons,*A pilot exploration of the use of compassionate images in a group of self-critical people.*Memory, 2004.12(4): p. 507-16.
+6. Gilbert, P., J. Gilbert, and C. Irons,*Life events, entrapments and arrested anger in depression.*J Affect Disord, 2004.79(1-3): p. 149-60.
+7. Gilbert, P., et al.,*Criticizing and reassuring oneself: An exploration of forms, styles and reasons in female students.*Br J Clin Psychol, 2004.43(Pt 1): p. 31-50.
+8. Gilbert, P. and J. Gilbert,*Entrapment and arrested fight and flight in depression: an exploration using focus groups.*Psychol Psychother, 2003.76(Pt 2): p. 173-88.
+9. Gilbert, P., et al.,*Relationship of anhedonia and anxiety to social rank, defeat and entrapment.*J Affect Disord, 2002.71(1-3): p. 141-51.
+10. Gilbert, P., et al.,*An exploration of evolved mental mechanisms for dominant and subordinate behaviour in relation to auditory hallucinations in schizophrenia and critical thoughts in depression.*Psychol Med, 2001.31(6): p. 1117-27.
+11. Gilbert, P.,*Evolutionary approaches to psychopathology: the role of natural defences.*Aust N Z J Psychiatry, 2001.35(1): p. 17-27.
+12. Gilbert, P. and S. Allan,*The role of defeat and entrapment (arrested flight) in depression: an exploration of an evolutionary view.*Psychol Med, 1998.28(3): p. 585-98.
+13. Allan, S. and P. Gilbert,*Submissive behaviour and psychopathology.*Br J Clin Psychol, 1997.36 ( Pt 4): p. 467-88.
+14. Gilbert, P., S. Allan, and D. Trent,*A short measure of social and separation anxiety.*Br J Med Psychol, 1996.69 ( Pt 2): p. 155-61.
+15. Gilbert, P., et al.,*Overconfidence and personal evaluations of social rank.*Br J Med Psychol, 1996.69 ( Pt 1): p. 59-68.
+16. Gilbert, P., S. Allan, and D.R. Trent,*Involuntary subordination or dependency as key dimensions of depressive vulnerability?*J Clin Psychol, 1995.51(6): p. 740-52.
+17. Gilbert, P., J. Pehl, and S. Allan,*The phenomenology of shame and guilt: an empirical investigation.*Br J Med Psychol, 1994.67 ( Pt 1): p. 23-36.
+18. Gilbert, P.,*Depression: new books and conceptualizations of an old problem.*Br J Psychol, 1991.82 ( Pt 1): p. 119-26.
+19. Gilbert, P. and S. Reynolds,*The relationship between the Eysenck Personality Questionnaire and Beck's concepts of sociotropy and autonomy.*Br J Clin Psychol, 1990.29 ( Pt 3): p. 319-25.
+20. Bartley, M.,*Job insecurity and its effect on health.*J Epidemiol Community Health, 2005.59(9): p. 718-719.
+21. Ferrie, J.E., et al.,*Health effects of anticipation of job change and non-employment: longitudinal data from the Whitehall II study.*BMJ, 1995.311(7015): p. 1264-1269.
+22. Bourdieu, P.,*Distinction: A Social Critique of the Judgement of Taste*. 2003, London: Routledge. 613.
+23. Ball, P.,*Critical Mass: how one thing leads to another: Being an enquiry into the interplay of chance and necessity in the way that human culture, customs, institutions, cooperation and conflict arise*. 2004, London: William Heinemann. 644.
+24. Ball, P.,*Join the Club: Alliances in business and politics*, in*Critical Mass: how one thing leads to another: Being an enquiry into the interplay of chance and necessity in the way that human culture, customs, institutions, cooperation and conflict arise*. 2004, William Heinemann: London. p. 337-368.
+25. Ball, P.,*Multitudes in the Valley of Decision: Collective influence and social change*, in*Critical Mass: how one thing leads to another: Being an enquiry into the interplay of chance and necessity in the way that human culture, customs, institutions, cooperation and conflict arise*. 2004, William Heinemann: London. p. 369-422.
+26. Ormerod, P.,*Sense on Segregation*, in*Prospect*2002. p. 12-14.
+27. Gladwell, M.,*The Tipping Point*. 2001, London: Abacus.
+
+I forgot about this. But it seems a good idea. I've accidentally started making a contribution to this below (in the Topics) section, but believe I was thinking more about adding tags within the hidden fields section.
+Provide a brief description (as a comment) for EACH of the following topic areas. Classify literature review type broadly, 'refactoring' if necessary.
+Find out much more about these: They might be rich veins of information
+Which book? Also needs referencing and including
+Nominally at least. I don't know enough Kant to tell whether this is just an attempt by Bourdieu to place his own ideas within an acceptable 'geneology' of continental philosophy.
+Orwell describes himself buying a glass of red wine at a cafe in France and sitting at a table outside, drinking the wine slowly, despite being on the edge of starvation and knowing that drinking the wine meant not being able to afford to eat. A Bourdieuian (?) perspective might suggest that, as a member of the 'lower upper middle-classes' (as he described himself!) Orwell placed a lot of value in signalling his continued membership to his class.
+Think of the title: an aspidistra was, at the time of writing, a social artefact which signalled membership of the middle-classes, displayed on the windowsill for passers-by. The reason the aspidistra was popular was apparently because it was one of the few plants which could survive the noxious fumes generated by gas and oil lamps. Having enough money to buy fuel to have a warm house was, of course, another indicator of membership of the middle-classes!
+Copyright has expired so should be able to get access to a free e-text to this
+This section is unfinished
+It's at this kind of macroscale that electrical and electronic circuit theory operates, the laws of which - such as Kirchoff's Laws - are deterministic rather than stochastic, and are extremely good at predicting electrical phenomena
+This is also covered in Ormerod's*Butterfly Economics*
+Schelling's*Micromotives and Macrobehaviour*is one of a number of other books which give this example. It seems to have become a 'classic'.
+This, of course, is the type of pattern Kuhn described to 'scientific revolutions': a new approach to a problem has much more instrumental capacity - capacity to change the environment and control a natural phenomena (or subset of a natural phenomena) in a way which someone wants. This increased instrumentalist capacity is recognised and investors begin to pour more resources into the new solution (or 'paradigm') until the only the new solution is funded and the original solution 'dies out'. Though persons aren't 'converted' from one ideology to another, something - which*could*be called progress - happens within science and technology.
+
+This is something which could be considered within the structures of Game Theory. This approach is, of course, crypto-Darwinian, so has a rather hard-edged feel to it.
+This, of course, links well with the principles of geodemographics. 'Birds of a feather flock together'. Less prosaicly people have significant ingroup preferences.

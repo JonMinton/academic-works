@@ -1,0 +1,55 @@
+---
+title: "Appendix"
+---
+
+Appendix
+  
+  
+  
+  
+  
+  
+  
+  
+
+**Appendix**
+
+****
+
+***References***
+
+******
+
+**Fourier Series**: *W. Bolton***
+
+**Advanced Engineering Mathematics**: *Erwin Kreyszig***
+
+**Matlab 6.1 help system**
+
+*Ibid*
+
+*Ibid*
+
+*Ibid*
+
+*Ibid***
+
+Loughborough University Website: Engineering Mathematics – “**Calculating Centres of Masses**” Page 5 :  HYPERLINK "http://learn.lboro.ac.uk/olmp/chap15/15_3.pdf" http://learn.lboro.ac.uk/olmp/chap15/15_3.pdf
+
+**A Real-time Depth Detection System using Monocular Vision:** *Y.L. Murphey, J. Chen, J. Crossman, J. Zhang*
+
+**Electronic speckle photography: increased accuracy by nonintegral pixel shifting**: *M. Sjodahl***
+
+****
+
+***Bibliography***
+
+******
+
+**The Image Processing Handbook**: *T. Russ***
+
+**Accuracy in electronic speckle photography:** *M. Sjodahl***
+
+**Whatis.com: Mathematical Symbols: **http://whatis.techtarget.com/definition/0,,side9_gci803019,00.html
+
+******

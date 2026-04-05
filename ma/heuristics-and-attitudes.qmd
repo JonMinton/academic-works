@@ -1,0 +1,33 @@
+---
+title: "Heuristics and Attitudes"
+---
+
+Heuristics and Attitudes
+
+According to the cognitive psychologists Daniel Kahneman and Amos Tversky, people are not (*contra*classical economic theory) rational utility-maximizing agents, who seek to weigh up the costs and benefits of a range of available options in order to determine the ‘optimal solution’. Instead, we tend to use a number of intuitive heuristics – simple and efficient rules of thumb – which allow us to make decisions which, most of the time, in most scenarios, are effective in helping us arrive at quick and good answers to daily problems. They also lead to systematic biases when applied to the ‘wrong’ scenarios.
+One of the heuristics proposed by Kahneman and Tversky is the ‘representativeness heuristic’: that the likelihood of, say, a man being a criminal is proportional to how similar the man – who may or may not be a criminal – is to another man, who is a criminal.
+When researching attitudes towards different categories of the non-working, the representativeness heuristic may be useful in explaining why public opinion towards pensioners tends to be different than, say, those on incapacity benefit.
+
+Understanding heuristics and biases helps one to understand more about the psychological origins of stereotypes. The stereotypes members of the public hold about other members of the public affect their attitudes to such people, and this is reflected in the popularity of different public policies. Popular policies tend to play up to popular attitudes and stereotypes certain groups of society have towards other groups. Such attitudes are often quite negative.
+
+[My point is that there exist strong stereotypes which are connected with both work and home, and that understanding such stereotypes can be useful for understanding policies connected with these two concepts.
+As stated previously (I think), it seems paradoxical that, in an age where the amount of material which an individual can produce has increased greatly, and most of the material shortage problems which have plagued humanity for most of human existence have been solved, people still work. (Actually, perhaps, it’s not too paradoxical – I’ve not quite defined this correctly – so that the elements I’m juxtaposing are not actually dyadic – I need to redefine this slightly) Why do people care so much about employment and unemployment rates? Why do people tend to categorise others into ‘deserving’ and ‘undeserving’, even though there exist enough resources such that such judgements are no longer needed?
+
+This sort of attitude seems to feed itself into the concept of macroeconomic productivity and growth: a country is judged to be successful if the total amount of money that has been counted as passing within it is greater than in a previous occasion. In this case it is said to have ‘grown’. But what’s interesting is that this monetary growth doesn’t necessarily correspond to the total amount of ‘stuff’ produced by the nation increasing.
+Macroeconomics also concerns itself with the concept of ‘efficiency’.
+
+This concept of efficiency shares a strange relationship with changes in a nation’s population demographics. Persons are aged between 0 and some finite maximum age (which is increasing, but at a slowing rate, I believe), with differing proportions of the total population existing within different age ‘bins’. Persons below a certain age, and above a certain age, and traditionally of a certain gender, are considered to exist outside of the workforce; and persons within the boundary are said to comprise the potential workforce. A measure of the ‘productivity’ and the ‘strength’ of an economy that is often used, and considered important, is the unemployment rate, which is the proportion of all of the people within the bounded demographic region who have identified themselves as ‘not working’. There is also an employment rate, which is the proportion of persons within the bounded region who have identified themselves, indirectly through a set of legal and bureaucratic mechanisms, as belonging to the ‘active workforce’.
+For one thing, the ‘unemployed’ and the ‘employed’ are not complements of one another, and the fact this is often intuitively assumed means that reporting changes in one can be used as a means of providing a misleading inference about the other. This is not the case.
+Another rough measure of economic ‘efficiency’ often used is the ratio between the number of persons in the potential workforce to the number of persons not in the potential workforce. The underlying principle seems to be that those in the ‘workforce’ are considered to be ‘supporting’ or ‘carrying’ those who are not, that those who are not are considered parasitic upon those who are. There the ratio of workers to ‘non-workers’ is high, then the economy is considered healthy, or to have good potential. Where the converse is true, labour economists suck air through their teeth and predict the collapse of the modern world.
+
+Population demographics are interesting to consider visually: imagine, within the great statistical mass the population histograms represent, a single individual. This individual will move at a constant rate from age zero to some unknown but finite countable finite final age, at which he or she will sense to be. At the demographic level that is all we are: little dots or thinly sliced pieces of line that move from left to right at a constant rate. As we move along from left to right we stand on all other people – or the idealised statistical pseudo-people – the lines and dots – who represent us, in an unwavering vertical line. As everyone else who moves along the demographic chart does so at the same rate (i.e. we have this characteristic of aging one year per year, which Thomas Shelling considered a strange characteristic!) it is as if the whole line moves from left to right.
+As the vertical line moves inexorably from left to right, its height – the aggregated number of dots or thinly sliced pieces of line – changes. In a closed society – where there is no immigration – this change is always downwards: From an initial level, there is a slow but inexorable decline as one moves from left to right.
+Mathematically, this could be represented as follows:
+Population(birthyear, currentyear) = A.exp-(decay function)(currentyear-birthyear)
+A is the number of births in the particular birthyear, and the decay function could either be a constant, of a function comprising some other variables.
+]
+
+Unfinished: Needs facts confirming, original references to be found, and to be more clearly related to the task at hand.
+References?
+Confirm the definition
+This is proposed to lead to the 'feminist bank teller fallacy'.

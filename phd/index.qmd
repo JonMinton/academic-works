@@ -1,0 +1,68 @@
+---
+title: "PhD: Work and its Other"
+subtitle: "A Multiple-perspective Analysis of Incapacity Benefit Reform"
+---
+
+::: {.archive-notice}
+**Archive notice:** This page presents two versions of the PhD thesis. The **pre-revision draft (2008)** is the author's preferred version, presenting the ambitious theoretical framework before it was condensed through the viva revision process. The **final submitted thesis (2009)** is the complete 322-page document as examined. Both are presented for completeness.
+:::
+
+## Overview
+
+| | |
+|---|---|
+| **Degree** | PhD Sociology and Human Geography |
+| **Institution** | University of York |
+| **Year** | 2005--2009 |
+| **Supervisors** | Prof Roger Burrows (Sociology, York), Prof Danny Dorling (Geography, Sheffield), Dr Kate Pickett (Health Sciences, York) |
+| **Funding** | White Rose Consortium "Sustainable Communities" research network studentship |
+| **Title** | *Work and its Other: A Multiple-perspective Analysis of Incapacity Benefit Reform* |
+
+## The two versions
+
+### Pre-revision draft (2008) — preferred
+
+The working draft from PhD Year 2 (March 2008 DVD backup) contains the theoretical framework in its most expansive form. The thesis was structured in three sections and eight chapters:
+
+**Section One: How political decisions are made**
+
+1. [Chapter Outline](pre-outline.qmd) — The decision-making frame
+2. [Chapter 1: Decision-making and the Emergence of Social Elites](pre-ch1.qmd) — Drawing on Damasio's neuroscience and Diamond's biogeography
+3. [Chapter 2: Authorities and Bureaucracies](pre-ch2.qmd) — Weber and Milgram on bureaucratic organisation
+4. [Chapter 3: Work, Sickness, and Community](pre-ch3.qmd) — Linking work, sickness, and reciprocation
+5. [Chapter 4: The Rise of Formal Paid Work](pre-ch4.qmd) — Fragment/notes
+
+**Section Two: How political decisions are made with respect to work and sickness**
+
+- Chapter 5: Formalisation and rationalisation *(not in 2008 snapshot)*
+- Chapter 6: Contemporary links between sickness and employment *(not in 2008 snapshot)*
+
+**Section Three: How political decisions have been made with respect to Pathways to Work**
+
+- Chapter 7: Historical and cross-national analysis *(not in 2008 snapshot)*
+- Chapter 8: Case study of Pathways to Work *(not in 2008 snapshot)*
+
+The first three chapters are substantial (450--620 lines each), dense, and intellectually ambitious. Chapter 4 is fragmentary.
+
+### Final submitted thesis (2009)
+
+The complete thesis as submitted and examined: 322 pages, September 2009.
+
+[Download the final thesis PDF](final.qmd)
+
+A post-viva revised version (January 2011, 307 pages) also exists in the archive.
+
+## Intellectual trajectory
+
+The PhD evolved significantly from its original proposal. The 2005 application described two related but distinct projects:
+
+1. **The funded project** (White Rose Studentship): *Simulating Geographies of Homelessness and Worklessness* — applied microsimulation modelling in Leeds, Sheffield, and York
+2. **The personal research interest**: *The Evolution and Utility of Government* — ambitious theoretical work on evolutionary politics and decision-making
+
+By 2008, the thesis had become a theoretical hybrid: the proposal's ambitious framework (Damasio on consciousness, Weber on bureaucracy, Diamond on government evolution, Polanyi on economics) was being applied to analyse the **Pathways to Work** policy as a concrete case study. The pre-revision chapters show this theoretical scaffold being constructed.
+
+## Key themes
+
+::: {}
+[Incapacity Benefits]{.topic-tag} [Pathways to Work]{.topic-tag} [Damasio]{.topic-tag} [Weber]{.topic-tag} [Polanyi]{.topic-tag} [Diamond]{.topic-tag} [Milgram]{.topic-tag} [Welfare Reform]{.topic-tag} [Decision-making]{.topic-tag} [Bureaucracy]{.topic-tag}
+:::

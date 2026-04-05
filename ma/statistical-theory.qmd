@@ -1,0 +1,21 @@
+---
+title: "Statistical Theory as Model"
+---
+
+Statistical Theory as Model-building
+
+According to the Harvard political scientist Gary King, most statistical models within the social sciences take on the following form:
+
+[Equations 1 and 2]
+
+Where [definitions].
+King, on the other hand, recommends changing the form of the model to the following:
+
+[equations 3 and 4]
+
+Where [definitions]
+
+This […]
+
+Can I be bothered finishing this?
+It's difficult to write this section without using lots of pictures and some equations.

@@ -1,0 +1,14 @@
+---
+title: "Preface"
+---
+
+(Preface)
+
+In the middle of 2005 I applied to conduct funded PhD research with the provisional title, “Simulating Geographies of Homelessness and Worklessness”. When I applied, I was fairly sure I knew what the latter two nouns meant. Now, in 2006, I’m less sure: as I’ve explored the conceptual, theoretical, technical and empirical framework underlying the ontology of these negations I have, as one would have hoped, learned more. As I have learnt more, however, I’ve ‘known’ less: clarity has begotten confusion, and a clear path has become a snaking wilderness.
+
+My initial task within this thesis will be to attempt to instil within you, the reader, a semblance of the confusion I have felt over the course of my research. Once I have taken you into the wilderness, I will then attempt to show a possible route out. My journey is rarely travelled because, within academia, despite many people’s best efforts and intentions, a certain kind of tribalism seems more the ‘rule’ than the ‘exception’: having sojourned within both the applied physical sciences and the postmodern humanities, I know first hand the differences in attitude which appear both a cause and effect of a hard division between ‘hard’ and ‘soft’ disciplines.
+
+The social sciences*are*hard: they’re hard because social phenomena is inherently dynamic and complex, because the scales of time and space involved are very large, because we can’t run ‘controlled experiments’ on society (and where such attempts have been made the consequences have tended towards disaster), because the data (or our tools for data analysis, or both) are inadequate, and because the level of certainty we usually want from our investigations are less than we can achieve.
+
+They’re also hard because they’re important. No one can elect not to be a social being, and not be part of a social world. Uncertainty about the meaning and direction of our existence is difficult to accept because, ultimately, this is all we are, and all we have
+The polymath economist John Maynard Keynes is alleged to have asked the physicist Max Planck whether he had ever considered social research: his reply was that he hadn’t because the maths were too hard. (see Ormerod, 1998: 191 1. Ormerod, P.,*Butterfly Economics: A New General Theory of Social and Economic Behaviour*. 1998, London: Faber & Faber. 217.)

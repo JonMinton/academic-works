@@ -1,0 +1,259 @@
+---
+title: "Introduction"
+---
+
+1
+  
+  
+  
+  
+  
+  
+  
+  
+
+**Introduction**
+
+***1.1	Overall Introduction***
+
+The overall aim of this project is to create a functioning prototype for device capable of determining the displacement of an ‘object,’ within a two-dimensional plane, between its current position, and its position at a previous time:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*The Problem: A prototype device needs to be able to know how much an object has moved in a two-dimensional plane from a previous occasion*
+
+*[Fig. 1.1]*
+
+The prototype should be able to report to the user how much the object is displaced from its original position, and thus allow the user to adjust the re-position the object into its original location
+
+***1.2 	Examples***
+
+******
+
+***Introduction***
+
+******
+
+Before continuing, it is useful to consider some real-life scenarios where finding a solution to the problem described is useful.
+
+******
+
+***1.2.2 	A Specific Example***
+
+****
+
+*Consider a machine designed to solder a component on a circuit board. The machine has a circuit holder, and under which a tool head – holding the soldering device –, moved by two pairs of motors normal to each other, so that the tool head moves in the same plane as the circuit. After finishing soldering a component, the tool head returns to its rest position. If the actual rest position of the tool head is significantly different to the calibrated one, then the soldering device will solder in the wrong position and the component will not be soldered correctly:*
+
+**
+
+**
+
+**
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*A Specific Example: The tool head moves within a two-dimensional plane. When it has finished machining a part, it returns to a rest position. If the rest position it actually returns to is different to the intended rest position, then all machining operations by the device will be in the wrong place.*
+
+*[Fig. 1.2]*
+
+To calibrate using the calibrating device:
+
+The four extremities of the rectangular circuit holder could be marked with a colour used nowhere else on or near the machine (such as with a fluorescent colour); the soldering device could be removed, leaving the tool head, which could be marked at a specific position with another distinct, but different, colour.
+
+The camera could be positioned, by hand, roughly above machine, such that four rectangular fixed points on the soldering device (and thus the points marking the machine geometry) are visible to the calibrating device. An image could then be taken, and the position of these machine geometry points determined. If the shape, formed by the points, matches the geometry of points defining the machine input previously into the calibrating device, then the calibrating device is known to be at the correct angle to the machine. 
+
+Using existing digital image correlation (DIC) techniques, any disparity between a pair of images, where the disparity is local to part of the image-pair, can be determined, and distinguished between disparity common throughout the image-pair (Which is known as ‘rigid-body’ disparity, and may occur, for example, if one of the images is taken when one image is taken further to the right than the other image). This local disparity, common only to a small portion of the image-image pair, indicates that something *within* the machine, and not the machine itself nor the camera, has moved – Thus, hopefully, the tool head disparity has been identified. 
+
+From this information, the actual position of the tool had can be determined and, as before, compared with the desired position, and the disparity output to the user as a real value.
+
+***1.2.3	Some Other Examples***
+
+Other examples of real-life problems that require this kind of object displacement within a two-dimensional plane to be identified are as follows:
+
+***Quality Control***: When a circuit board has been made, an image of the board could be taken, and the position of the components on the board compared with those taken on a correctly positioned test image. If any of the components are significantly out of position then the board could be rejected and the machinery that places the misaligned components investigated.
+
+***Robot Tool-head Positioning***: Using a pair of the devices, placed at different positions, the position of a tool-head of a robot, or other machine whose field of movement in three-dimensions, could be compared with that when properly in positions. Finding the displacement of an object in three dimensions can be solved as a set of Cartesian problems involving displacement in two-dimensional planes.
+
+***Abstraction Of Problem***
+
+******
+
+***Introduction***
+
+The problem to be solved could be considered analytically as involving three stages:
+
+***Locating the object plane***: The prototype device needs to be able to determine its own position relative to the plane the object exists on.
+
+***Locating the object***: The prototype device needs to be able to locate the position of the object *within the plane*.
+
+***Finding object displacement***: The prototype device needs to be able to determine the displacement in the plane of the object, between its current position, and the correct position.
+
+Each stage of the problem will now be described individually:
+
+******
+
+***Stage One: Locating The Plane***
+
+Consider a three-dimensional space: Within the space is a two dimensional plane and the calibrating device. The calibrating device could be thought considered as a point P~cam~, and a unit vector **V****~cam~**, located at point P~cam~. The point P~cam~ marks the camera *position*, and the unit vector **V****~cam~** marks the *direction* the camera faces.
+
+On the plane is a bounded area **A**, at the centre of which is a point P~plane~, from which a unit vector **V****~normal~**, of the normal to the plane, could be located.  
+
+Starting at P~cam~, one could consider a viewing cone, in direction **V****~cam~**, to emanate. 
+
+The camera should be positioned so that the bounded area **A** lies within the viewing cone. 
+
+Certain features of the bounded area **A** should be identified. With these, the direction of the normal vector of the plane **V****~normal~**, and the position of point P~plane~, should be identified.
+
+With this information, the camera should be positioned such that **V****~normal~** = -**V****~cam~**, and that both P~plane~ and P~cam~ lie at some position within this vector: i.e., that the camera *directly* *faces* the area of interest.
+
+The process for positioning the camera with respect to the plane could itself be completed in a number of stages: First to locate the whole of the whole of the area A, then to ensure the camera faces the plane normally in the x-y axis (for example), then the y-z axis. 
+
+***Stage Two: Locating The Object***
+
+Assuming the camera is now facing the area of interest, the next stage is to locate the position of the object within the bounded area **A**. This could be considered as follows:
+
+An object, O, exists somewhere within the fixed boundaries of the area on the two-dimensional plane. 
+
+A certain feature marking part of the area boundary is located and considered the origin point (0,0) of the area. Other features of the area boundary are identified, and used later.
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*The area ****A****: Features marking parts of the boundary of this area are identified, and their positions within the camera images are stored*
+
+*[Fig. 1.3.1]*
+
+The object of interest, existing within the area, is identified, and its position in the camera image is found relative to the origin feature:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*The current position of the position within the bounded area is located in the camera image*
+
+*[Fig. 1.3.2]*** [*equation*]{.eqn-ref} *[Eqn. 1.3.1]*
+
+******
+
+***1.3.4	Stage Three: Finding Object Disparity***
+
+Having located the current object position, it now has to be compared with its original position, and the displacement between these two positioned provided to the user. There are, broadly, two ways to do this:
+
+The position of the movable object in the image at the present moment could be translated into a *real* position (in millimetres, centimetres etc) by comparing its position to those of fixed marker objects (the identified boundary features) whose real geometries (the real-life distances and angles between objects) are known. This could be compared with the real-life position of the movable object within the area when correctly positioned, and the displacement between these two positions output to the user. [*equation*]{.eqn-ref} *[Eqn. 1.3.2]*
+
+An image of the object in the area, when in the correct position, could be stored in the prototype system. This could be compared directly with the image of the object in the area at the present moment, and the disparity between the two objects in the two images (in pixels) determined. This disparity in pixels could then be translated into a real-life disparity by comparing the distances of the fixed boundary features in the images, with their actual distances between these fixed features. Again, this essentially provides a scale, which can be used to convert between pixel disparities and real-life disparities.
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*An image of the object when in the correct position*
+
+[Fig. 1.3.3] [*equation*]{.eqn-ref} *[Eqn. 1.3.3]*
+
+The second approach is used in the project, because using this approach means:
+
+The user does not actually have to know the real-life position of the object when in the correct position, just have taken an image of it at this position to cross-reference with.
+
+The marker does not have to be painted or connected to something of a specific colour or shape for the prototype to identify, which would be difficult to arrange if the object is an intricate part of a machine. 
+
+***The Test Problem***
+
+For the purpose of testing the prototype in this project, the bounded area used was of a simple rectangle, the boundary features being the four corners. The distances between the centres of the boundary features (i.e. the height and width of the rectangle) were set and known by the prototype system for referencing with the position of these features in images:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*Diagram of the area and boundary features used*
+
+*[Fig. 1.4.1]*
+
+**
+
+**
+
+*Picture of the actual test area*
+
+*[Fig. 1.4.2]*
+
+**
+
+***1.5	Possible Techniques To Solving The Problem***
+
+******
+
+***	1.5.1	Introduction***
+
+******
+
+Two basic techniques were considered to solve the test problem: Digital image correlation (DIC) based on fast-Fourier transforms (FFTs), and fiduciary marker analysis:
+
+******
+
+***	1.5.2	Digital Image Correlation***
+
+******
+
+Digital image correlation is based on two-dimensional fast Fourier transforms (FFTs). It allows two similar images to be compared to locate areas of disparity between the two images as a whole, or sub-areas of the two images.
+
+Presently, DIC techniques have been used and developed by the university to provide highly accurate and comparatively inexpensive methods to determine minute relative displacements in objects due to known and controlled variables (such as the physical warping of microchips due to heat generated during operation) under controlled (laboratory) conditions. 
+
+Applying DIC techniques towards this end is a potentially inexpensive alternative to developing ever more intricate cameras, as it relies more heavily on software than hardware: For example, sub-pixel algorithm techniques have been developed by the university to allow much more displacement information to be acquired from the same physical device, and thus allow more accurate data to be acquired at the same material expense. 
+
+In laboratory conditions, the position of the imaging device relative to the two-dimensional plane on which the image-pair disparity occurs can be controlled and known to a high degree. In the workplace, this is not the case, and so the imaging device needs be able to have some means of sensing its own position relative to the plane of interest. DIC techniques exist that allow this plane positioning information to be determined, but the most obvious application for DIC techniques is determining the position of the object within the plane, when the imaging device is facing the plane directly. 
+
+A more detailed explanation of the theory behind DIC is given in the next section (Section 2.2).
+
+***1.5.3	Fiduciary Marker Analysis***
+
+******
+
+An imaging device is capable of distinguishing between objects within the image if they have distinctive properties. They can have a size, shape, or colour that distinguishes them from other parts of the image. If the objects within the image can be reliably distinguished from others they can be used as fiduciary markers, to be used as reference points to determine displacement, scale and position of both objects and the imaging device:
+
+If the relative positions of a number of distinguishable markers are fixed and the position of a camera is variable, they can be used to determine the position of the camera relative to the markers. 
+
+If the positions of the markers vary, but the camera position is fixed, they can be used to determine the real displacements of objects and parts on which the markers exist.
+
+******
+
+***Brief Discussion Of Approaches***
+
+******
+
+Both DIC and fiduciary marker analysis can be applied to solving all three areas of the problem. Each has distinct advantages and disadvantages when applied to different types of task, due to the way they work:
+
+  
+    
+      ****
+      ****
+    
+    
+      **
+      
+    
+    
+      **
+      
+    
+    
+      **
+      
+    
+    
+      **
+      
+    
+    
+      **
+      
+    
+  
+
+| Problem feature: | Best method to use: |
+| --- | --- |
+| Object plane is an amorphous, fixed surface | DIC |
+| Object plane is a smooth surface, or has as repeating pattern throughout | Fiduciary markers |
+| Object is of a fixed and easily machine- distinguishable shape or colour | Fiduciary markers |
+| Object within boundaries is not distinguishable through shape or colour, but is the only feature within the shape that moves | DIC |
+| Distinctive fixed markers cannot be used in nearby vicinity of object | DIC |
+
+For the project, a combination of both techniques was used.
+
+**
+
+
+**

@@ -1,0 +1,39 @@
+---
+title: "Work and Worklessness"
+---
+
+Work and Worklessness
+
+[My overall aim in this section is to promote the idea that work is ultimately one of a number of possible ways an individual could demonstrate to members of their community that they’re ‘worthy’ members. If they don’t feel obliged by themselves and their peers to work then they’re less likely to. The elderly don’t feel obliged because the general heuristic assumption is that they’ve already contributed to the work of others and so their social standing is ‘in the bank’ (so to speak). Unemployed in areas of high unemployment don’t feel obliged to work because most of their peers don’t work either, so their social standing relative to their peers is OK. Within such communities, it would make sense for a certain insularity and cultural myopia to set in, as considering impossibly more affluent groups would be deleterious to one’s well-being.]
+
+[Work is a way to acquire money. Money maps onto a simple logic of practice of reciprocation and obligation. Bourdieu noted that tribal members often*feared*receiving gifts from other tribal members, as this meant they became what in modern societies would be classed as a ‘debtor’. Polanyi – in the Great Transformation – gives an interesting description of previous forms of social reciprocation. Capital is both something that’s (possibly) an extension of such logics of practice, and something that’s qualitatively different. Steven Pinker wrote something similar, but of course he’s not popular amongst conventional social sciences, so should probably not be referenced favourably/authoritatively!]
+
+According to the biogeographer Jared Diamond (1991), the average numbers of hours worked by members of modern capitalist civilisations tends to be much in excess of those worked by members of hunter-gatherer societies. This observation is, I believe, non-trivial in helping one to conceptualise the ontology of work.
+
+The labour economist Andrew Clark has written a number of papers exploring the link between wellbeing and employment, whose findings bear considering in some detail. In the paper, “Unemployment as a social norm”, Clark (2003) uses the British Household Panel Survey to assess the effect unemployment has on an individual’s sense of wellbeing, given the employment status of the individual’s peers. This leads to some interesting findings. According to Clark, though “well-being is typically negatively correlated with others’ employment … a closer examination reveals a distinct pattern … : the well-being of the employed is often lower when the unemployment rate of others is higher; on the contrary, the unemployed report higher levels of well-being as others’ unemployment rises.”
+“Loosely speaking,“ writes Clark, “unemployment hurts less the of there is of it around”(2003: 325-6).
+
+There are, broadly speaking, two types of poverty: absolute (privation) and relative (deprivation).
+Both have deleterious effects upon health, but through different pathways. For the vast majority of human history, poverty has been absolute, and absolute poverty is Darwinian: absolute poverty is the absence of sufficient resources to stay alive. Absolute poverty, in the West, thankfully no longer exists.
+But this does not mean that poverty no longer exists, and no longer kills. In the Victorian age, the poor were liable to be rakishly thin, and die from malnutrition and preventable disease. Now, the poor are liable to be overweight, and die from malnutrition and preventable disease. Whereas before the poor died from a lack of calories, now they die of an excess of calories. Whereas before they died of tuberculosis and dysentery, now they die of liver, lung, and heart disease.
+
+According to the social epidemiologist Richard Wilkinson, the pathway through which relative poverty kills is social stress. Wilkinson’s ‘relative deprivation hypothesis’ has been the kernel for a lot of academic research, and is consonant with the approach adopted by poverty researchers such as Townsend, who made poverty a measure of whether someone can afford to have something that the populace at large believes everyone should be able to have.
+
+[There’s an interesting article by Jonathan Bradshaw which compares different measures of poverty. Amongst the elderly relative measures of poverty were less well correlated with psychological poverty – ‘feeling poor’ – than amongst other groups. I want to clarify this and integrate it somehow with the norm-formation theory – the idea that people form most of their habits when they’re in their teens/early 20s (hence advertisers pumping more money into targeting the young – who are more impressionable – rather than the middle-aged and old – who have more purchasing power). An explanation for the breakdown in correlation between psychological and relative measures of poverty amongst the elderly is that the habits of the elderly were formed at a time when the average level of material wealth was much less than at present – link to GDP growth – and because the norm-forming window has passed them long ago the elderly don’t consider not having as much as the average person to be that much of a problem.
+
+[Similarly strange findings amongst the elderly emerged in Dorling’s Japanese regional inequality study. These are discussed briefly in Wilkinson’s very recent paper summarising the results of over 150 studies which assess the relative deprivation hypothesis. ]
+
+[I read an interesting article in the FT (around November 2004) defining the upper-middle-class/London poverty line… at well above the national average. C.f. George Orwell’s description of his family’s socioeconomic status as ‘lower upper middle class’: the ‘poverty line’ for a family who sends their children to a top boarding school!]
+
+[Of course, Veblen is relevant here. More generally I want to try to translate from the conceptual to the operational and find out more about the theory of ‘Veblen Goods’ – goods whose demand*increases*rather than decreases as price increases – and how it relates to poverty. Richard King – my previous supervisor – lent me his copy of Hirsh’s Social Limits to Growth(?) which is also worth mentioning]
+
+[E.O. Wilson wrote about a ‘ratchet’ effect with respect to human technology and growth – that one can move ‘up’ but not ‘down’ – which is interesting and conceptually relevant… but unfortunately Wilson tends to be characterised by sociologists as a cloven-hoofed biological determinist, so referencing him directly probably wouldn’t be wise.]
+
+Get exact numbers and references: from memory think numbers are about 1/2: ~18 in h-g societies vs. ~36 in modern societies
+Reference
+Clarify
+Reference
+Clarify/define more exactly
+Reference: DJ Taylor's biography of Orwell
+Add to bibliography
+Conscilience

@@ -1,0 +1,387 @@
+---
+title: "Theory"
+---
+
+3
+  
+  
+  
+  
+  
+  
+  
+  
+
+**Theory******
+
+***2.1	Section introduction***
+
+******
+
+This section details the theory behind the two different types of technique used within the project, digital image correlation (DIC) and fiduciary marker analysis.
+
+***2.2	Digital Image Correlation***
+
+******
+
+***2.2.1	Introduction*********
+
+******
+
+Digital Image Correlation techniques are those that use computers to compare two or more images for common features. They are often based on fast Fourier transforms (FFTs) which are themselves a computer-optimised form of discrete Fourier transforms (DFTs).
+
+***2.2.2	Cross-correlation using Fourier Transforms***
+
+***2.2.2.1	Basic Principles*********
+
+Fourier transforms convert a signal whose magnitude varies with an independent variable (such as time or position) into a frequency-dependent signal [1] [2]: [*equation*]{.eqn-ref} *[Eqn. 2.2.1]*
+
+The inverse Fourier transform is: [*equation*]{.eqn-ref} *[Eqn. 2.2.2]***
+
+such that: [*equation*]{.eqn-ref} *[Eqn. 2.2.3]***
+
+A cross-correlation signal can be formed using the equation: [*equation*]{.eqn-ref} *[Eqn. 2.2.4]***
+
+where: [*equation*]{.eqn-ref} *[Eqn. 2.2.5]***
+
+Two important properties of Fourier transforms need to be noted: [*equation*]{.eqn-ref} *[Eqn. 2.2.6]*** [*equation*]{.eqn-ref} *[Eqn. 2.2.7]***
+
+thus: [*equation*]{.eqn-ref} *[Eqn. 2.2.8]***
+
+If s~2~(x) = s~1~(x – *dx*) (– i.e. one signal is the same as the other, but translated by a quantity *dx*), then:
+
+*[Eqn. 2.2.9]*
+
+Thus the output function cc(x) includes the displacement between the two signals.
+
+For impulse functions, this result is useful. 
+
+***2.2.2.2	Basic Example***
+
+If: [*equation*]{.eqn-ref} *[Eqn. 2.2.10]* [*equation*]{.eqn-ref} *[Eqn. 2.2.11]***
+
+i.e. both s~1~ and s~2~ are impulse functions translated to a position +x~1~, s~2~ being s~1~ further displaced by dx, then: [*equation*]{.eqn-ref}  [*equation*]{.eqn-ref}  [*equation*]{.eqn-ref} *[Eqn. 2.2.12]***
+
+***Representing this graphically: ***
+
+If s~1~(x) and s~2~(x) are as follows:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*Input signal 1				Input signal 2*
+
+*[Fig. 2.2.1]*
+
+then the cross-correlation is:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*Output signal of cross-correlation function*
+
+*[Fig. 2.2.2]*
+
+***2.2.2.3	Multiple term example*********
+
+Consider the case of [3.2.9], where: [*equation*]{.eqn-ref} *[Eqn. 2.2.13]***
+
+and: [*equation*]{.eqn-ref} *(where k is a real constant)*
+
+*[Eqn. 2.2.14]*
+
+i.e. Both signals comprise of two impulse functions, but shifted by dx. [*equation*]{.eqn-ref}  [*equation*]{.eqn-ref} *[Eqn. 2.2.15]***
+
+******
+
+***Representing this graphically:***
+
+If s~1~(x) is:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*Input signal 1				Input signal 2*
+
+*[Fig. 2.2.3]*
+
+**
+
+then the output signal, cc(x), is:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*Output signal*
+
+*[Fig. 2.2.4]***
+
+Often, the [*equation*]{.eqn-ref} component of the function has a significantly greater amplitude than the others, and so can be identified as representing the correct displacement between the two input signals. In the above example, finding the mean x position of all signal components, or filtering out any components whose amplitude is below a certain threshold of the maximum, would both produce the correct displacement dx. 
+
+***2.2.3	Application Of Technique To Image Processing***
+
+An array is a series of (**N** by 1) elements: discrete values that vary depending on their position within the array. Thus, an array could be considered a signal, comprising of a finite series of equally spaced impulse functions, each multiplied by different position-dependent amplitudes. [*equation*]{.eqn-ref} *[Eqn. 2.2.18]***
+
+(where k is the distance between components.)
+
+If: [*equation*]{.eqn-ref} *[Eqn. 2.2.19]***
+
+then: [*equation*]{.eqn-ref} *[Eqn. 2.2.20]***
+
+An array of this form could also be represented as a sequence of coloured blocks, whose colour (or intensity of colour) is dependent upon the value of the array element:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*Two ways of representing the contents of a one-dimensional array: As a set of equally spaced impulse functions of variable value, and as a set of coloured blocks, whose colour depends upon the element value*
+
+*[Fig. 2.2.5]*
+
+Similarly, a two-dimensional matrix (**M** by **N** elements) could be represented as a two dimensional block of M by N value-dependent pixels:
+::: {.missing-figure}
+[Figure — original CorelDRAW graphic not available in web version]
+:::
+*Two-dimensional graphical equivalent of the above method for representing the contents of a matrix*
+
+*[Fig. 2.2.6]***
+
+This is how a greyscale image is stored. (In an actual greyscale image, very light colours usually represent the highest pixel values, and very dark colours represent very low pixel values.)
+
+Thus, a *two-dimensional* version of the cross-correlation function shown before can be used on a pair of equally sized images to determine correlation between them. 
+
+***2.2.4	An Example:***
+
+s1 and s2 are two greyscale images, 64 pixels by 64 pixels. 
+
+s2 is s1, shifted by (2, -5) pixels.
+
+*Input signals s**~1~**(x,y) and s**~2~**(x,y)*
+
+*[Fig. 3.2.7]*
+
+The cross-correlation is:
+
+*Output signal cc(x,y)*
+
+*[Fig. 3.2.8]*
+
+This can also be represented in a normalised form, using: [*equation*]{.eqn-ref} *[Eqn. 3.2.9]*
+
+where max{f(x,y)} is the greatest value of any element within the array.
+
+This gives:
+
+*Normalised output signal ncc(x,y)*
+
+*[Fig. 3.2.10]*
+
+Normalising the cross-correlation allows standardised analysis to be performed on the resulting function. As the un-normalised cross-correlation represents the sum of all pixels that can be cross-correlated at each position, the actual value of the peak depends upon, for instance, image size (which affects the number of pixels summed to form the peak) and average intensity. Normalising allows standard functions (such as one that removes all values below 80% of the maximum – and thus those that are unlikely to include the image disparity position) to be applied to the code irrespective of the properties of the original input signals.
+
+As you can see, the intensity peak exists at the position of the displacement between the two images, and can be identified to find the x- and y-axis disparity between the two images.
+
+***2.3	Fiduciary Markers***
+
+******
+
+***2.3.1	Introduction*********
+
+******
+
+The other broad area involved in this project is fiduciary marker identification and analysis. Fiduciary markers are distinguishable parts of a physical body that can be used to help determine positions of real features from images.  
+
+For fiduciary markers to be useful, they need to be easily identifiable, and something about how the markers represent parts of the physical body (such as real-life distance between two markers), needs to be known.
+
+******
+
+***2.3.2	Marker Identification By Colour***
+
+******
+
+For a computer to recognise a marker in an image, something about the visual properties of the marker needs to be identifiable, by the computer, from those of the rest of the image. One of the most common approaches is to make fiduciary markers of a distinct colour, not naturally present on the object of interest.
+
+Obviously, this involves using colour images, rather than greyscale images. A bitmap (with a ‘.bmp’ file extension) image file stores a colour image **M** by **N** pixels in size as a **M** by **N** by **3** matrix[3]. Each of the three positions of the third dimension stores the red, green and blue component (respectively) of the colour image.
+
+For example, if the colour image is:
+
+*Test colour image*
+
+*[Fig. 2.3.1]***
+
+then it will be stored as three separate intensity planes, representing the red, green and blue components of the complete image
+
+*Red, green and blue components of previous image*
+
+*[Fig. 2.3.2]*
+
+Similarly, for a colour image taken using a webcam, stored as a bitmap image:
+
+*Colour image taken using a simple webcam*
+
+*[Fig. 2.3.3]*
+
+**
+
+The image is stored as the following three intensity planes:
+
+*Red				Green*
+
+*Blue***
+
+*Red, green and blue components of the colour webcam image*
+
+*[Fig. 2.3.4]*
+
+**
+
+Different combinations of the three stored colour intensity planes produce other intensity planes whose intensity is greatest only at specific colours. For example, a red colour has a high intensity value on the red intensity plane, but a white area also has a high intensity value on the red intensity plane (as white light is a combination of all colours of visible light). By subtracting the average (greyscale) intensity of all three planes from the red intensity plane, a resulting intensity plane is created where the greatest intensity values occur only at parts of the image that are *exclusively* red; thus it takes information from all three colour planes to determine areas of a specific colour:
+
+***Exclusive**** red intensity planes for both test images: Note the increased contrast compared with the non-exclusive red intensity images, which would make identifying markers of the specific colour easier.*
+
+*[Fig. 2.3.5]*
+
+**
+
+This kind of processing is useful in determining marker positions based on colour. A first stage in identifying a marker could be to find the areas of greatest intensity in the exclusive intensity plane of the colour of the marker, although more processing needs to take place to make sure the marker is correctly identified.
+
+A fiduciary marker need not be of a red, green or blue colour, as any colour can be identified using the right combination of red, green and blue intensity planes. Even black can be used- by creating a marker intensity plane that is the inverse of the greyscale intensity plane (itself the average of the three colour intensity planes) – although using a marker on the greyscale is not advisable in real-life situations, as both very bright and very dark areas of images can be the result of lighting, rather than object colour.
+
+*A simple example demonstrating the problems with using black or white as marker colours: It would be difficult for a computer to identify the headphones from the surrounding area as the shadows formed nearby are of a similar colour. This would not be the case if the headphones were, for instance, yellow.*
+
+*[Fig. 2.3.6]*
+
+******
+
+***2.3.3	Further Marker Identification Processes***
+
+******
+
+For a marker to be useful, it should ideally be identifiable in a Boolean sense: A particular point of an image should either 1) contain the marker, or 2) not contain the marker. There should be no ambiguity as to where the marker exists within the image. In practice, this means that the computer should be able to create a 1-bit mask of the marker from the original image:
+
+*Creating a marker mask: The computer should be able to identify the marker in the image (left), discriminating it from other image features, and create a binary mask of it (right)*
+
+[Fig. 2.3.7]
+
+The process for doing this is as follows:
+
+*From ****2.3.2***: Create an intensity plane that distinguishes the marker from other features using an appropriate combination of the red, green and blue intensity planes of the colour image [4]. In Fig. 3.3.7, this was done by:
+
+inverting the average of the green and blue planes:
+
+*Inverted average of green and blue planes***
+
+*[Fig. 2.3.8a]***
+
+(II.) 	inverting the red plane:
+
+*Inverted red plane*
+
+*[Fig. 2.3.8b]***
+
+(III.) 	subtracting (II.) from (I):
+
+*– (II)*
+
+*[Fig. 2.3.8c]*
+
+**
+
+***Subtract the mean*** value of the image (its DC component) from itself, then     
+
+ normalise, to increase contrast. (*Repeat more than once if necessary*)* *
+
+**
+
+**
+
+*DC subtracted and normalised once*
+
+*[Fig. 2.3.9a]*
+
+**
+
+**
+
+*DC subtracted and normalised twice*
+
+*[Fig. 2.3.9b]*
+
+***Apply an edge-finding filter to the image***: This essentially works by creating a blank mask (all 0s) of the original image. It then *sets a pixel at a particular position ****within the mask***, if there is a significant gradient change between neighbouring pixels of the corresponding position in the intensity plane (original) image. There are a number of methods for determining whether a particular point on an image represents the edge of an object. The Sobel method is the standard one used in Matlab for edge-detection [5].* *
+
+**
+
+*1-bit edge mask of intensity plane*
+
+*[Fig. 2.3.10]*
+
+**
+
+4. 	***Dilate the mask***: If a pixel in the mask is set to 1, then the pixels adjacent to it are also set to 1. This effectively thickens any lines created by the edge detector [6].* *
+
+**
+
+*Dilated mask*
+
+*[Fig. 2.3.11]*
+
+5.	***Fill any holes***: All unset pixels that exist within a closed boundary of set pixels are themselves set. This effectively fills any ‘holes’ existing in the closed bounds of a detected edge. As the edge filter is designed to identify possible edges of distinct objects, filling the areas in between these boundaries should fill in the part of the image where the marker exists.
+
+* *
+
+**
+
+*Filled mask*
+
+*[Fig. 2.3.12]*
+
+6.	***Erode the image***: Any set pixels adjacent to unset pixels are themselves unset. This effectively erodes all objects (groups of set pixels) in the mask. If an object is small enough, the process will remove it completely, leaving only larger, more significant objects that are less likely to be due to visual noise, and more likely to be the marker object. If a single application of the erosion process does not remove all erroneous objects, it may be applied a second time (As is the case in the particular code used). 
+
+*Mask eroded once: Note a small erroneous object is still present*
+
+*[Fig. 2.3.13a]*
+
+*Mask eroded twice: Now the small erroneous object has been removed, but the remaining object has been significantly reduced in size.*
+
+*[Fig. 2.3.13b]*
+
+7.	***Restore the marker object***: The mask created in the previous stage [Fig. 3.3.12b] contains only one object. This exists at the same position as the marker object, but is smaller, and of a slightly different shape (due to the arbitrary nature of the erosion process) than the actual marker object within the original image. The location of this eroded object can, though, be used to determine which of the objects in the un-eroded mask [Fig. 3.3.11] is the marker object. The location of the eroded object can be determined, and the object that exists at this location in the un-eroded mask can be located. All other objects can be removed, leaving a mask containing only the marker object, as desired [7].
+
+**
+
+**
+
+*Marker mask: This result is the right image in [Fig. 3.3.7]*
+
+*[Fig. 2.3.14]***
+
+***2.3.4		Marker Position Determination***
+
+The final stage is to find the position of the centre of the marker. This is necessary when comparing the positions of a number of markers to determine information about, for example, plane location and camera position.
+
+The process is as follows:
+
+Using the same mask example as before: *[Fig. 3.3.13]***
+
+*Example marker mask*
+
+*[Fig. 2.3.15]*
+
+**
+
+The marker object is located and loaded into a separate 1-bit matrix:
+
+*Marker object isolated within rectangle*
+
+*[Fig. 2.3.16]***
+
+The row and column coordinates that mark the start of the marker object rectangle (i.e. the coordinates that give the distance from the origin of [Fig. 3.3.14], to the origin of [Fig. 3.3.15]) are also stored.
+
+To find the centre of the marker object in [Fig. 3.3.15], a weighted average method is used for both the x-position and y-position.
+
+To calculate the x-position, the following formula [8] is used: [*equation*]{.eqn-ref} [*Eqn.* *2.3.1]***
+
+where: [*equation*]{.eqn-ref} The analogous operation, using y-positions and summations of row elements, is used to find [*equation*]{.eqn-ref} : the centre of the object in the y-axis.
+
+These are added to the start position of the rectangle, to find the position of the centre of the object in the image. [*equation*]{.eqn-ref}

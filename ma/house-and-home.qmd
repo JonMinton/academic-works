@@ -1,0 +1,16 @@
+---
+title: "House and Home"
+---
+
+House and Home
+
+[Big idea: A home is an asset with a variety of forms of potential value. It has value as a physiological good, which satiates low-level needs for warmth and shelter. It has value as a social (status) good, which displays to others one’s place within society.
+And it also has value as a speculative good: just as someone might pay more for some company shares than they ever assume they’ll recoup from dividend payments over a ten-or-twenty year periods, simply because they believe other traders will pay*even more*for the asset (presumably because they also believe others will pay*yet more still*for the asset), so someone might pay more to own a house than they ever assume they’ll be able to save from not renting a house for twenty to thirty years, if they think they can sell the house for more than they bought it for.
+Chaos and complexity theory suggest that speculative goods change in their value in a fashion which is inherently unpredictable in some senses, but also which follows a predictable signature. They enter what has been termed a ‘metastable’ region, where, though it is known they are susceptible to sudden changes in value in a known direction,*when*that sudden change in value will happen is extremely unpredictable. This quality of pattern is the subject of investigation of a branch of mathematical physics known as ‘catastrophe theory’.]
+[Homes are also valuable as collateral, which is a bit like saying home are valuable because they’re valuable. More creditors are willing to provide their services, at more favourable rates, if the debtor has a value asset against which the potential cost of the creditors service may be secured. This is one of many mechanisms by which ‘rich-get-richer’ dynamics can emerge in asset holdings. ]
+[Homes also help to cement social inequalities through their differing access to good schools. Children are no different from other age groups in the extent to which they’re more interested by their own peers than other peers. This means they’re more interested in the values and opinions of their fellow schoolchildren than of their parents or grandparents. It also means that the best way to improve the chances of a school child doing well at school is to be educated within a school where the school peer group’s social norm is to do well at school. There’s almost certainly a strong autocorrelation between factors which leads to a ‘lock-in’ effect – persons get a good job because they got good qualifications because they went to a good school, this allows them to move into an expensive house near a good school, which their children go to, who repeat the cycle in the next generation.
+The converse is also true: bad schooling in generation x leads to bad schooling in generation x+1. Without the financial resources to live in houses in expensive areas, the children don’t get to go to good schools, and don’t get good grades, and so the cycle repeats in the next generation.
+
+Describe in seperate subsection
+Describe in seperate subsection
+Concept to describe in seperate subsection

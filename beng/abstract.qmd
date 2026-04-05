@@ -1,0 +1,7 @@
+---
+title: "Abstract"
+---
+
+The purpose of this project is to create a working prototype for a machine vision system capable of being used in certain types of machine calibration and related problems.
+
+Specifically, the prototype needs to be able to identify and determine the real-life displacement of an object within fixed boundaries on a two-dimensional plane, and provide information to the prototype user.

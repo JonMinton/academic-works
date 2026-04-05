@@ -1,0 +1,14 @@
+---
+title: "Bibliography"
+---
+
+Bibliography
+
+ADDIN EN.REFLIST 1. Ormerod, P.,*Butterfly Economics: A New General Theory of Social and Economic Behaviour*. 1998, London: Faber & Faber. 217.
+2. Harris, B.,*Charity and Philanthropy in the 19th Century*, in*The origins of the British welfare state: social welfare in England and Wales 1800-1945*. 2004, Palgrave: Basingstoke. p. 59-75.
+3. Harris, B.,*Welfare from below: self-help and mutual aid*, in*The origins of the British welfare state: social welfare in England and Wales 1800-1945*. 2004, Palgrave: Basingstoke. p. 76-90.
+4. Harris, B.,*The origins of the British welfare state: social welfare in England and Wales 1800-1945*. 2004, Basingstoke: Palgrave. 416.
+5. *The business of giving: a survey of wealth and philanthropy*, in*The Economist*. 2006. p. 15.
+6. Bradshaw, J. and N. Finch,*Overlaps in dimensions of poverty.*Journal of Social Policy, 2003.32: p. 513-525.
+7. Wilkinson, R.G. and K.E. Pickett,*Income inequality and population health: A review and explanation of the evidence.*Social Science & Medicine, 2006.62(7): p. 1768-1784.
+8. Wooldridge, J.M.,*Introductory Econometrics: A Modern Approach*. Third ed. 2006, Mason: Thompson Higher Education.

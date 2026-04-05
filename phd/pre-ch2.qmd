@@ -1,0 +1,519 @@
+---
+title: "Chapter 2: Authorities and Bureaucracies"
+---
+
+Chapter Two: Authorities and Bureaucracies
+
+Introduction
+
+Chapter One presented a micro-level theory of decision making within individuals, and a macro-level theory of the emergence of complex, stratified societies. This chapter will use these two strands – micro-level behaviours, and macro-level social structures – and attempt to interweave them, in order to present a coherent theory of the emergence and functioning of formalised, hierarchical, bureaucratic social organisations.
+
+	As with chapter one, this chapter will proceed mainly through a relatively focused exegesis of a small number of existing theories, rather than through a more expansive but less detailed review of contemporary research within the given field of enquiry. There are a number of reasons for this approach: firstly, to present a sufficient discussion of a particular theory about a given social process such that, even without prior knowledge of the theory, the reader will be able to understand the core aspects of the theory such that the manner in which they will be applied is relatively transparent and their appropriateness (or otherwise) does not simply have to be ‘taken on faith’; second; secondly, to reduce the risk of accidental ‘ventriloquism’ of the original theorists and fallacious misinterpretation of their ideas; and thirdly, to improve readability through greater narrative consistency, and by reducing the risk of obscuring key points through continual digression to discuss counterpoints. 
+
+	Also, as with chapter one, this chapter will focus on two well-known theorists: in this case, Max Weber and Stanley Milgram. As with chapter one, one theorist (Weber) will be utilised to adopt a ‘macro-level’ position and the other (Milgram) will be used to present a ‘micro-level’ position. However, unlike in chapter one, by the end of this chapter the connection between the two theorists will be made explicit: a ‘mid-level’ theory will be presented which suggests how the micro-level observations of Milgram corroborate with macro-level theories of Weber. The micro-level theory presented in this chapter operates at a ‘larger scale’ than (‘is “macro” with respect to’) the micro-level theory presented in chapter one; conversely, the macro-level theory presented within this chapter is at a ‘lower level’ than (‘is “micro” with respect to’) the macro-level theory presented within chapter one. From the perspective of chapter one, therefore, this second chapter represents a partial convergence towards mid-level theorisation, as the following schematic illustrates:
+
+Figure 1: Schematic suggesting how Chapters One and Two relate
+
+Jared Diamond (Macro)
+
+Max Weber (Macro)
+
+Stanley Milgram (Micro)
+
+Antonio Damasio (Micro)
+
+Convergent Theory (Meso)
+
+Chapter One
+
+Chapter Two
+
+This ‘convergent theory’ will combine Max Weber’s discussions regarding the machine-like nature of organizations, with Milgram’s theory of the *agentic mode*: a sudden switching in individuals’ form of behaviour, in specific and well-defined circumstances. The convergent theory will suggest that the bureaucratic machine exists largely because of the extent to which individuals have a tendency to adopt agentic, rather than autonomous, modes of behaviour when situated within formal and hierarchical social structures. [write some more]
+
+Weber
+
+Introducing Modernity
+
+Max Weber, together with Karl Marx and Emile Durkheim, is commonly taught as one of the three principal representatives of ‘classical sociology’. Sociology emerged in Europe in the nineteenth century as a mode of enquiry directed, broadly, at addressing the social conditions and consequences of ‘modernity’. 
+
+There is a danger in the previous statement of leaving the term ‘modernity’ – like any other abstract noun – undefined. As the aim of this discussion is not to needlessly introduce terms and then leave them semantically empty, it may be worth presenting a short, heuristic, checklist of features which characterise ‘modernity’.
+
+Modernity refers to a qualitatively different form of social structure and government to historically prior forms. More specifically, various forms of new technology allow ‘elites’ – operating through many levels of hierarchical command - to exert increasingly *direct *rule over large populations of ‘commoners’. This differs from the previous form of rule by the highest strata of elites, which tended to be more *indirect*, mediated through lower tiers of semi-autonomous elites who were more geographically proximate to those over whom they ruled. Indirect rule by the highest tier of elites meant granting significant governmental autonomy to lower tiers of elites, and thus relied upon a relatively complex and interdependent tapestry of power structures tapering to a single point. This mutual interdependence – between lower and higher tiers of the power structure – meant the level of direct influence the highest tier could have upon lower tiers was relatively limited: the power of the higher tiers was heavily contingent upon the willingness of lower tier elites to accept such rule, and if superior elite dissatisfied many of the subordinate elites then the subordinates could be liable to depose the superior, and either promote one of the members from their own ranks to the rank held by the usurped, or to the dispose of that higher rank completely, and fragment into a number of autonomous regional polities. Consequently, the level of administrative and cultural heterogeneity was relatively large: ‘commoners’ in different geographic regions thus tended to be subject to widely different social conditions, speak in very different – even mutually comprehensible – dialects, and had social identities which were, primarily, familial and local to the relatively small space of land on which they lived. 
+
+Integral to the transition from the feudal, indirect rule and social conditions of pre-modernity, to the more centralised, direct rule of modernity, then, was the emergence of the nation state and nationalism as, respectively, effective systems of geographically distal but direct rule, and increasing homogeneity of social identity within the geographic region in which the nation state operates. Although states have arguably existed for millennia, like the city-states of ancient Greece, such states functioned, over large areas, primarily through indirect rather than direct rule.  Within Europe, the continent within which ‘classical sociology’ emerged,  the ‘state-based nationalism’ of geographically extended direct rule only “became widely available, or even technically feasible ... during the nineteenth and twentieth centuries”.   [1][ p. 175] 
+
+Weber and Modernity
+
+Within the above broad-brush definition and description of modernity, the focus of the author’s attention has been on the transition from conditions of indirect to direct state rule, and the co-emergence of state-level social identities. Sociology emerged, to an extent, in the effort to explain these transitions and their consequences, but also emerged, to an extent, *because of * many of the changes it sought to explain: faster, more widespread communication and travel technology, which allowed greater intra-and-international collaboration between luminaries; more efficient agricultural technology, and efficient administration of foodstuffs and other necessities, which allowed increased specialisation and divisions-of-labour, including more academic specialists. 
+
+	One of the parts of the puzzle of modernity which Weber attempted to explain was with respect to these systems and mechanisms of direct rule: these were, and are, *bureaucracies,* * *and his analysis of these forms of social organisation stressed their ‘machine-like’ qualities. 
+
+In order to understand Weber’s analysis of bureaucracies further, the author will now present a sequence of passages  from Weber’s posthumously published *Economy and Society* [Ref, confirm], together with the author’s own reflections and interpretations of these passages within the given context.
+
+Modern officialdom functions in the following specific manner:
+
+I. 	There is a principle of fixed and official jurisdictial areas, which are generally ordered by rules, that is, by laws or administrative regulations. 
+
+  - The regular activities required for the purposes of the bureaucratically governed structure are distributed in a fixed way as official duties.
+
+  - The authority to give the commands required for the discharge of these duties is distributed in a stable way and is strictly delimited by rules concerning the coercive means, physical, sacerdotal, or otherwise, which may be placed at the disposal of officials.
+
+  - Methodical provision is made for the regular and continuous fulfilment of these duties and for the execution of the corresponding rights; only persons who have generally regulated qualifications to serve are employed.
+
+In public and lawful government these three elements constituted “bureaucratic authority”. In private economic domination, they constituted bureaucratic “management”. Bureaucracy, thus understood, is fully developed in political and ecclesiastical communities only in the modern state, and, in the private economy, only in the most advanced institutions of capitalism. [2][p. 104]
+
+Thus, Weber suggests that bureaucracies are specific neither to public- nor private-sphere social structures. Here it may be worth reminding ourselves of the historical contingency behind the public-private sphere distinctions which have been made. Thinking back to the second part of the first chapter, it is a general quality of more complex societies - with greater population densities and more efficient food production than sparser, simpler societies - that they show a trend towards increased specialisation of roles: as food becomes easier to produce, larger proportions of the population are able to engage in activities other than subsistence agriculture. The transition from subsistence agriculture to other forms of activity is gradual, and by no means inevitable. When just a small proportion of a population, for a small proportion of its time, is able to engage in non-subsistence activities, such non-subsistence activity tends to be generalist, and ‘political’ (related to the manner in which elites stay in power) in nature. The emergence of more specialisation of roles – for example with a proto-political, general ‘militia’ role splitting into separate redistributive, medical, public health, police and army roles – occurs ‘later’ in the process; and the emergence of such a large population not engaged in  subsistence activities  that the even non-governmental specialists begin to exhibit complex organisational structures and require their own, separate, administrative specialists, occurs even ‘later’ still.   
+
+	As Weber suggests:
+
+Permanent and public office authority, with fixed jurisdiction, is not the historical rule but rather the exception. This is so even in large political structures such as those of the ancient Orient, the Germanic and Mongolian empires of conquest, or of many feudal structures of state. In all these cases, the ruler executes the most important measures through personal trustees, table-companions, or court-servants. Their commissions and authority are not precisely delimited and are temporarily called into being for each case. [2] [p. 105]
+
+Here the distinction is being made between polities which operate through the familial or ‘patrimonial’ systems of indirect rule, and the more direct rule of modernist nation-states.
+
+II. 	The principles of office hierarchy and of levels of graded authority mean a firmly ordered system of super-and subordination in which there is a supervision of the lower offices by the higher ones. Such a system offers the governed the possibility of appealing the decision of a lower office to its higher authority, in a definitely regulated manner. With the full development of the bureaucratic type, the office hierarchy is monocratically organized. The principle of hierarchical office authority is found in all bureaucratic structures: in state and ecclesiastical structures as well as in large party organizations and private enterprises. It does not matter for the character of bureaucracy whether its authority is called “private” or “public”. [2][p. 105]
+
+Two important points are made here: firstly, that the social structure of bureaucracies is strictly hierarchical: a single subordinate does not report to multiple superiors, but instead, in general, there is a single vertical chain of command by which superiors are connected to subordinates. This ‘tree-like’ structure is one that we tend to be so familiar with, for example through official organisational charts, that it is worth emphasising that these are far from a ubiquitous form of social structure. [Network analysis; friendship groups; small-world theory – Milgram and Grosvenetter (sic?!) ] Secondly, the point is reiterated that the existence of a bureaucratic social structure can and does occur both within organisations whose intended functions relate to the public and the private sphere.
+
+When the principle of jurisdictional “competency” is fully carried through, hierarchical subordination – at least in public office –does not meant [sic] that the “higher” authority is simply authorized to take over the business from the “lower”. Indeed, the opposite is the rule. Once established and having fulfilled its task, an office tends to continue in existence and be held by another incumbent. [2][p. 105]
+
+A subtle though important point – and implicitly a distinction from other forms of social structure – is made here: *the official roles that individuals within bureaucracies occupy are ontologically distinct from the individuals themselves*. Different individuals come to occupy the same bureaucratic roles, and through this the role comes to become an obdurate and non-personal feature of the bureaucratic organisation as a whole. 
+
+	Though, given our present historical conditions and experiences, the above may now appear to be stating the obvious, one should not discount how the emergence and strengthening of this distinction – between the individual and the functional role the individual occupies within the bureaucracy – marked a pronounced change in the quality of social relations. 
+
+Two questions are worth considering at this point: firstly, how do individuals come to perform the roles required of them by bureaucracies; or to state it another way, how individuals come to behave effectively and obediently, as functionaries within bureaucratic systems? Secondly, how to these roles come to have their ontologically obdurate and distinct character, different to, and often lasting beyond, those of the individuals who perform them? 
+
+Appropriate responses to these questions are somewhat intertwined, but the author believes that Milgram’s theory of – and very substantial evidence for – *the agentic mode* does much to answer the first question. 
+
+As regards the second question:   
+
+III.	The management of the modern office is based upon written documents (“the files”), which are preserved in their original or draught form. There is, therefore, a staff of subaltern officials and scribes of all sorts. The body of officials actively engage in a “public” office, along with the respective apparatus of material implements and the files, make up a “bureau.” In private enterprise, “the bureau” is often called “the office.”[2] [p. 105]
+
+Here, it becomes apparent that literacy and writing represent a substantial part of the *enabling technologies* of rational, direct, bureaucratic rule, doing much to enable the obdurate character of bureaucratic roles to emerge. Whereas, over time, personal memories become distorted, a written document does not. *So long as the behaviours and duties expected of an individual who fulfils a role are specified clearly enough within written documents, then the character of the role will change little irrespective of the individual performer.* [Heuristic; obduracy of social roles through generations etc...]* *
+
+**
+
+	In principle, the modern organization of the civil service separates the bureau from the private domicile of the official, and, in general, bureaucracy segregates official activity as something distinct from the sphere of private life. Public monies and equipment are divorced from the private property of the official. This condition is everywhere the product of a long development. Nowadays, it is found in public as well as in private enterprises; in the latter, the principle extends even to the leading entrepreneur. In principle, the executive office is separated from the household, business from private correspondence, and business assets from private fortunes. The more consistency the modern type of business management has been carried through the more are these separations the case. The beginnings of this process are to be found as early as the Middle ages.[2] [p. 105-6]
+
+Again, the extent to which the organisational role is made distinct from the individual performing it is emphasised.
+
+IV. 	Office management, at least all specialized office management – and such management is distinctly modern – usually presupposes thorough and expert training. This increasingly holds for the modern executive and employee of private enterprises, in the same manner as it holds for the state official.[2] [p. 106]
+
+Here, it is suggested that more extensive and specific education, in addition to those required for simple literacy, is also an enabling technology, allowing individuals to adopt specified roles more effectively.
+
+V. 	When the office is fully developed, official activity demands the full working capacity of the official, irrespective of the fact that his obligatory time in the bureau may be firmly delimited. In the normal case, this is only the produce of a long development, in the public as well as in the private office. Formally, in all cases, the normal state of affairs was reversed: official business was discharged as a secondary activity. [2][p. 106]
+
+VI.	The management of the office follows general rules, which are more or less stable, more or less exhaustive, and which can be learned. Knowledge of these rules represent a special technical learning which the official possesses. In involved jurisprudence, or administrative or business management. [2] [p. 106]
+
+The function of jurisprudence should not be underestimated. The extent to which law exists as a enabling technology of direct rule will be considered later within the chapter, but for now it simply needs to be noted that Weber, whose father was a lawyer and who studied law himself, was aware of this.
+
+	Weber concludes his discussion as follows:
+
+	The reduction of modern office management to rules is deeply embedded in its very nature. The theory of modern public administration, for instance, assumes that the authority to order certain matters by decree – which has been legally granted to public authorities – does not entitle the bureau to regulate the matter by commands given for each case, but only to regulate the matter abstractly. This stands in extreme contrast to the regulation of all relationships through individual privileges and bestowals of favour, which is absolutely dominant in patrimonialism, at least in so far as such relationships are not fixed by sacred tradition.[2] [pp. 106]
+
+Within the above, one can distinguish between what might be referred to as enabling conditions of political modernity (The system of direct rule) and the distinctive qualities  of political modernity. 
+
+The enabling conditions suggested include:
+
+  - *High levels of literacy amongst functionaries within bureaucracies.* As the size of the bureaucratic structure increases, so the pool of literate individuals required to occupy roles within the bureaucracy rises. This would imply a relatively comprehensive system of primary and secondary education amongst a substantial proportion (though not necessarily a majority) of the population
+
+  - *Effective systems of teaching specialist, vocational skills required for consistent administration of power.* [i.e. law]
+
+  - *Discretisation and specialisation of roles.* [Write something]
+
+  - *No significant rivals to the dominant political power structure.* [write something: mutual benefits and collaborations between public and private sphere interests: companies work /trade best when places are well governed]
+
+  - *Technologies for rapid communication.* [electricity, roads, military pacification]
+
+Dual Modes of Communication within Bureaucracies 
+
+The enabling technologies of communication are very important to consider here. One should distinguish between two types of communication technology, both of which are required for the effective and long-term functioning of direct rule through bureaucracy: these are, to state it crudely, 
+
+  
+
+    - slow and long-term 
+
+    - fast and short-term 
+
+  
+
+Fast-and-short-term technologies are required in order that specific, central commands from the top of the bureaucracy are quickly and effectively, with a minimum of distortion and delay, sent to and received by relevant subordinates a number of distal chains from the commanding authority. Without quick, short-term communication, the behaviours of lower subordinates would be difficult to control in any particular circumstances, and so the system of rule would be indirect rather than direct, relying on subordinates responding appropriately – and largely autonomously – if and when any crises emerge in their particular territory; likewise, subordinates in the power structure would not be as able to transmit urgent and useful information to the highest tiers at an appropriate speed, and thus would not be able to call on the resources the highest tiers has at its disposal – for example if there is some form of emergency within their particular territory - and thus would not benefit as much from their relationship with higher tiers in the power structure. 
+
+A paradigmatic example of an enabling technology of fast-and-short-term communication within the nineteenth century is the development of electrical telegraphy, thus allowing commands and information, which would previously have taken days, weeks or months to reach from one territory to another, to now be transmitted in minutes. By the end of the nineteenth century, such technology traversed much of the globe, including line of telegraph cables which stretched across the Atlantic, thus allowing quick communication between the ‘old world’ and the ‘new world’.  One should note, however, that even something as revolutionary as electrical technology represents part of a (albeit relatively punctured) continuum of rapid-communication technologies: for example, well-maintained networks of roads and paths could be considered part of this continuum. The penchant of the Roman Empire for building long, straight roads which cross traverse long stretches of largely empty territory, connecting urban centres, could also be thought to be a response to the need for fast communications technologies over increasing distances (as messengers can deliver messages more quickly and reliably when they do not have to battle against undergrowth, continually re-assess and re-check their direction, and not know whether they should avoid or go to intermediate populated areas). Carrier pigeons could be considered another, slightly more obvious, example of this type of technology.
+
+	 With respect to fast-and-short-term communications, the above paragraph has suggested that the actual speed of such technologies can vary immensely, with the same information, taking between a few milliseconds (email) to a few months (road and sea) to transmit depending upon the technology available; in other words, fast can actually be very slow by current standards. However, the fundamental function of such technologies – as an enabler of a particular form of communication – remains the same. This distinction – between medium and intention of communication – should be borne in mind when considering how fast-and-short-term communication is distinct from slow-and-long-term communication: the slow-and-long-termness of this type of communication is inherent within its intent, its quality of communication; the medium in which the communication is enacted simply dictates the extent to which the technology effectively enables such communication.  
+
+	With the above in mind, one can now begin to differentiate the purposes of slow-and-long-term from fast-and-short-term. *Slow-and-long-term* *communication influences and shapes behaviours of individuals within roles in a manner that is obdurate and general, whereas fast-and-short-term communication influences behaviours in ways that are transitory and specific.* Job specifications, codes of practice, and legal documents are all examples of slow-and-long-term communication technologies applied within bureaucracies. *It is primarily through this form of communication that bureaucracies remain relatively consistent in their internal structure and functions, despite changes in the line-ups of individuals employed to perform such roles.* 
+
+Organisations and Organisms
+
+With respect to the above – distinguishing between these two forms of internal communication within command structures – it *may* be useful to remind ourselves of the concept of the *organism* discussed within the first part of chapter one. Within a complex organism such as a person, a distinction was made between more localised quick-and-short-term signalling mechanisms, which tends to be electrical in nature; and more generalised slow-and-long-term signalling mechanisms, which tend to be chemical in nature. Patterns and sequences of these more generalised signals, and the responses of sites within the organism to such signals, are emotions. These can take a relatively long time – a few seconds in some cases – to emerge, and have a relatively long-standing effect on the behaviour of the organism, perhaps lasting a few minutes or hours. Quick-and-short-term signalling travels much faster through the organism, and exacts an effect far more quickly (the removal of a hand from a hot stove takes a fraction of a second), but does not result in more long-term change to the behaviours of a larger aspect of the organism (unless it is converted into a long-term signal: a sudden burst of pain leading to the release of adrenaline, for example). Additionally, the organism learns a large number of *dispositional memories* of various ‘objects’ (in the broad, technical sense previously employed) that it encounters: these memories constitute learned patterns of behavioural response to given situations.     
+
+	Hopefully, by now, the extent to which the bureaucratic organisation might usefully be considered analogous to the biological organism are obvious: Formal rules, which accrete and emerge over time in response to new general classes of situation, or are emulated and adapted from other organisations, produce complex, specific, stereotyped patterns of response to a given, identified situation, and thus bear some qualitative similarity to the emotions and dispositional tendencies of organisms. Likewise, fast communication technology, such as email or telephone, allows the quick relaying of signals to or from a site of central command; the central authority can then make a quick, specific decisions with respect to a very local aspect of the organisation – for example telling the head of a particular department that their request for funding for a particular project has been granted or rejected; or the central authority may choose to make more general changes to the organisation: asking the legal or quality-control department to draft new codes of practice by which employees within the organisation as a whole should thereafter conform (analogous inducing an emotion or creating a new dispositional memory).
+
+	So long as one is aware of the extent to which the above represents *analogy* rather than exact *homology* of function, the author believes the above comparison between organisation and organism to be useful in clarifying *why, in bureaucracies, paperwork is such an integral feature of their general coherence and function.* In a very general, cybernetics or systems theory sense, it should certainly not be controversial to state that bureaucratic organisations, as well as biological organisations, appear to exhibit the qualities of being:
+
+  - *Bounded*: with a clear, categorical demarcation between *within * and *without.*
+
+  - *Self-regulating*: in that perturbations occurring at the local level (to a particular aspect of the system) are generally mitigated such that they do not tend to lead to the collapse of the global coherence of the system. (For example, if a departmental lawyer chooses to quit the company and move elsewhere, there are procedures in place – for example, a substantial period of notice and procedures for internal and external recruitment - to ensure that the role of departmental lawyer ‘*survives’* the loss of the individual.)
+
+  - *Self-repairing*: In the sense of global coherence to the organisation perpetuates itself beyond the extent to which any particular aspects of its structure remain original. The maintenance of global coherence in the face of absolute local change is best illustrated through the example of the *Ship of Theseus*: a ship that has existed so long, and been subject to so many repairs, that no part of it is original structure remains; the same logic underlies a particular pattern of joke: “This is my grandfather’s axe: the handle has been changed three times and the head four times but it’s still the same axe”. Unlike in these examples, however, the prefix *self-* suggests that the repair occurs due to internal rather than external volitions and actions.
+
+ However, the author used the cautionary qualifier ‘*may’* when introducing the analogy, because there is a danger of over-extending it, and drawing false inference about the qualities of bureaucracies (for example, with respect to the extent to which they  ‘reproduce’ or  ‘evolve’, the degree to which they exhibit internal coherence, and the extent to which they are ‘sentient’ or ‘intelligent’) by over-association with biology. If the reader believes the dangers of the analogy outweigh the benefits, then the above discussion may be disregarded.
+
+[Qualities]
+
+ [Formalisation/rationalisation, and obedience]
+
+[Formalisation: making formally implicit information explicit]
+
+[Rationalisation: reformulating explicit knowledge such that it converts decisions into automated procedures]
+
+	[Obedience: the agentic mode – depends entirely on social relationships]
+
+Weber quotes
+
+A lifeless machine is* congealed spirit*. It is *only* this fact that gives the machine the power to force men to serve it and thus to rule and determine their daily working lives, as in fact happens in factories. This same *congealed spirit* is, however, also embodied in that *living machine* which is represented by bureaucratic organisation with its specialisation of trained, technical work, its delimitation of areas of responsibility, its regulations and its graduated hierarchy of obedience. Combined with the dead machine, it is in the process of manufacturing the housing of that future serfdom to which, perhaps, men may have to submit powerlessly, just like the slaves in the ancient state of Egypt, *if they consider that the ultimate and only value by which the conduct of their affairs is to be decided is good administration and provision for their needs by officials (that is ‘good’ in the purely technical sense of rational administration*).  Bureaucracy achieves this, after all, incomparably better than another other structure of rule. This housing, so praised by our native littérateurs, will be augmented by shackles chaining each individual to his firm (the beginnings of this are to be found in so-called ‘welfare arrangements’), to his class (by an increasingly rigid structure of ownership) and perhaps at some time in the future to his occupation (by state provision for needs on a ‘liturgical’ principle, whereby associations structured along occupational lines carry a burden of state responsibilities). This housing would become even more indestructible if, in the social  area, as in the those states in the past where enforced labour existed, an organisation of the ruled based on their social and occupational states were to be attached (which in truth means subordinated) to the bureaucracy. An ‘organic’, that is an Oriental-Egyptian social structure would begin to emerge, but, in contrast to that ancient form, one which would be strictly rational as a machine.[3] [pp. 158-9]
+
+An official who receives an order which, in his view, is wrong can – and should – raise objections. If his superior then insists on the instruction it is not merely the duty of the official, it is also a point of *honour *for his to carry out that instruction as if it corresponded to his own innermost conviction, thereby demonstrating that his sense of duty to his office overrides his individual wilfulness. It is irrelevant whether his superiors is a ‘public authority’ or a ‘corporation’, or an ‘assembly’ from which he has an imperative mandate. This is what is demanded by the spirit of *office*. [3][pp. 160-1]
+
+[Conversion/Compliance]
+
+Reading, writing, and rationalisation
+
+[Rationalisation: both discretisation of complex functions, and formalisation – moving from tacit to explicit – of such functions]
+
+	[Instrumentalisation as enabler of greater compliance]
+
+	[Bourdieu and power of naming
+
+		Language & Symbolic Power]
+
+	[Tilly: Why?
+
+		Conventions + Authority = Codes]
+
+  
+    
+      
+
+      ****
+      ****
+    
+    
+      ****
+      
+      
+    
+    
+      ****
+      
+      
+    
+  
+
+|  | Popular | Specialized |
+| --- | --- | --- |
+| Formulas | Conventions | Codes |
+| Cause-Effect Accounts | Stories | Technical Accounts |
+
+[redrawn from [4] p. 19]
+
+*Formulas *identify an appropriate correspondence between Y (the event, action or outcome at hand) and X (its antecedent), but enter little or not at all into the causal chain connecting Y to X. *Cause-effect accounts* trace causal lines from X to Y – even if we observers find those causal lines absurd or incomprehensible. “Popular” reasons obviously vary from one public to another, for example as a function of religiosity and religious creed. *Specialized reasons* likewise vary strikingly from discipline to discipline; theologians elaborate both codes and technical accounts that differ deeply from those proposed by medical practitioners.[4] [p. 20, my emphasis]
+
+All four kinds of reasons commonly do relational work.[4][p. 19]
+
+  - *Conventions: *conventionally accepted reasons for dereliction, deviation, distinction, or good fortune: my train was late, your turn finally came, she has breeding, he’s a lucky guy, and so on
+
+  - *Stories:* explanatory narratives incorporating cause-effect accounts of unfamiliar phenomena or of exceptional events such as the 9/11 catastrophe, but also such as betrayal by a friend, winning a big prize, or meeting a high school classmate at Egypt’s Pyramids twenty years after graduation
+
+  - *Codes* governing actions such as legal judgments, religious penance, or awarding of medals
+
+  - *Technical accounts* of the outcomes in the first three: how a structural engineer, a dermatologist, or an orthopedic surgeon might explain what happened to [a victim] on the World Trade Center’s 88^th^ floor after a hijacked aircraft struck the building on 9/11  [4][p. 15]
+
+  - Within their own jurisdictions, professional givers promote and enforce the priority of codes and technical accounts over conventions and stories.
+
+  - In particular, professional givers generally become skilled at translating conventions and stores into their preferred idioms, and at coaching other people to collaborate in that translation.
+
+  - Hence the greater the professionalization of knowledge in any social setting, the greater the predominance of codes and technical accounts.
+
+  - To the extent that relations between giver and received are distant and/or giver occupies a superior rank, giver provides formulas rather than cause-effect accounts.
+
+  - Givers who offer formulas thereby claim superiority and/or distance.
+
+  - Receivers ordinarily challenge such claims, when they do, by demanding cause-effect accounts.
+
+  - Those demands typically take the forms of expressing scepticism about the proposed formula and asking for detail on how and why Y actually occurred. 
+
+  - In the case of authoritatively delivered codes, however, a skilled received can also challenge the reasons given by deploying the code and demonstrating that giver has misused it.
+
+  - Even in the presence of distance and/or inequality, to the extent that received has visible power to affect giver’s subsequent welfare, giver moves from formulas toward cause-effect accounts. [4][p. 25]
+
+When it comes to codes, reasons given for actions cite their conformity to specialized sets of categories, procedures for ordering evidence, and rules of interpretation. Together, categories, procedures, and rules make up codes. [4][p.102]
+
+	[Definitions of categories, procedures and rules?]
+
+The author’s understanding of the distinction Tilly makes between categories, procedures, and rules is presented schematically as follows:
+
+***CODES***
+
+*Procedures*
+
+C A T E G O R I E S
+
+*e*
+
+*v*
+
+*i*
+
+*d*
+
+*e*
+
+*n*
+
+*c*
+
+*e*
+
+*O*
+
+*U*
+
+*T*
+
+*C*
+
+*O*
+
+*M*
+
+*E*
+
+*S*
+
+**Rules**
+
+Within this schema, procedures are methods by which ambiguous and fuzzy information is converted into a set of definite, formal ontologies; these formal ontologies, the categories, are then processed in an algorithmic fashion by a sequence of rules detailing how the system, *in toto*, should respond (the outcomes).   
+
+	As shown previously, Tilly makes a distinction between *formulaic* and *cause-effect* accounts, and categorises both *conventions* and *codes* as forms of formulaic reason giving. The author conjectures that, to an extent, the above schema fits both forms of formulaic reasoning: conventions *and* codes. Future chapters [give details when available] will discuss the extent to which social behaviours and attitudes are strongly dependent upon some form of *categorical thinking*. For now, the author will simply suggest that conventions differ from codes primarily to the extent that the procedures, categories, and rules employed are tacit and informal, explicit and formal.  
+
+Reading and Writing
+
+If, as the author suggests and will attempt to later demonstrate, conventions and codes differ primarily with respect to the extent to which procedures, categorisations, and rules governing behaviours in response to evidence (or ‘stimuli’, to use the biological argot of chapter one), then it still remains to be shown, clearly, why processes of formalisation are intimately connected to the development of systems of direct rule: bureaucracies. To an extent, formalisation means simply two things: naming things, and agreeing on how things should be named across places. 
+
+	In small communities, members have common, tacit knowledge of the context in which they interact, perform, and speak. Within a given context, sentences such as “it’s over there” or “no, the other one” convey all the information both speaker and listener need in order to perform effectively within that context. However, such statements rely heavily on knowledge which is embedded in the environment the community members share. Such statements thus lose their meaning, their instrumental efficacy, as and when they become detached from the context in which they are spoken. When the task of linguistic communication becomes to transfer usable information across a wide variety of disparate communities, therefore, language must be developed which is more *context-independent*, less embedded in the implicit knowledge of specific circumstance. Stated another way, there needs to be a shift from *pronouns* to *proper nouns*.  
+
+	Abram de Swaan, in a chapter in his book *In Care of the State* called ‘The national communication code’ [ref] , highlights the connection between the interests of public and private sector bureaucracies and the development of standardised education within Europe:
+
+An increasing number of citizens came to depend for their livelihood either on state bureaucracy or on trade in national and international markets. These people, officials and entrepreneurs, did not live off their landed property and were therefore much less connected with a particular local or regional community. On the contrary, they stood to gain from the greatest freedom of movement and the most unencumbered exchange of messages between regions. ... They stood to profit from the emergence of a national network of communication and therefore supported the teaching of the standard language throughout the land. They themselves spoke this lingua franca when at work, and often also at home. Their business, keeping books and files, drafting contracts and statutes, was transacted in writing, and they wrote in the standard version of the language.  [5][pp. 58-9]
+
+Following this line of argument, it was thus (in part) due to the demands of private and public bureaucracies – in need of more people who could function effectively within a bureaucratic regime – that systems of standardised, formalised education emerged through a national communication code:
+
+Elementary education was first of all a means to convey fluency in the standard language and literacy in its written version, thus providing access to a corresponding communications network. Literacy in the standard language provided unmediated access to a national network of written communication. [5] [p. 63]
+
+One should note that, even within modern societies, linguistic standardisation and formalisation is still a matter of degree. Sometimes, the drives for standardisation and formalisation move in slightly different directions. Specialist linguistic communities emerge that, by virtue of their profession, employ a more formalised and extended system of proper naming than the general public. For example, a large part of standard medical training involves learning specific and unique names for thousands of distinct part of the body, and distinct patterns of ailments affecting such body parts, Instead of simply stating that someone has “a pain in their tummy”, a medical practitioner could determine relatively exactly the position and form of the pain, and then communicate precisely this information to other medical practitioners also versed in the same specialised speech code. However, it should be clear that these specialist linguistic communities are, unlike communicators in an age before standardisation, not geographically bound in terms of those with whom they can communicate, and are not *entirely* unintelligible to those who have not had such further specialised education.  
+
+[Bourdieu, symbolic power of naming...]
+
+The codes that linguists simplify and standardize as grammars make communication possible among speakers, writers, and readers of the same language. [[4]p. 102: c.f. de Swaan on education and language]
+
+Codes have their own dynamics. Categories change, procedures for offering relevant evidence change, interpretative rules change, and the three interact. Most visibly, participants change the rules. We most easily detect a code when we discover a connected set of rules for behaviour in some arena of human activity – the law, of course, but also some other arena of professional expertise, a complex came, or a specific organization. Within any such arena, authorities commonly change the rules as they encounter some new problem; *accumulated rules therefore provide a map of significant earlier problems people have faced in their arena*.[4] [p. 103, my emphasis] 	
+
+Milgram 
+
+Within the first section of this chapter, the author summarised Max Weber’s conception of bureaucratic structures as social ‘machines’ that allow for direct rule over long chains of command and territorial area. Once they have entered the bureaucratic machine, individuals become functionary role-players, performing a relatively proscribed and specific set of tasks and duties in such a manner that, if and when the individual leaves the organisation, their role can still be performed by another individual. The concept of the ‘code’, involving the formalisation and making explicit of previously implicit knowledge, within the perspective of Tilly’s two-dimensional typology of reason-giving, was used to illustrate the manner in which long-term durability of a bureaucracy’s internal functional structure can be maintained, and information and behavioural codes specified with relative precision throughout the entire bureaucratic structure.  
+
+The following issue still needs to be addressed, however: how do individuals come to function effectively as relatively impersonal *role players* within bureaucratic organisations? To state it more metaphorically and provocatively, how do individuals come to function as *cogs* within the bureaucratic *machine*?
+
+It is in response to this question that the author believes the insights and research of the social psychologist Stanley Milgram, within his well-renowned ‘obedience studies’ - provide an invaluable contribution to our understanding of how bureaucracies function. The key insight and theory Milgram provided in response to this issue is his theory of the *agentic mode. *
+
+Within this part of the chapter, the author will first summarise a number of aspects and results from the experimental procedures Milgram conducted, and which are detailed within his 1974 book *Obedience to Authority* [6][Ref]. The author will then present a series of justifications for believing the research to have broad and far-reaching sociological relevance and significance. Finally, the author will summarise and discuss Milgram’s own theories regarding the results he observed; in particular, *the agentic mode*. 
+
+The Experiment
+
+Milgram begins the first chapter of *Obedience to Authority* as follows:
+
+Obedience is as basic an element in the structure of social life as one can point to. Some system of authority is a requirement of all communal living ... Obedience, as a determinant of behaviour, is of particular relevance to our time. It has been reliably established that from 1933 to 1945 millions of innocent people were systematically slaughtered on command. Gas chambers were built, death camps were guarded, daily quotas of corpses were produced with the same efficiency as the manufacture of appliances. These inhumane policies may have originated in the mind of a single person, but they could only have been carried out on a massive scale if a very large number of people obeyed orders. [6][p. 19]
+
+Having thus established in the reader’s mind the deep importance of research into obedience, Milgram begins to offer a definition:
+
+*Obedience is the psychological mechanism that links individual action to political purpose.* It is the dispositional cement that binds men to systems of authority. ... [F]or many people obedience may be a deeply ingrained behavioural tendency, indeed, a proponent impulse overriding training in ethics, sympathy and moral conduct. [6][p. 19, my emphasis]
+
+The Set-up
+
+Milgram’s method for operationalising research into this concept is, broadly, very well known; however, the specific description and details offers of his set up are worth quoting at some length in order to dispel the kind of confusion and ambiguity which emerges from perpetual but superficial over-familiarity with the experiments. He states that “Simplicity is the key to effective scientific enquiry.” [6][p. 30] More specifically, he writes that:
+
+In order to take a close look at the act of obeying, I set up a simple experiment at Yale University. Eventually, the experiment was to involve more than a thousand participants and would be repeated at several universities, but at the beginning, the conceptual was simple. A person comes to a psychological laboratory and is told to carry out a series of acts that come increasingly into conflict with conscience. The main question is how far the participant will comply with the experimenter’s instructions before refusing to carry out the actions required of him. [6][pp.20-1]
+
+More specifically, the set up is as follows:
+
+Two people come to a psychology laboratory to take part in a study of memory and learning. One of them is designated as a ‘teacher’ and the other a ‘learner’. The experimenter explains that the student is concerned with the effects of punishment on learning. The learner is conducted into a room, seated in a chair, his arms strapped to prevent excessive movement, and an electrode attached to his wrist. His is told that he is to learn a list of word pairs; whenever he makes an error, he will receive electric shocks of increasing intensity. 
+
+[However, the] real focus of the experiment is the teacher. After watching the learning being strapped into place, he is taken into the main experimental room and seated before an impressive shock generator. Its main feature is a horizontal line of thirty switches, ranging from 15 volts to 450 volts, in 15-volt increments. There are also verbal designations which range from SLIGHT SHOCK to DANGER – SEVERE SHOCK. The teacher is told that he is to administer the learning test to the man in the other room. When the learning responds correctly, the teacher moves on to the next item; when the other man gives an incorrect answer,  the teacher is to give him an electric shock. He is to start at the lowest level (15 volts) and to increase the level each time the man makes an error, going through 30 volts, 45 volts, and so on. 
+
+The ‘teacher’ is a genuinely naive subject who has come to the laboratory to participate in an experiment. The learner, or victim, is an actor who actually receives no shock at all. The point of the experiment is to see how far a person will proceed in a concrete and measurable situation in which he is ordered to inflict increasing pain on a protesting victim. At what point will the subject refuse to obey the experimenter? [6][p. 21]
+
+The Break-point
+
+Milgram’s procedure for making clear that the ‘teacher’ has to decide between conscience and obedience to authority is described as follows:
+
+Conflict arises when the man receiving the shock begins to indicate that he is experiencing discomfort. At 75 volts, the ‘learner’ grunts. At 120 volts he complains verbally; *at 150 he demands to be released from the experiment*. His protests continue as the shocks escalate, growing increasingly vehement and emotional. At 285 his response can only be described as an agonised scream. [6][pp. 21-2, my emphasis]
+
+What is most important in the above passage is the response scripted to occur at 150 volts: at this shock level, the victim “demands to be released from the experiment”. As soon as this level has been reached, and this demand has been made, the decision the ‘teacher’ has to make is utterly clear and explicit: *whether to agree to the demands of the ‘victim’, and stop at 150 volts; or whether to agree to the demands of the ‘authority’, and continue to 450 volts.* The experimental results clearly show the effects of this decision-making process. The ‘dependent variable’ is the voltage at which the subject will cease his involvement in the experiment, and the majority of observations of this variable occur at one of these two break-points: 150 volts: agrees to victim’s demands; or 450 volts: agrees to authority’s demands. As is well known, in most of the perturbations of the basic set up, the ‘teacher’ cedes to the demands of the ‘authority’. 
+
+	This 150 volt breakpoint, together with other verbal protests from the victim, was introduced in the response to a number of preliminary pilot studies:
+
+In pilot studies, at first no vocal feedback from the victim was used. It was though that the verbal and voltage designations on the control panel would create sufficient pressure to curtail the subject’s obedience. However this proved not to be the case. In the absence of protests from the learner, virtually every subject in the pilot study, once commanded, went blithely to the end of the board, seemingly indifferent to the verbal designations. [6][p. 39]
+
+As Milgram states with respect to these initial results, “*The situation did more than highlight the technical difficulties of finding a workable experimental procedure: it also indicated that subjects would obey authority to a greater extent than we had supposed.*” [6][p. 40, emphasis in original]
+
+The Normality of the Subjects	
+
+The subjects Milgram chose for his experiment were, unlike in the majority of modern psychology experiments, not drawn from the student population at Yale, but from the more general population surrounding the university in New Haven. “[F]or this experiment the use of undergraduate from an elite institution did not seem wholly suitable”, he wrote [6][p. 31], reasoning that, firstly, “The possibility that [students] would have heard of it from fellow students ... seemed too great a risk” [p. 31], and secondly, that “the students were too homogeneous a group” [6][p. 31]. The population was thus selected to be representative of the wider population of the United States. “I wanted a wide range of individuals drawn from a broad spectrum of class backgrounds.” [6][p. 31]
+
+Predictions
+
+A large number of psychological experiments have shown that people are much less able to predict, within a given circumstance, *their own behaviour*, than they would assume. This includes Milgram’s own research, in which he collected data from respondents who had come to hear him “lecture on the topic of obedience of authority.” [6][p. 44] 
+
+The experiment is described in detail without, however, disclosing the results in any way. The audience is provided with a schematic diagram of the shock generator, showing verbal and voltage designations. Each respondent is asked to reflect on the experiment, then privately to record how he himself would perform in it. Predictions were made by three groups: psychiatrists, college students, and an audience of middle-class adults of varied occupations. [6][p. 44]
+
+The break-off points predicted by the three groups, together with a smoothed average of the three groups (unweighted), and a vertical line indicating the 150 volt point at which victim categorically declares his refusal to participate further, is presented below:
+
+Not one person, out of the 110 people asked, predicted that anyone would comply fully and deliver the full 450 volt shock. Around one person in twenty predicted they would simply refuse to carry out the experiment from the outset (in fact, *no one* initially refused to participate once they knew the set up), and between around one-person-in-three and one-person-in-four predicted they would stop as soon as the victim told them to, or soon after. 
+
+Fundamentally Evil?
+
+A commonly made assumption regarding those who gave the highest shock level was that they were venting malevolent impulses, and that the experiment gave them a rare opportunity to act upon the kind of destructive, sadistic tendencies that, for the majority of their existence in a civilised society, they had to suppress. “According to this view, if a person is placed in a situation where he has complete power over another individual, whom he may punish as much as he likes, all that is sadistic and bestial in man comes to the fore.” [6][p. 87-8]
+
+	To test this, as a control experiment, Milgram used a variation of the set up where, instead of being forced to provide incrementally higher voltages, the subject chose the shock level. The mean response of thirty trials given by forty subjects, is given below: 
+
+These results do not entirely contradict the argument that individual characteristics *do* have some effect upon subjects’ apparently aggressive tendencies. As Milgram notes, two of the forty subjects gave, on average, very high shock levels: one gave the maximum shock level possible. Given the opportunity, a small number of individuals *do* seem to be genuinely sadistic in their tendencies. However, the vast majority of people’s chosen shock levels were much lower, around the third or fourth level out of thirty, verbally marked in the category “slight shock”. 
+
+	 As we will shortly see, these results are markedly different from those observed in the normal set ups testing full obedience.
+
+Modes of Response
+
+Milgram conducted over twenty versions of his experiment, but the vast majority of the results look very similar, and fit just one of two patterns: either a large proportion of subjects continue to the end (450 volts), or they stop at the behest of the victim (150 volts). These two ‘modes of response’ – ‘attentive to victim’ and ‘obedient to authority’ – seemed to be overwhelmingly dependent upon the social situation the subject was placed within. 
+
+	The main result Milgram observed, the result that ‘shocked the world’, to use the title of a biography written about Milgram [7], was that people were far more obedience to immoral orders than they themselves assume. These actual obedience results (in thick, solid black), together with the smoothed results from the previous two graphs – the predicted responses of lecture audience members on hearing the set-up (in dashed green); and the actual mean levels of pain subjects chose to inflict on the victim when given the choice (in solid blue) – are presented in the following graph:
+
+ 
+
+Here the majority of the subjects in the actual experiment – 62% - were shown to be fully obedience. In comparison, the predicted obedience levels were, firstly, far more variable in their responses, and secondly, predicted that almost everyone would be ‘attentive to victim’ and stop at 150 volts (the vertical blue line) rather than ‘obedient to authority’.  
+
+Attenuating the Modes of Response
+
+Aware of the two general modes of behaviour – that of being attentive to the victim and of being obedient to the authority – Milgram attempted to produce a number of subtle changes to the set-up, to see which changes in the situation might lead to either a) a switching from attentive to obedient mode; or b) an attenuation of the modal response. 
+
+	
+
+Proximity of Victim
+
+One of the simplest and most interesting of these variations were a series of four experiments which differed only in one respect: the proximity of the victim to the subject. [6][pp. 49-60] These ranged from the ‘Remote-Feedback’ experiment, through to the ‘Voice-Feedback’ experiment, then the ‘Proximity’ experiment, to the ‘Touch-Proximity’ feedback.
+
+	Milgram describes these variations as follows:
+
+[The Remote-Feedback experiment] differs slightly from the usual situation in that no vocal complaint is heard from the victim. He is placed in another room where he cannot be seen by the subject, nor can his voice be heard; his answers flash silently on a signal box. [6][p. 49]
+
+[The Voice-Feedback experiment] was identical to the first except that vocal protests were introduced. As in the first condition, the victim was placed in an adjacent room, but his complains could be heard clearly through the walls of the laboratory. [6][p. 51]
+
+[The Proximity experiment] was similar to the second, except that the victim was placed in the same room as the subject, a few feed from him. Thus he was visible as well as audible, and voice cues were provided. [6][p. 51]
+
+[The Touch-Proximity experiment] was identical to the third, with this exception: the victim received a shock only when his hand rested on a shock plate. At the 150-volt level the victim demanded to be let free and refused to place his hand on the shock plate.  The experimenter ordered the subject to force the victim’s hand onto the plate. Thus obedience in this condition required that the subject have physical contact with the victim in order to give him punishment at or beyond the 150-volt level. [6][pp. 51-2]
+
+In each experiment, 40 subjects were involved. The following table compares the percentage of subjects who either stopped at 150 volts (were attentive to the victim) or continued until 450 volts (obedient to authority) 
+
+The effect of proximity thus reduced the levels of full obedience from 65% to 30%. Physical proximity, and with it the ability to see and experience the effects of one’s own actions on another person, thus makes people more attentive to the suffering they cause in obeying orders. Proximity thus forms a major inhibitor to blind, immoral obedience.
+
+Proximity of Authority Figure
+
+As a kind of corollary to the above, Milgram also investigated whether reducing the proximity between the subject and the *authority figure* – as he put it “the degree of surveillance” the authority figure exercises [6][p. 76] -  had any significant effect upon the levels of obedience. As one might hope and expect, they did:
+
+The thick black trendline, and the thin red line, show the results for two procedures that differed only to the extent that, in the experimenter absent set-up, the experimenter gave his commands to the subject by telephone, and in another room. 
+
+The result of this change was of a much greater confidence on the part of the subject to challenge the authority figure, and stop the experiment early. Unlike in almost all of the other set-ups, the level of attenuation is relatively constant from the time the victim first demands to be let out (150 volts) . The ‘binding factors’ [6][pp. 165-70] that Milgram describes as operating effectively in many of the procedures which engendered greater obedience levels are much weaker in this circumstance.   As Milgram notes, “Subjects seemed able to resist the experimenter far better when they did not have to confront him face to face.” [6][p. 77]
+
+With a reduction in the level of direct surveillance, the subjects began to act subversively, out of compassion for the victim:
+
+Though continuing with the experiment, several subjects administered lower shocks than were required and never informed the experimenter of their deviation from the correct procedure. Indeed, in telephone conversations some subjects specifically assured the experimenter that they were raising the shock level according to instruction, while, in reality, they repeatedly used the lowest shock on the board. [6][p. 77]
+
+As Milgram observes, *these behaviours suggest that the subjects do not care about the stated ultimate purpose of the activity (to advance scientific knowledge on learning and memory) so much as satisfying competing obligations from two forms of social relationship: their duty towards the authority figure, and their empathy for the victim. *Even without any belief in the ‘higher purpose’ of the organisation within which they function, individuals will often attempt to perform their duties to the best of their ability. 
+
+Operationalising the Social Contract
+
+Many discussions of morality within further education have a kind of contractual quality to them: some of the most influential political philosophers in European history – including Thomas Hobbes, John Locke, and Jean-Jacques Rousseau – have conceived of the rules of law representing a kind of social contract by which governor and governed enter into a consensual agreement predicated upon a number of prior conditions and obligations being accepted and upheld by both parties throughout. From this perspective, government is fundamentally benevolent, intentional and rational. Both parties can call upon the binding and overarching power of the contract – the stipulated rights and responsibilities that each party ‘signed up to’ -  to ensure that political authority is not callus to the needs and wishes over those whom its power presides.
+
+	Implicitly, this form of social philosophy has permeated and informs much of the social reasoning people have about political issues, and was frequently given by subjects in explanation for their actions. According to Milgram [6][pp.80-3], many subjects:
+
+perceived a system of *double consent * to be at work: the victim [as well as the subject] also entered into the contract with the experimental authority and was not free to renounce his obligations unilaterally. Moreover, the argument goes, the victim had entered into the authority system of the experimenter without placing any prior conditions on how he was to be treated. He must, therefore, accept the consequences of his own freely made decision. However unpleasant the experience might be for him, contractual obligations must be honoured. Society is build on this presupposition. [6][p. 81]  
+
+Milgram tested whether changing the social contract negotiated between the authority and victim significantly altered levels of subject obedience. In one version of the experiment, the victim explicitly declared to the authority figure, when the subject was close by and listening, the following:
+
+’I’ll agree to be in it, but only on condition that you let me out when I say so; that’s the only condition.’
+
+Thus, in this version of the experiment, the subject knew that, when the experimenter refused to allow the victim to lead, he was ‘breaking the contract’. The effect of this knowledge on obedience is shown as follows:
+
+Although the level of obedience is attenuated slightly, qualitatively, the same pattern of obedience is observed. As Milgram put it: “These findings show that the social contract doctrine is a feeble determinant of behaviour.” [6][p. 83]
+
+Another factor Milgram investigated was whether there was ‘something special’ about the particular actors playing the parts of the victim and the authority figure: perhaps the actor playing the victim was exceptionally poor at getting subjects to be attentive to him; and perhaps the authority figure exuded some form of exceptionally dominant and persuasive aura.  
+
+Justification
+
+[justifications for using study:
+
+	Process
+
+	Replicability
+
+		Metastudy – 35 years after etc
+
+Original contribution – not common sense
+
+The Theory
+
+Milgram lists Adorno, Arendt, Fromm and Weber as influences. [p.15, acknowledgements] 
+
+**Experiment 18: A Peer Administers Shocks**
+
+Authority is not blind to the uses of groups and will ordinarily seek to employ them in a manner that facilitates submission. A simple variation of the experiment demonstrates this possibility. Any force of event that is placed between the subject and the consequences of shocking the victim, any factor that will create distance between the subject and the victim, will lead to a reduction of strain on the participant and thus lessen disobedience. In modern society others often stand between us and the final destructive act to which we contribute.
+
+	Indeed, it is typical of modern bureaucracy, even when it is designed for destructive purposes, that most people involved in its organisation do not directly carry out any destructive actions. They shuffle papers or load ammunition or perform some other act which, though it contributes to the final destructive effect, is remote from it in the eyes and mind of the functionary.
+
+	To examine this phenomenon within the laboratory, a variation was carried out in which the act of shocking the victim was removed from the naive subject and placed in the hands of another participant (a confederate). The naive subject performs subsidiary acts which, though contributing to the overall progress of the experiment, remove him from the actual act of depressing the level on the shock generator.
+
+	And the subject’s new role is easy to bear. ... Only 3 of the 40 refuse to participate in the experiment to the end. They are accessories to the act of shocking the victim, but they are not psychologically implicated in it to the point where strain arises and disobedience results.
+
+	Any competent manager of a destructive bureaucratic system can arrange his personnel so that only the most callous and obtuse are directly involved in violence. The greater part of the personnel can consist of men and women who, by virtue of their distance from the actual acts of brutality, will feel little strain in their performance of supportive functions. They will feel doubly absolved from responsibility. First, legitimate authority has given full warrant for their actions. Second, they have not themselves committed brutal physical acts. [6][pp. 139-40]
+
+Chapter References
+
+Notes
+
+Hobbes -> Pacification
+
+Smith -> Division of Labour
+
+Weber -> Rationalisation
+
+Quote from Tajfel:
+
+Individual autonomy as the core of the ‘political process’, and of many aspects of social behaviour, is a myth. In many social situations, we are buffeted here and there by powerful social forces beyond our control ... Individual autonomy (deciding *not* to steal) has strict limits for a child living in a vast slum of an immense city. Or when you have internalized, as a soldier, the powerful social prescription that the enemies are not quite human. Or – as a guard in a concentration camp -  that the inmates are a virus in the social’ organism’. These are, of course, extreme cases. My point is that they are no more than one end of a long continuum. Any society which contains power, status, prestige and social group differentials (and they all do), places each of us in a number of *social * categories which become an important part of our *self-*definition. [Tajfel, 1977, p. 654 in Tajfel 1981, p. 14]
+
+[Tajfel 1977 = Social Society and Social Reality, New Society, 37, 240-2]
+
+Chapter Notes
+
+1.	Tilly, C., *Durable Inequality*. 1999, California: University of California Press. 310.
+
+2.	Weber, M., *The Bureaucratic Machine*, in *Social Theory: The multicultural and classic readings*, C. Lemert, Editor. 1946, Westview Press: Oxford. p. 104-110.
+
+3.	Weber, M., *Parliament and Government in Germany under a New Political Order*, in *Weber: Political Writings*, P. Lassman and R. Spiers, Editors. 1994 [1918], Cambridge University Press: Cambridge. p. 130-271.
+
+4.	Tilly, C., *Why?* 2006, Oxford: Princeton University Press.
+
+5.	de Swaan, A., *In Care of the State: Health Care, Education and Welfare in Europe and the USA in the Modern Era*. Europe and the International Order, ed. J. Krieger. 1988, Cambridge: Polity Press.
+
+6.	Milgram, S., *Obedience to authority : an experimental view*. Harper torchbooks. 1974, London: Tavistock.
+
+7.	Blass, T., *The Man Who Shocked the World: The Life and Legacy of Stanley Milgram*. 2004, Cambridge, MA: Perseus Books.

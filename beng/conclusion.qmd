@@ -1,0 +1,57 @@
+---
+title: "Discussion and Conclusion"
+---
+
+4
+  
+  
+  
+  
+  
+  
+  
+  
+
+**5 Discussion And Conclusion**
+
+***Discussion***
+
+******
+
+A great number of areas of investigation and research fell within the acceptable limits of the project specification. Within the project, a large number were tackled, and to varying degrees of depth. A large element of this project is speculative in nature: An exploration of the viability of various approaches in solving a breadth of possible scenarios. 
+
+The project specification was interpreted in certain ways in order to create a more specific form of problem that could be more rigorously analysed, investigated and solved. In doing this, not all possible interpretations of the specification were investigated.
+
+Here are a number of possible future areas of investigation:
+
+*The ability to locate and track a number of objects within a bounded area*: Within the course of this project, only one ‘critical’ (important and movable) object was considered to be within the bounded area. What if more critical objects were in the area? How would a device discriminate between them?
+
+*Object detection based on shape rather than colour: *In a crude way, this was used. To be reproduced in the mask, an object had to of a sufficient size, as otherwise it would be eroded away in the process described in section 2.3.3. Very small markers could not be used. What if the device were able to identify a pattern of features on an object, and choose to retain the object based on this identification? This pattern or feature recognition could be achieved, to some degree, using DIC techniques, as these involve the matching of features.
+
+*Identification of displacement of object markers when of a non-specific colour*: If only one object moves within a specific area, then a DIC analysis of that area will, once any rigid-body disparity has been compensated for, show some peak at the disparity value. The larger the area compared to the object, the more the object disparity is in danger of being ‘drowned out’ by the rigid body disparity (or lack of). Thus techniques may have to be developed to zoom in on likely areas of object displacement, in order the object disparity values be more distinct.
+
+*Use of DIC to determine plane angle and depth [9] [10]*: This approach was considered in the course of the project. Comparing the relative positions of common features on a pair of images provides a potential method for determining the depth of different parts of the image to using markers, and, obviously, does not require the same prior knowledge of the object plane, or preparation of surface (placement of markers etc.). It does require that the surface has certain properties though; for instance, it should have a distinct amorphous pattern on it, otherwise features will be hard to identify, or areas of regional correlation may be erroneously identified as significant. Also, the kind of warping that occurs on a set of features within an image, in addition to their displacement due to depth, would also have to be investigated. 
+
+*The use and benefits of a multiple camera system: *Human vision makes use of two image sources (eyes) to determine depth information, and to provide contingency should one fail. However, the advantages of a multiple-camera system should outweigh the increased cost relative to a single vision system. Original plans for prototype systems considered the use of two cameras, and the reduction of the material requirements of the system to a single camera represents a significant improvement.
+
+*The use of a self-lit system:* As was seen in section 4.3.3, the lighting affects the ability for the system to function. A future system may attempt to reduce the effects of ambient lighting by using its own light system.
+
+*The ability to recognise object displacement on a curved or variable surface*: The system, as it presently exists, is able to locate a number of boundary markers and infer that they exist as fixed and known points on a *flat* surface. If the system were able to recognise boundary markers, and infer from these the position of an object on a *curved or variable* surface (such as a portion of a sphere or spheroid shape), then the number of scenarios the system would be able to tackle, and the accuracy of the system, would increase. A system capable or disseminating object position on a curved surface would, for instance, be able to compensate for the curvature and warping of an image caused by a camera lens, for instance. 
+
+*The implementation of DIC sub-pixel algorithms: *Presently, the accuracy of the system is limited, in part, by what are effectively the pixel resolution figures (the number of mm^2^ per pixel). Sub-pixel DIC algorithms have been developed by the university to allow the accuracy of a DIC system to exceed the camera resolution. 
+
+*The creation of a system to recognise displacement of an object in three dimensions*: This is touched upon briefly in section 1.2.3. Viewing an object from more than one perspective allows a system to gauge displacement in three dimensions. This is an example of a potential benefit of a multiple camera system.  
+
+***5.2 	Conclusion***
+
+Using a single, specific test problem, with a specific boundary size, marker colour, object colour, rigid body displacement and object displacement, the device was able to identify the real-life displacement of the object to a high degree of accuracy. Thus, the system could be said to *work*.
+
+In the main test example, the device was able to accurately recognise the object disparity to within an area less than 0.01 per cent of the bounded object area (See section 4.2.4.4).  
+
+A number of other examples provided a slightly more rigorous testing of various stages of the system. These revealed the effects differing conditions have on the device, and suggested ways they may be used and/or compensated for.
+
+The device was able to identify, in normal conditions, both objects and markers, and to extrapolate useful information from these. It also allows the potential to extrapolate further information, including information on distance of object plane from camera, and ‘vertical plane angle:’ the angle the camera meets with the line normal to the face of the object plane, in the vertical plane normal to the object plane. 
+
+The device operated using a single camera system for a range of tasks, including both device positioning and object positioning. Original designs considered used two cameras rather than just one, and the single-camera system used represents a significant improvement on these ideas due to the reduced material cost.
+
+Due to the breadth of areas involved in reaching a finished and functioning prototype, some areas have been demonstrated in a fairly anecdotal fashion, but those that have been tested comprehensively (For example, section 4.4) have yielded results that have been self-consistent, and allowed the desired outcome to be achieved.

@@ -1,0 +1,469 @@
+---
+title: "Chapter 1: Decision-making and the Emergence of Social Elites"
+---
+
+Chapter One: Decision-making and the emergence of Social Elites
+
+Introduction
+
+This chapter will discuss two topics: individual decision-making, and the genesis of social elites. Though these topics seem relatively unconnected, and may appear to be so throughout this chapter, the author believes a significant treatment and discussion of both is required in order to provide sufficient background for the issues covered in chapter two: the functioning of formalised social groups and the manner in which they shape human behaviours. 
+
+	Both chapters will proceed largely by attempting to summarise theories by two academics: the neuroscientist Antonio Damasio, and the human geographer Jared Diamond. Where appropriate, links between these authors’ theories and  those of others will be highlighted, but to a large extent, in order both to minimise the risk of accidental ventriloquism, and in order to maintain some level of narrative consistency, the theories will be allowed to be expressed in the authors’ own words.
+
+Part One: Decision-making
+
+Introduction
+
+Who and what am I? Questions of this nature have been debated and discussed for millennia, and it is not the purpose of this chapter, or even this thesis, to provide a single, definite response to this question. However, it is the purpose of this chapter, and to an extent this entire thesis, to discuss decision-making – at various gradients of generality and specificity – and in this regard a certain school of thought – and, more recently, line of empirical enquiry – regarding the issues of ‘self’ and ‘consciousness’ can be very illuminating. Ideas from this school of thought can, the author believes, allow one to develop a more coherent and holistic understanding of the phenomena of decision-making at various levels of the specific-general gradient. The main aim of this first part of the first chapter is to provide a sufficient discussion of this school of thought that its key concepts, insights and ideas may be applied to the topics of investigation in subsequent chapters.
+
+The school of thought to which I am referring refers – loosely and broadly – to the kinds of ideas proposed by philosophers, psychologists and – more recently – neuroscientists such as Spinoza, William James, and  Sigmund Freud, and have been most clearly and recently articulated and tested by Antonio Damasio,[1] in books such as *Descartes’ Error* [2], *The Feeling of What Happens *[3], and *Looking For Spinoza* [4]. It is primarily Damasio’s writings the author will seek to expound within this section, though where appropriate writings, key-terms and ideas from other figures will also be employed within this exposition. 
+
+The Self and the Organism
+
+ In Bertrand Russell’s *History of Western Philosophy, *in his discussion of Descartes, Russell suggests that the problem with accepting the statement *“cognito, ergo sum” (*“I think, therefore I am”) as an axiom is that the *“I” *is undefined. Instead, suggested Russell, the statement should simply assert that “*there are thoughts”. *William James made a similar observation within *The Principles of Psychology*.
+
+The problem of *what *is thinking led Damasio to posit:.
+
+How do we ever know that we are seeing a given object? How do we become conscious in the full sense of the word? How is the sense of self in the act of knowing implanted in the mind? The way into a possible answer for the questions on self came only after I began seeing the problem of consciousness in terms of two key players, the *organism* and the *object*, and in terms of the *relationships* those players hold in the course of their natural interactions. The organism in question is that within which consciousness occurs; the object in question is any object that gets to be known in the consciousness process; and the relationships between organism and object are the contents of the knowledge we call consciousness. Seen in this perspective, consciousness consists of constructing knowledge about two facts: that the organism is involved in relation to some object, and that the object  in the relation causes a change in the organism. {Damasio, 2000 #1} [pp 19-20]
+
+Damasio’s terminology needs a little unpacking. He uses the term ‘image’ as a synonym for ‘mental pattern’ {Damasio, 2000 #1}[p. 317], and by this usage an ‘image’ generalises beyond visual patterns, referring equally, for example, to tactile patterns (the sensation of being touched by a feather, or of a spider crawling along one’s skin),  auditory patterns (the sound of a police siren speeding away on a nearby street), olfactory patterns (the smell of roses or fetid gorgonzola), or any other form of sensory pattern. Images are observed only subjectively, in the first person, by one organism and one alone; however, with ever-improving medical and experimental technology, biological correlates of images may be observed (changes in the skin’s electrical conductance; changes in the form – pattern, shape, intensity, duration – of electromagnetic field  surrounding the skull) by third parties  and, it is assumed, in theory all *subjective *mental images could be shown to be perfectly correlated with a given *objective* pattern of biological activity. 
+
+	The term ‘organism’ is perhaps even harder to explain. 
+
+One key to understanding living organisms, from those that are made up of one cell to those that are made up of billions of cells, is the definition of their boundary, the separation between that is *in* and what is *out*. The structure of the organism is inside the boundary and the life of the organism is defined by the maintenance of internal states within the boundary. Singular individuality depends on the boundary.
+
+Through thick and thin, even when large variations occur in the environment that surrounds and organism, there is a dispositional arrangement in the organism’s structure that modified the inner workings of the organism. The dispositional arrangement ensures that the environmental variations do not cause a correspondingly large and excessive variation of activity within. When variations that trespass into a dangerous ranger are about to occur, they can be averted by some preemptive action; and where dangerous variations have already occurred, they can still be corrected by some appropriate action.{Damasio, 2000 #1} [pp. 136-7]
+
+Attempting to understand this definition is one of a small number of occasions during which I feel my educational background in electronic engineering is appropriate to the task at hand. Here I learned about feedback loops, and their role in generating either stability or instability within systems of components. Positive feedback loops could cause a small perturbation in an input to a system  -  a path of causal influence from the *environment without * to the *organism within, * to use something closer to Damasio’s phraseology – to lead to disproportionately large changes in the output of the system: small initial differences become amplified and reinforced, causing rapid step-changes in the observable *behaviour* of the system (for example, a change in input voltage of 0.25 volts could result in an output voltage changing by 30 volts). Conversely, negative feedback loops mean that relatively *large* changes in the input to a system result in only* small* changes to the output: the effect of the internal structure of the system is such as to *negate* external influence.  
+
+	As an utterly unrepentant reductionist, ‘life’ in this regard refers to a system which manages – through feedback loops and mechanisms within its internal structure – to maintain a non-equilibrium stable state, with regard to a set of definable and measurable properties, and with respect to that which is external to it (the environment). The ‘equilibrium’ refers to the normal state of the environment with respect to those properties by which the ‘living system’ and environment differ. Functionally, ‘the boundary’, by which the living system or organism is defined, refers to a significant and systematic difference between the conditions of a given range of properties – moisture content, pH levels, electrical activity and so on – between that which is *outside* (the environment) and what which is *inside *(the organism). 
+
+	The process by which a living system or organism comes to maintain its non-equilibrium stable state is called *homeostasis. *As Damasio explains:
+
+*Homeostasis* refers to the coordinated and largely automated physiological reactions required to maintain stable internal states in a living organism. Homeostasis describes the automatic regulation of temperature, oxygen concentration, or pH in your body {Damasio, 2000 #1} [pp. 40-41]
+
+Once the  internal structure of the organism loses its functional integrity, and can no longer, through its internal structure maintain the differential boundary between itself and that which surrounds it, then, by this definition, it ceases to be alive.
+
+Objects and Emotions
+
+An object is an aspect of the environment which has been differentiated from others by an organism. Even without consciousness, the organism can objectify aspects of the environment by producing systematically different responses to different environmental aspects. For example, towards some aspects of the environment, the organism may shrink, and to others it may swell; in this example the former environmental aspect would be, from the perspective of the organism, a ‘shrink-inducing’ object, whereas the latter would be a ‘swell-inducing’ object. (One should note that, without the organism, it would not be meaningful to refer to such environmental aspects as objects, as the definitions depend entirely on the response the environmental aspect systematically induces within the organism.)
+
+	At the most basic level, an *emotion* is a response to an *object*. Within the hypothesised organism above, shrinking and swelling are, effectively, *emotions.* As Damasio asserts, “emotions are part and parcel of the regulations we call homeostasis.” {Damasio, 2000 #1} [p. 41] In the Shrink-Sweller, one may presume, the emotional responses of shrinking and swelling may allow better regulation of core temperature when the external temperature of the environment decreases (in the cases of shrinking) or increases (in the case of swelling) rapidly. 
+
+Feelings and Self
+
+Decision-making requires a conscious, reasoning self. Damasio suggests the faculties for reason and consciousness emerge atop a biological hierarchy of increasingly complex biological and regulatory processes:
+
+Complex, flexible, and customized plans of response are formulated in conscious images and may be executed as behaviour.
+
+Sensory patterns signalling pain, pleasure, and emotions become images.
+
+Complex, stereotyped patterns of response, which include secondary emotions, primary emotions, and background emotions.
+
+Relatively simply, stereotyped patterns of response, which include metabolic regulation, reflexes, the biological machinery behind what will become pain and pleasure, drives and motivations.
+
+BASIC LIFE REGULATION
+
+EMOTIONS
+
+HIGH REASON
+
+FEELINGS
+
+*CONSCIOUSNESS*
+
+Figure 1: Levels of Life Regulation (Redrawn from Damasio 2000, p. 55)
+
+Note that the arrows of causal influence, from highest to lowest level, run in both directions. 
+
+	In order for an emotion to become a feeling, there needs to exist the biological machinery for signalling, in one part of the organism, that an emotion is occurring in another part. Such signals can then be relayed to the non-emotive part of the organism, and the appropriate emotional response generated. 
+
+To continue with the example, a shrink-inducing object may induce an emotional response through direct contact with one side of the Shrink-Sweller. This change in the internal state of that side of the organism could then, through a sequence of internal causal influence, lead to a similar emotional response within the rest of the organism. If the sequence of internal causal influence is systematic in its behaviour in response to the change in the emotional state within an aspect of the organism, then this causal sequence functions as a signalling mechanism within the organism. *This internal signalling, in response to emotional change, is the core quality of feeling*. 
+
+Damasio refers to a particular pattern of signalling responses as an *image*.
+
+Centralisation and the Proto-self
+
+An early prerequisite for the sense of self is the emergence of a complex, holistic system of emotional identification and signalling within the organism. This is the function of the central nervous system. With internal sensory centralisation, the emotional responses – complex, unconscious behaviours - of the entire organism can come to be coordinated, and where such coordination of activity is evolutionary advantageous such trends towards sensory centralisation develop. The sense of self depends upon the capacity of the organism to behave coherently as a single entity, and respond systematically, effectively and in a coordinated fashion, to changes in any of its aspects. 
+
+	When an organism becomes centrally connected in this way, it becomes meaningful to consider the organism to be an *object with respect to itself.* To recall, an ‘object’ has here been defined as something which may have systematic influence upon the organism. With a central nervous system, which relays changes in the emotional state of any aspect of the organism, the organism comes to yield a coherent, systematic, unified response upon itself. 
+
+Knowing Feelings
+
+Hopefully, by now, the dense paragraph quoted from Damasio [cross-ref], suggesting the consciousness emerges from the relationship between object and organism, has become slightly more meaningful. There is a great gap, however, between ‘feeling’ and ‘high reason’, and Damasio suggests this gap is bridged through a gradual sequence of smaller changes. 
+
+	It is here that Damasio introduces two more concepts: ‘core consciousness’, and ‘knowing a feeling’ (as additional to the feeling itself).
+
+Beyond emotion ... two additional steps must take place before an emotion is *known*. The  first is feeling, the imaging of the changes we just discussed. The second is the application of core consciousness to the entire set of phenomena. Knowing an emotion – feeling a feeling – only occurs at that point. {Damasio, 2000 #1}[p. 68]
+
+‘Core consciousness’, to use my own paraphrasing, refers to the increasing coherence of the sense of self in inducing emotional responses within the organism. It is the self which comes to ‘know feelings’, in the sense that local information about emotional states within an aspect of the organism rapidly comes to be known globally, throughout the entire organism.
+
+Emotions and Decision-making
+
+Given the above discussion, we are now in a better position to start to understand the process of decision-making, and the relationship between decision-making and emotions. This relationship should not be underestimated. As Damasio states, “emotion is integral to the processes of reasoning and decision making, for worse and for better.” {Damasio, 2000 #1}[p. 41]
+
+Dennett’s Weberian Creatures 
+
+Largely implicit within Damasio’s theory is the idea that there must be some form of significant evolutionary benefit to the emergence of consciousness and decision-making capabilities. A more explicit treatment of this issue is given within Daniel Dennett’s book *Darwin’s Dangerous Idea {Dennett, 1995 #6} *[Ref]*,* in which he posits, as I have with the Shrink-sweller, a series of hypothetical, Ideal Type creatures, each exhibiting more extensive levels of consciousness (or degrees of mind) and mental complexity, in order to illustrate the selective forces under which the capacity to make decisions could evolve.
+
+	Within this exposition, it is worth making an explicit [the link] between what is known as the *genotype*: the hard-wired, internal information, passed down from ancestor to descendent in the form of genetic material – and the *phenotype*: the physical form and behaviours the creatures manifest within their environment.
+
+	The simplest creatures Dennett posits he calls a *Darwinian creature*. {Dennett, 1995 #6}[p.374] If the phenotype of the creature ‘fits’ the environment better than its rivals – other creatures sharing the same environment, and to an extent constituting an aspect of each other’s environment – then its genetic material will be ‘selected for’ over many generations. 
+
+	A subset of the Darwinian creature emerges known as the *Skinnerian creature*. This subset differs from other Darwinian creatures in that it exhibits greater levels of ‘conditionable plasticity’ within its phenotype without further changes in its genotype {Dennett, 1995 #6}[p.375]. The creature responds to the environment in a variety of pre-determined ways: a single genotype yields a creature with multiple conditional phenotypes. (Within Damasio’s schema this is, essentially, what an *emotion *refers to). 
+
+	A subset of the Skinnerian creature emerges, the *Popperian creature*, which differ from other Skinnerian creatures by being able to *preselect *an appropriate response to the challenges of the environment. The Popperian creature *pre-empts, *rather than simply *responds.*
+
+*	*It is here that Dennett’s ideas begin to dovetail usefully with Damasio’s:
+
+[H]ow is this preselection in Popperian agents to be done?  Where is the feedback to come from? It must come from a sort of *inner environment* – an inner something-or-other that is structured in such a way that the surrogate actions it favors are more often than not the very actions the real world would also bless, if they were actually performed. In short, the inner environment, whatever it is, must contain lots of *information* about the outer environment and its regularities. Nothing else (except magic) could provide preselection worth having. {Dennett, 1995 #6}[pp. 375-6]
+
+This *inner environment,* to which Dennett refers, is a mind.
+
+Decision-making as ‘Emotional Simulation’
+
+Within the perspective suggested both by Damasio and by Dennett, then, the faculty of decision-making relates intimately to the prediction, generation, and evaluation of differing emotional states under a variety of hypothesised environmental circumstances. The capacity to reason is thus ultimately dependent upon, and in service to, the capacity to know and compare feelings. The faculty for reason thus does not, and cannot, exist without emotion (which itself cannot exist without complex life). As Damasio states, “the engines of reason still require emotion, which means that the controlling power of reason is often modest.”  {Damasio, 2000 #1} [p. 58]
+
+	Thoughts, elements of the reasoning process, come to generate dispositional memories of how the organism, the biological predicate of the self, tends to respond to a given object. 
+
+There is no such thing as pure perception of an object within a sensory channel ... They perceive an object ... the organism requires both specialized sensory signals *and* signals from the adjustment of the body, which are necessary for perception to occur. [...]
+
+	The statement also holds true when you are simply thinking of an object rather than actually perceiving it in the world outside your organism. ... *The records we hold of the objects and events that we once perceived include the motor adjustments we made to obtain the perception in the first place and also include the emotional reactions we had then*. [My emphasis].  [E]ven when we “merely” think about an object, we tend to reconstruct memories not just of a shape or color but also of the perceptual engagement the objects required and of the accompanying emotional reactions, regardless of how slight. ... [T]he images you form in your mind *always* signal to the organism its own engagement with the business of making images and evoke some emotional reactions. You simply cannot escape the *affectation* of your organism, motor and emotional most of all, that is part and parcel of having a mind.  {Damasio, 2000 #1} [pp. 147-8, emphasis in original unless otherwise stated] 
+
+The image of the object is *re-imagined*, and through this the dispositional tendencies of the organism in response to the object come to be remembered.
+
+Consciousness ... only arises when the object, the organism, and their relation, can be re-represented. {Damasio, 2000 #1} [p. 160]
+
+Now let us turn to the case of an object that is not actually present but has, rather, been committed to memory. According to my framework, the memory of that object has been stored in dispositional form. *Dispositions are records which are dormant and implicit rather than active and explicit, as images are. Those dispositional memories of an object that was once actually perceived include not only records of the sensory aspects of the object ... but also records of the motor adjustments that necessarily accompanies the gathering of the sensory signals*; moreover the memories also contain records of the obligate emotional reaction to the object. As a consequence, *when we recall an object, when we allow dispositions to make their implicit information explicit, we retrieve not just sensory data but also accompanying motor and emotional data.* When we recall an object, we recall not just sensory characteristics of an actual object but the past reactions of the organism to that object. {Damasio, 2000 #1} [pp. 160-1, my emphasis]
+
+If mindfulness and consciousness perform, ultimately, the function of selecting from a limited range of potential behaviours, a limited proportion of the time, it follows that the vast majority of one’s behaviours are not consciously determined at all. Instead, they exist as unconscious, predetermined patterns of behaviour, of varying levels of complexity, in response to particular (if one will forgive the Skinnerian overtones) ‘stimuli’.
+
+	If this process of remembering were to continually involve the entire body, the process could be expensive, in terms of both time and other resources (because, in this case, deciding would require rapid and substantial alteration of the body’s electro-chemical and physiological functioning). Thus, in order to make the process of reasoning ‘cheaper’, faculties of the brain develop which simulate the responses of the rest of the body to a given object. Thoughts entering this as-if-body-loop thus induce the same kinds of response within the periphery of the brain, from the perspective of the decision-making aspects of the brain, as would comparable signals from the brain to the rest of the body. Much of the brain thus behaves as a kind of emotional simulator, a cognitive laboratory under which various what-if scenarios, involving different relationships between objects, may be compared in order to assess their likely effects upon the organism. 
+
+Habits and Habitus
+
+At this stage it is worth developing the connections between Damasio, William James, and Pierre Bourdieu, if only to demonstrate that Damasio’s theories do already have a significant degree of philosophical, psychological, and sociological value and precedent, even if through the accidental re-discovery and re-formulation of what are essentially the same core concepts. 
+
+	To begin, it is worth quoting a definition of Bourdieu’s concept of *habitus*, found in an editor’s introduction to one of his books [ref]
+
+The habitus is a set of *dispositions* which incline agents to act and react in certain ways. The dispositions generate practices, perceptions and attitudes which are ‘regular’ without being consciously co-ordinated or governed by any ‘rule’. The dispositions generate practices, perceptions and attitudes which are ‘regular’ without consciously co-ordinated or governed by any ‘rule’. The dispositions which constitute the habitus are inculcated, structured, durable, generative and transposable – features that each deserve a brief explanation. Dispositions are acquired through a gradual process of *inculcation* in which early childhood experiences are particularly important. Through a myriad of mundane processes of training and learning ... the individual acquires a set of dispositions which literally mouldy the body and become second nature. The dispositions produced thereby are also *structured* in the sense that they unavoidably reflect the social conditions within which they are acquired. ... [T]he similarities and differences that characterize the social conditions of existence of individuals will be reflected in the habitus, which may be relatively homogeneous across individuals from similar backgrounds. Structured dispositions are also *durable*: they are ingrained in the body in such a way that they endure through the life history of the individual, operating in a way that is pre-conscious and hence not readily amenable to  conscious reflection and modification. Finally, the dispositions are *generative* and *transposable* in the sense that they are capable of generating a multiplicity of practices and perceptions in fields other than those in which they were originally acquired. As a durably installed set of dispositions, the habitus tends to generate practices and perceptions, works and appreciations, which concur with the conditions of existence of which the habitus is itself the product. {Thompson, 1992 #7} [pp. 12-13, emphasis in original] 
+
+The etymological relationship between the term *habitus – *which has Aristotelian and scholastic origins {Thompson, 1992 #7}[p. 12] – and the word ‘habit’, is obvious, and it is in the discussion of habit that William James’ own insights and ideas become of relevance:
+
+Man is born with a tendency to do more things than his has ready-made arrangements for in his nerve-centres. Most of the performances of other animals are automatic. But in him the number of them is so enormous, that most of them must be the fruit of painful study. If practice did not make perfect, nor habit economize the expense of nervous and muscular energy, he would therefore be in a sorry plight.{James, 1890 #4} [p. 113]
+
+James then writes that “*habit diminishes the conscious attention with which our acts are performed*. {James, 1890 #4}[p.114, emphasis in the original]” 
+
+He continues:
+
+One may state this abstractly thus: If an act require for its execution a chain, A, B, C, D, E,F,G, etc., of successive nervous events, then in the first performances of the action the conscious will must choose each of these events from a number of wrong alternatives that tend to present themselves; but *habit soon brings it about that each event calls up its own appropriate successor without any alternative offering itself, and without any references to the conscious will*, until at last the whole chain, A, B, C, D, E, F, G, rattles itself off as soon as A occurs, just as if A and the rest of the chain were fused into a continuous stream. {James, 1890 #4}[p. 114, emphasis added]
+
+  
+
+James then presents a more tangible illustration of this process:
+
+The writer well remembers how, on revisiting Paris after ten years’ absence, and, findings himself in the street in which for one winter he had attended school, he lost himself in a brown study, from which he was awakened by finding himself upon the stairs which led to the apartment in a house many streets away in which he had lived during that earlier time, and to which his steps from the school had then habitually led. We all of us have a definite routine manner of performing certain daily offices ... . *Our lower centres know the order of these movements*, and show their knowledge by their ‘surprise’ if the objects are altered so as to oblige the movement to be made in a different way*. But out higher thought-centres know hardly anything about the matter*.{James, 1890 #4} [p. 115, emphasis added]
+
+ 
+
+To a large extent, James’ observations and theories were decades ahead of their time, and appear to have been verified within modern experimental psychology. For example, within a standard textbook of educational psychology, *Psychology of Learning for Instruction *[ref], within a subsection headed “Automaticity”, the author writes:
+
+When tasks are overlearned or sources of information become habitual, to the extent that their attention requirements are minimal, **automaticity** has occurred. Driving a car provides a good example of the distinction Shiffrin and Schneider (1977) made between automatic and controlling processing. For the most part, the driving task is automatic, enabling the driver to listen attentively to a radio program, for example. {Driscoll, 2000 #8}[pp. 82-3, emphasis in original]
+
+The process by which complex sequences of behaviours (whether physical, such as tying a shoelace, or mental, such as recalling a credit card number) come to become habitually acquired has also been further illumined by experimental evidence on types of memory. As the above textbook states with respect to what is called “short term memory” or “working memory” :
+
+Information selected for further processing comes to the working memory , also known as the short-term memory or short-term store. At this stage, concepts from long-term memory will be activated for use in making sense of the incoming information. But, as indicated earlier in the chapter, there are limits to how much information can be held in working memory at one time and for how long information may be retained there, unless, of course, something is done to increase capacity or duration in some way.
+
+	In a now classic study of short-term memory, George Miller (1956) demonstrated that about 7 ± 2 numbers could be recalled in a digit-span test. This test consisted of reading subjects a list of numbers and asking them to immediately repeat what they had heard. ...
+
+	[S]even bits of information have been shown to constitute the memory span for a great variety of materials. Moreover, each bit of information can vary tremendously in size. A ten-letter word, for example, may be one bit, along with a six-word sentence. Discovery of this fact has led to the notion that *working memory capacity may be increased through creating larger bits*, known as the process of **chunking**.{Driscoll, 2000 #8}[pp. 88-9, emphasis in original]
+
+In a Jamesian vocabulary, therefore, the process described by the ugly neologism ‘chunking’ is equivalent to the process whereby, instead of having to consciously recall the each of the events in the sequence A, B, C, D, E, F, G, one instead only has to ‘have in mind’ event A. To use Damasio’s terminology, the organism’s dispositional memory has learned a new object such that, whereas before the mind of the organism had to take into account the relationship between the self and, say, three external objects, now the relationship to be understood is between the self and one or two external objects.  
+
+[Ref to types of long-term memory]
+
+Damasio and the Psychosocial Hypothesis
+
+It is probably useful, at this point, to make clear the relationship, via Damasio, between decision-making and the proposed biological aetiology through which the psychosocial model of health inequality comes to function. Mel Bartley presents a good summary:
+
+The original ideas behind [the psychosocial model] were based on the existence of two types of response to external threats shared by both humans and other animals. ... The most well known ... is the so called ‘fight or flight’ response. The body received alarm messages from the brain that can be thought of as activating one or other of two ‘response circuits’ [...]
+
+	[The sympathetic-adrenomedullary circuit] involves the sympathetic nervous system, which, in balance with the parasympathetic nervous system, is responsible for much of what goes on in a routine way in the body without conscious awareness. They govern how fast the heart is beating, response to changes in outside temperature (shivering, sweating) and the pH (acidity) level of the blood, for example. Sympathetic nervous stimulation releases adrenaline from the adrenal medulla, and at the same time the ends of the sympathetic nerves themselves release noradrenaline. *This prompts the release into the bloodstream of fibrinogen, a substance that helps blood to clot more easily. At the same time, the heart rate and blood pressure rise, and the small blood vessels (capillaries) nearest to the skin narrow sharply. This would present excessive blood loss from a wound, but it also has the effect of raising the blood pressure.* {Bartley, 2004 #9}[pp. 80-1, my emphasis] 
+
+When seen from the general perspective developed in this sub-chapter, this above technical description begins to assume a tragic quality. We are made conscious of our emotional responses to different social situations, in order that we can make decisions about how to act in order to move away from the negative environmental aspects – ‘Stressors’, in this case -  and towards positive environmental aspects. However, we exist in social environment where such Stressors are all-pervasive. Our awareness of our emotions mean that we know we *should* move away from the Stressors, but the environment is such that we cannot. 
+
+	The release of fibrinogen, the increase in heart rate and blood pressure, the narrowing of capillaries – all automatic, unconscious components of what Damasio calls the “complex, stereotyped patterns of response” {Damasio, 2000 #1}[p. 55], known collectively as an ‘emotion’ – are the chronic, proximate causes of heart diseases which exhibit a well observed and consistent social gradient. One can treat such proximate causes – for example, through the consumption of aspirin, which thins the blood – in order to counter the abnormal, physiological imbalance of the human organism; however, following the logic of the psychosocial hypothesis, this abnormality within the blood of the organism results directly from a normal response to an abnormal environment.
+
+Dasein
+
+Though the ‘reductionist sociobiological account’ expressed above may appear worlds apart from the more ponderous and complex sociological theory which has emerged from and been informed by the existential, ontological and phenomenological musings of continental philosophy, critical theory, deconstructionism, post-structuralism, postmodernism and the like, there is at least one founding, ‘canonical’ text from this broad church of social inquiry where the ideas expressed appear to resonate strongly with those expressed here. The author has in mind the German philosopher Martin Heidigger’s book *Being and Time* [Ref].
+
+	Some passages from a summary of the work, within an introductory critical theory textbook the author happens to own, may help to illuminate this accidental consonance in thinking:
+
+It is the very taken-for-grantedness of our everyday engagement with entities we show that we somehow understand the being of the entities which we encounter (for example in hammering a nail, contemplating a landscape, or taking scientific measurements), even if we find it difficult to express that understanding adequately.{Woods, 2002 #10} [p. 166]
+
+Dasein [the term Heidegger uses for human being; literally ‘there-being’] has an implicit understanding of entities other than itself ... [A]s it engages in its everyday activity Dasein leads its life, presses forward into possibilities. ... Dasein’s essence is its existence{Woods, 2002 #10} [p. 166]
+
+Dasein [is characterised] as, fundamentally, not a conscious subject but rather a set of comportments or ways of acting. ... [C]onsciousness appears late on in the existential analytic, and is seen to be a consequence of Dasein’s being-in-the-world. {Woods, 2002 #10}[p. 167]
+
+A famous characterisation Heidegger offers of Dasein is of an intuitive tool-user:
+
+[A]s it goes about its business Dasein takes the tool *as* something, but in a peculiar manner whereby the tool itself has a certain sort of invisibility. We do not pay particular attention to the hammer; rather it becomes a seamless comportment of our on-going activity. Heidegger refers to this sort of ‘seeing’, in which we have an un-self-reflexive awareness of what lies before as, as ‘circumspection’. When someone enters a room they normally do not pay close attention to the door; whether it is open or closed, they act appropriately, circumspectly, without giving it explicit attention. In circumspection Dasein, against an already-constituted practical understanding, uses a tool and thus implicitly identifies and ‘assigns’ this particular tool as being a certain entity, which in turn is part of a wider web of assignment relations which Heidegger calls ‘the world’. {Woods, 2002 #10}[p. 168]
+
+Heidegger’s theories regarding how we become conscious of certain entities is also deeply resonant:
+
+Sometimes people just stare at things, discuss how to overcome a problem of formulate theories. In his account of such phenomena Heidegger turns to a third ontological category: the present-at-hand. Dasein first encounters the present-at-hand when some sort of failure occurs in its dealing with ready-to-hand entities, for instance if a hammer is unsuitable for the task at hand. What is involved here is interpretation, which Heidegger portrays as a series of stages whereby Dasein emerges from un-self-reflective action into an increasingly acute consciousness of its world. Interpretation is in the first instance non-verbal; Dasein wordlessly tries to sway the hammer for another. Presence at hand is, however, an ontological category to which Dasein attains full access when it has recourse to a certain type of speech, namely assertions (statements of the type ‘S is P’). When an assertion is made about some entity, such as ‘this hammer is too light’, specific aspects of its being are highlighted, and Dasein’s understanding alters to become much more like our commonsense notion of understanding. ‘Only now are we given any access to properties or the like’ (p. 200). Heidegger finds a number of intermediate stages where speech becomes increasingly detached from an immediate context of activity, culminating in theoretical assertions.{Woods, 2002 #10} [p. 170] 
+
+The original text, Being and Time, was never finished, and is often considered rather opaque and impenetrable. However, its fundamental insights and approach to understanding how we exist, understand, and be conscious of the world around us – at least as it has been understood and disseminated by the writer of the introductory passages quoted – suggest that the conceptual void between [confused... continue here] 
+
+An Aside Concerning Stress and Obedience to Authority
+
+Stanley Milgram, as part of his famous Obedience to Authority experiments, created a social situation such that there was a continual tension between satisfying two contradictory wants – wanting to behave according to an internal code of morals, and wanting to satisfy a figure of authority. He wrote considerably about the physiological symptoms of stress induced in his subjects during the experiment. In a 1963 article, for example, he wrote: “Subjects were observed to sweat, tremble, stutter, bite their lips, groan, and dig their fingernails into their flesh.” And added, “These were characteristic rather than exceptional responses to the experiment.”{Milgram, 1963 #11}[Milgram 1963, p. 375]  
+
+These deep, physiological, emotional reactions to having to make a decision illustrate very clearly the extent to which decision-making processes can permeate downwards across all levels of Damasio’s hierarchy, from reasoning, to feelings, to emotions, down to basic physiological functioning (such as breathing). They also suggest the extent to which social structure influences decision-making processes. This relationship, together with an exposition of Milgram’s theories concerning obedience, will be covered extensively within chapter two.   
+
+Summary
+
+In this sub-chapter the author has attempted to illustrate a general neurological framework for thinking about this issue of decision-making. This general framework suggests that a large variety of *prima facia* unrelated issues – habits, consciousness, empathy, reason and emotions – are in fact intimately linked. In developing and exploring the implications of this framework, the author has sought to summarise recent evidence supporting a perspective most commonly associated with Freud: that, beneath the mental and decision-making processes of which we are conscious, there exists a much larger body of behaviours and internal processes of which we are not. Our functions and faculties of ‘higher reason’ cannot be, and should not be seen to be, divorced and extricated from more primal functions of emotional response and physiological regulation. Consciousness, to use a metaphor also employed by Freud [Ref... confirm], is simply the ‘tip of an iceberg’, and represents just a small proportion of what we are doing at any moment. Reason and consciousness emerge from, and ultimately exist to serve, the body, and the body only seeks to make us aware of behaviours it could undertake and functions it could perform when the variety of automatic responses it has at its disposal prove inadequate for fitting its environmental context.
+
+	Following from this last point is the observation that, through forms of socialisation, we act so as to teach our bodies an ever more elaborate and extensive range of automatic responses to a wider range of contexts. Learning is, to an extent, *a process by which the conscious is made unconscious*. It occurs throughout our lives, takes place far more often outside rather than inside formal educational establishments, and functions to *relieve ourselves from the burden of conscious processing and decision-making*. As William James wrote: 
+
+There is no more miserable human being than one in whom nothing is habitual but indecision ... Full half the time of such a man goes to the deciding, or regretting, of matters which ought to be so ingrained in him as practically not to exist for his consciousness at all. {James, 1890 #4}[p. 122]
+
+To be too aware, too conscious, and have to make too many decisions, would be terrible fate.
+
+	James was also aware of what he called the “*ethical implications of the law of habit*” {James, 1890 #4}[p. 120]. In extended, maudlin, purple prose which would most likely not be allowed in contemporary scientific literature, he wrote:
+
+Habit is ... the enormous fly-wheel of society, its most precious conservative agent. It alone is what keeps us all within the bounds of ordinance, ad saves the children of fortune from the envious uprisings of the poor. It alone presents the hardest and most repulsive walks of life from being deserted by those brought up to tread therein. It keeps the fisherman and the desk-hand at sea through the winter; it holds the miner in his darkness, and nails the countryman to his log-cabin and his lonely farm through all the months of snow; it protects us from invasion by the natives of the dessert and the frozen zone. It dooms us all to fight out the batter of life upon the lines of our nurture or our early choice, and to make the best of a pursuit that disagrees, because there is no other for which we are fitted, and it is too late to begin again. It keeps different social strata from mixing. {James, 1890 #4}[p. 121]
+
+As he continues, the link between habit and habitus becomes even clearer:
+
+Already at the age of twenty-five you see the professional mannerism settling down on the young commercial traveller, on the young doctor, on the young minister, on the young counsellor-at-law. You see the little lines of cleavage running though the character, the tricks of thought, the prejudices, the ways of the  ‘shop,’ in a word, from which the man can by-and-by no more escape than his coat-sleeve can suddenly fall into a new set of folds. On the whole, it is best he should not escape. {James, 1890 #4}[p. 121]
+
+The above passages may betray something of the ‘sick soul’ within James (to use his own categorisation) {James, 1983 [1902] #12}[, but do poignantly demonstrate the deep sociological implications of human capacities for habituation and decision-making processes. They also suggest the extent to which those behaviours and actions which are ‘natural’ for us to perform are, in fact, the result of cultural forces and societal structures. 
+
+	Part two of this chapter will summarise some anthropological insights into the emergence of contemporary social structures. In chapter two the ideas presented in both parts of chapter one will be combined in order to explore, in more detail, the relationship between social structures and individual behaviours.   
+
+[Roger: turn section around
+
+	Soc -> Neuro
+
+	[...]
+
+]
+
+	 
+
+Part Two: The Growth of Elites
+
+Introduction
+
+In this section, I will discuss some theories on how social hierarchies came to emerge and be perpetuated across generations.  This section proceeds largely as a summary of a chapter within Jared Diamond’s book *Guns, Germs and Steel* {Diamond, 1998 #13}[Ref], called “From Egalitarianism to Kleptocracy”. {Diamond, 1998 #14}[Ref] However, it will also include a number of relatively novel associations between the theories expounded within this chapter, and other theorists, as well as positing a simple model, developing from Abram de Swaan’s *In Care of the State {de Swaan, 1988 #15} *[ref], in order to link Diamond’s discussions more explicitly to more contemporary issues of social welfare.  
+
+Population, elites, and societal complexity
+
+Diamond suggests four broad stages of societal complexity: *bands*, *tribes*, *chiefdoms* and *states*. Each stage is significantly more complex in its social organisation than the previous. *The “size of the regional population”, *Diamond writes,* “is the strongest single predictor of societal complexity”* {Diamond, 1998 #14}[p. 284, my emphasis]. As the population grows, so the society becomes more complex. 
+
+*Intensified food production and societal complexity stimulate each other, by autocatalysis.* That is population growth leads to societal complexity ... while societal complexity in turn leads to intensified food production and thereby to population growth. Complex centralized societies are uniquely capable of organizing public works ..., long-distance trade ..., and activities of different groups of economic specialists ... All these capabilities of centralized societies have fostered intensified food production and hence population growth throughout history. {Diamond, 1998 #14}[p. 285, my emphasis]
+
+Autocatalysis
+
+Autocatalysis, a term borrowed from chemistry, is in systems theory a particular, simple form of positive feedback, in which small changes in one component, X, induce small changes in component Y, which in turn induces further small changes in component X, which in turn induces further small changes in component Y.... and so on, until some new stable state is reached by both components. Another term for autocatalysis is *reciprocal causation*, and the general features of such a process are best expressed diagrammatically:
+
+Figure 2: Reciprocal Causation
+
+X
+
+Y
+
++
+
++
+
+Types of Social Group
+
+The simplest social structure Diamond proposes is the *band*, comprising just a few dozen members:
+
+Bands lack many institutions that we take for granted in our own society. They have no permanent single base of residence. The band’s land is used jointly by the whole group, instead of being partitioned among subgroups or individuals. There is no regular economic specialization, except by age and sex: all able-bodied individuals forage for food. There are no formal institutions, such as laws, police, and treaties, to resolve conflicts within and between bands. {Diamond, 1998 #14}[pp. 268-7]
+
+Diamond continues:
+
+Band organisation is often described as “Egalitarian”: there is no formalized social stratification into upper and lower classes, no formalized or hereditary leadership, and no formalized monopolies of information and decision making. However, the term “egalitarian” should not be taken to mean that all band members are equal in prestige and contribute equally to decisions. Rather, the term merely means that any band “leadership” is informal and acquired through qualifies such as personality, strength, intelligence, and fighting skills. {Diamond, 1998 #14}[pp. 269]
+
+One level of social complexity above is the *tribe, *with typical numbers in the hundreds. These differ from the bands by “usually having fixed settlements.” {Diamond, 1998 #14}[p. 270] 
+
+[A] tribe also differs [from a band] in that it consists of more than one formally recognized kinship group, termed clans, which exchange marriage partners. Land belongs to a particular clan, not to the whole tribe. However, the number of people in a tribe is still low enough that everyone knows everyone else by name and relationships. {Diamond, 1998 #14}[p. 271]
+
+Within both bands and tribes: 
+
+Their economy is based on reciprocal exchanges between individuals of families, rather than on a redistribution of tribute paid to some central authority. Economic specialization is slight: full-time crafts specialists are lacking, and every able-bodied adult … participates in growing, gathering, or hunting food. {Diamond, 1998 #14}[p. 272]
+
+*Chiefdoms*, with typical group sizes in the thousands, are the next level of societal complexity:
+
+The most distinctive economic feature of chiefdoms was their shift from reliance solely on the reciprocal exchanges characteristic of bands and tribes, by which A gives B a gift while expecting that B at some unspecified future time will give a gift of comparable value to A. ... While continuing reciprocal exchanges and without marketing or money, chiefdoms developed an additional new system termed a redistributive economy. A simple example would involve a chief receiving wheat and gradually fiving it out again in the months between harvests. {Diamond, 1998 #14}[p.275]
+
+A Note concerning Mauss, Bourdieu and Diamond
+
+The categories Diamond suggests are heuristic, and in a sense arbitrary: there is no objective point at which a tribe becomes a chiefdom. It is perhaps for this reason that even this ‘distinctive economic feature’ of the redistributive economy can appear quite like any other, simpler, reciprocal exchange. The difference, however, is that in the redistributive economy there exists a clear and systematic hierarchical relationship between the giver and receiver of the gift. In the purely reciprocal economy of the egalitarian tribe, the function of the exchange is to enable the sharing of risk amongst group members: A may have experienced a period of bad luck, but meanwhile B has been lucky and achieved a surplus of a necessary good. B exchanges the surplus on condition that, when the tables are turned, A will reciprocate. This ensures both that neither A nor B become significantly richer than one another, and also that – so long as both A and B do not simultaneously come upon hard times – neither experiences such material privation as to endanger life. 
+
+	When the relationship between giver and receiver is unequal, however, the giving and receiving of gifts can have another function: to make the poorer member a debtor and the richer member a creditor, thus further reinforcing the unequal structure of the relationship to the advantage of the richer member. In providing a gift to a subordinate member of such great value that the subordinate will never be able to repay, the superordinate ensures that their social structural advantage becomes permanent. By having ‘in his pockets’ a large number of indebted subordinates, the superordinate may then be able to benefit from a kind of obligatory economy of scale, such that subordinates, in an attempt to pay off their obligation, relinquish goods and perform services in exchange for lower returns than they would demand of someone of equal stature. The superordinate can then call upon the cheap pool of resources the debtors provide in order to ensnare further poor members in a trap of chronic debt. 
+
+	Within sociology and anthropology, this type of practice has been well chronicled by both Emile Durkheim’s nephew, Marcel Mauss, and by Pierre Bourdieu. Both Mauss and Bourdieu emphasised the importance of understanding the *relational* characteristics of social groups in understanding sociological phenomena, and their anthropological research – in Mauss’ case within *The Gift* {Mauss, 2000 #16}[Ref] and in Bourdieu’s case within his *Outline of a Theory of Practice* {Bourdieu, 1977 #17} and *Logic of Practice {Bourdieu, 1990 #18} *[Ref] -  have both detailed methods through which social inequality becomes reinforced through the practice of gift-giving. Bourdieu used the term ‘symbolic violence’ to refer to inequality-reinforcing ensnaring social logic behind the *prima facia *benevolent activity of gift-giving from higher to lower tiers of hierarchical members. Mauss used a Northern Native American term ‘potlatch’ to both epitomise and refer to a variety of practices and complex ceremonies of frenzied gift exchange between tribal members which, though apparently benevolent and spontaneous, were in fact calculated and competitive attempts to ensnare subordinates and beat rivals in a battle to assert power and authority over others. [Ref? Quote?]
+
+	Though these types of economic exchanges might be thought of as ‘reciprocal’, and the groups involved may be described as ‘tribes’, within Diamond’s typology these would instead be examples of *redistributive* economic systems within *chiefdoms. *Difference in terminology should not obscure the fact that these classical sociological and anthropological accounts complement rather than contradict Diamond’s own descriptions.
+
+The Growth of Inequality
+
+As the society becomes more complex the level of inequality within society tends to increase: a few individuals come to have disproportionate material, power and influence over everyone else. One reason for this, which is often overlooked because of its apparent banality, is that in very simple societies there are simply not enough surplus resources for it to be possible for some individuals to subsist off others.  A surplus of food is required in order for there to be any significant form of specialisation within a society. As well as technical specialists, including craftspeople and inventors, a surplus of food also allows military specialists – a dedicated army and police force – and administrative specialists to emerge. Diamond suggests that one way in which elites can maintain their positions of power over other members of society is to placate commoners by effectively serving the function of administrative specialists. This requires finding solutions to a variety of problems which result from the larger populations of the society. These include:
+
+  - **The problem of greater population density.**
+
+Large societies of food producers have not only more members but also higher population densities than do small bands of hunter-gatherers. ... As population densities increases, the territory of that band-sized population of a few dozen would shrink to a small area, with more and more of life’s necessities having to be obtained outside the area. ... [S]patial realities require that densely population regions support large and complexly organized societies. {Diamond, 1998 #14} [pp. 287-8]
+
+To some extent, all other problems derive from this problem. The only way of ensuring that the environment can sustain large numbers of people is to reshape the environment towards human needs. This, in essence, is what the growth of agriculture and animal husbandry represent, and the causes and effects of this transition are, more so than anything else, the main issues discussed within *Guns, Germs and Steel*.
+
+	Unlike hunter-gathering, where tribes can be nomadic, moving from place to place as particular habitats start to show the strain of sustaining human life, agriculture requires people become sedentary. The artificial environments people build around their own particular needs – which includes monocultural fields of wheat as much as cities and other urban landscapes -  exist only where people create them. These artificial environments allow people to survive at greater rates, and in larger numbers, but only when they are situated nearby. 
+
+	Initially, the problem of excess population density could be alleviated by expansion: sub-sections of the population move from the ‘urban’ centre to the ‘rural’ periphery. But if a higher density, ‘urban’, social group then decides it wants the land on which the ‘rural’ periphery currently live, then the force of numbers is on the side the larger group. 
+
+	And what happens when there is nowhere left for the groups, wishing to avoid the associated with higher density living, to go to?
+
+As recently as A.D. 1500, less than 20 percent of the world’s land area was marked off by boundaries into states run by bureaucrats and governed by laws. Today, all land except Antarctica’s is so divided. {Diamond, 1998 #14}[p. 266]
+
+  - **The problem of conflict between unrelated strangers.**
+
+To many people in modern societies, to suggest this could be a major problem is to betray an unreasonably and unrealistically cynical view about the human race. However, there does not appear to be sufficient evidence to be convinced that the problems of anarchic, reciprocal, internecine – and overwhelmingly male-on-male – killing between rivals and strangers can easily be severe enough that large population densities cannot be maintained unless the problem is dealt with. 
+
+	There is no hard-and-fast limit to the number at which non-elite solutions to the problem of lethal conflict cease to be effective, however: 
+
+“a few hundred” seems to be an upper limit for group size compatible with everyone’s knowing everybody. … One reason why the organization of human government tends to change from that of a tribe to that of a chiefdom in societies with more than a few hundred members is that the difficult issue of conflict resolution between strangers becomes increasingly acute in larger groups. A fact further diffusing potential problems of conflict resolution in tribes is that almost everyone is related to everyone else, by blood or marriage or both. Those ties of relationships binding all tribal members make police, laws, and other conflict-resolving institutions of larger societies unnecessary, since any two villagers getting into an argument will share many kin, who apply pressure on them to keep it from becoming violent.  {Diamond, 1998 #14}[p. 271]
+
+However, the “problem grows astronomically as the number of people making up the society increases.” {Diamond, 1998 #14}[p. 286]
+
+Relationships within a band of 20 people involve only 190 two-person interactions (20 people times 19 divided by 2), but a band of 2,000 people would have 1,999,000 dyads. Each of those dyads represents a potential time bomb that could explode in a murderous argument. Each murder in band and tribal societies usually leads to an attempted revenge killing, starting one more unending cycle of murder and countermurder that destabilizes the society. {Diamond, 1998 #14}[p. 286]
+
+The ‘solution’ elites have ‘offered’ to this problem is Hobbesian: “for one person, the chief, to exercise a monopoly on the legitimate use of force.”{Diamond, 1998 #14}[p. 273]
+
+[The] chief held a recognized office, filled by hereditary right. Instead of the decentralized anarchy of a village meeting, the chief was a permanent centralized authority, made all significant decisions, and had a monopoly on critical information. {Diamond, 1998 #14}[p.273]
+
+It is worth taking note, at this point, that the words ‘police’, ‘polity’, ‘policy’, ‘politic’, ‘political’ and ‘polite’ all share the same etymological lineage. 
+
+  - **The problem of transferring goods between members.**
+
+One of the primary advantages of any form of social group is the ability it provides its members to share risks. *People are simply not utility-maximising robots, but instead risk-minimising, mortal, animals*. *The gain to one’s well-being of having twice as much food to eat as one needs is not twice as beneficial as having half as much food as one needs to eat is detrimental: *the former provides some slight gluttonous pleasure; the latter brings the chronic, intense pain of starvation. Though one can calculate the expected return from an investment on average, what matters most to people is *the minimisation of the probability that one’s return will ever fall below some minimal threshold: *the threshold required for survival. In small groups, where everyone knows each other by name and reputation, sharing one’s surplus ensures that one’s own fortunes are always closely aligned to those of the group, and thus that, so long as the group’s resources per capita are above the starvation threshold, no one will starve. 
+
+However, as the group size is small, it may be that none or very few of the members have been fortunate in acquiring resources, and thus bad fortune could mean the starvation of the entire group. Having a larger group means greater stability in the per capita wealth of the group; however, this larger size also leads to far greater logistical difficulties in ensuring effective distribution of such wealth to all members. 
+
+As Diamond puts it:      
+
+Any society requires means to transfer goods between its members. One individual may happen to acquire more of some essential commodity on one day and less on another. Because individuals have different talents, one individual consistently tends to wind up with an excess of some essentials and deficit of others. In small societies with a few pairs of members, the resulting necessary transfers of goods can be arranged directly between pairs of individuals or families, by reciprocal exchanges. But  the same mathematics that make direct pairwise conflict resolution inefficient in large societies makes direct pairwise economic transfers also inefficient. Large societies can function economically only if they have a redistributive economy in addition to a reciprocal economy. Goods in excess of an individual’s needs must be transferred from the individual to a centralized authority, which then redistributes the goods to individuals with deficits. {Diamond, 1998 #14}[p. 287]
+
+As well as, and to an extent despite, the symbolic violence of the potlatch, the ceding of some proportion of one’s wealth to an administrative elite may be tolerated by commoners so long as the administrators ensure the availability of sufficient food on occasions when both oneself, and one’s friends, are simultaneously suffering from acute shortage. The establishment of the administrated redistributive economy, in parallel with the kinship-based reciprocal economy, ensures that members of larger social groups are able to access its risk-minimising benefits. 
+
+  - **The growing impossibility of communal decision making.**
+
+[Write something appropriate here...]
+
+Elites, the Establishment, and Durable Inequality
+
+[Introduction]
+
+[C]hiefdoms introduced the dilemma fundamental to all centrally governed, nonegalitarian societies. At best , they do so by providing expensive services impossible to contract for on an individual basis. At worst, they function unabashedly as kleptocracies, transferring net wealth from commoners to upper classes. These noble and selfish functions are inextricably linked, although some governments emphasize much more of one function than of the other. The difference between a kleptocrat and a wise statesman, between a robber baron and a public benefactor, is merely one of degree: a matter of just how large a percentage of the tribute extracted from producers is retained by the elite, and how much the commoners like the public uses to which the redistributed tribute is put. {Diamond, 1998 #14}[p. 276]
+
+[Write something]
+
+What should an elite do to gain popular support while still maintaining a more comfortable lifestyle than commoners? Kleptocrats throughout the ages have resorted to a mixture of four solutions:
+
+  - Disarm the populace, and arm the elite. [...]
+
+  - Make the masses happy by redistributing much of the tribute received, in popular ways. [...]
+
+  - Use the monopoly of force to promote happiness, by maintaining public order and curbing violence. [...]
+
+  - [C]onstruct an ideology or religion justifying kleptocracy {Diamond, 1998 #14}[p. 277]
+
+[Write something]
+
+When supernatural beliefs gained [the function of serving to justify central authority, justify transfer of wealth, or maintaining peace between unrelated individuals] and became institutionalized, they were transformed into what we term a religion. {Diamond, 1998 #14}[pp. 276-7]
+
+Diamond Quotes
+
+A prerequisite for living in settlements is either food production or else a productive environment with especially concentrated resources that can be hunted and gathered within a small area.{Diamond, 1998 #14} [p. 271]
+
+Tribes … share with bands an “egalitarian” social system, without ranked lineages or classes. Not only is status not inherited; no member of a traditional tribe or band can become disproportionately wealthier by his or her own efforts, because each individual has debts and obligations to many others.{Diamond, 1998 #14} [p.272]
+
+As regards population size, chiefdoms were considerably larger than tribes, ranging from several thousand to several tens of thousands of people. That size created serious potential for internal conflict because, for any person living in a chiefdom, the vast majority of other people in the chiefdom were neither closely related by blood or marriage nor known by name. With the rise of chiefdoms around 7,500 years ago, people had to learn,  for the first time in history, how to encounter strangers regularly without attempting to kill them.{Diamond, 1998 #14}
+
+ [p.273]
+
+[W]hy do the commoners tolerate the transfer of the fruits of their hard labor to kleptocrats? This question, raised by political theorists from Plato to Marx, is raised anew by voters in every modern election. Kleptocracies with little public support run the risk of being overthrown, wither by downtrodden commoners or by upstart would-be replacement kleptocrats seeking public support by promising a higher ratio of services rendered to fruits stolen. {Diamond, 1998 #14} [p. 276]
+
+When a large portion of the goods received from commoners  was not redistributed to them but was retained and consumed by the chiefly lineages and craftspeople, the redistribution became tribute, a precursor of taxes that made its first appearance in chiefdoms. From the commoners the chiefs claimed not only goods but also labor for construction of public works, which again might return to benefit the commoners (for example, irrigation systems to help feed everybody) or instead benefited mainly the chiefs (for instance, lavish tombs). {Diamond, 1998 #14}[p. 275]
+
+Subsection Summary
+
+[Paragraph or two]
+
+De Swaan and the Urban Prisoner’s Dilemma
+
+[Introduction to subsection]
+
+[Original passage]
+
+[Introduction to logic of prisoner’s dilemma]
+
+[features of cities: exponential growth]
+
+[Formalisation]
+
+Chapter Summary 
+
+[Pithy couple of paragraphs]
+
+Notes
+
+Quote defining the as-if-body-loop
+
+Get copy of (some of) following to back up Diamond:
+
+  
+
+    - Robery Carniero, “A Theory of the origin of the state”, *Science* 19: 733-738 (1970)
+
+    - Henry Wright, “Recent Research on the origin of the state”, *Annual Review of Anthropology* 6: 379-97 (1977)
+
+    - Karl Wittfogel, On The Evolution of Complex Society (Malibu, 1984)
+
+    - Robert Adams, The Evolution of Urban Society (Chicago: Aldine, 1966)
+
+    - Elman Service, Primative Social Organisation (New York: Random House, 1962)
+
+    - Elman Service, Origins of the State and Civilisation (New York: Norton, 1975)
+
+    - Morton Fried, The Evolution of Political Society (New York: Random House, 1967)
+
+    - Kent Flannery, “The cultural evolution of civilisations”, *Annual Review of Ecology and Systematics* 3 : 339-426 (1972)
+
+    - Ember & Ember (Eds.), Research Frontiers in Anthropology, 1995
+
+  
+
+Attentional Blindness Research
+
+“Spotting the Gorilla”?
+
+Graph in Layard of male-on-male violence in early societies
+
+References
+
+1.	James, W., *The Principles of Psychology*. Dover ed. Vol. 1. 1890, New York: Dover. 1408.
+
+2.	Damasio, A.R., *Descartes' error : emotion, reason and the human brain*. 1995, New York: Avon Books.
+
+3.	Damasio, A.R., *The feeling of what happens : body and emotion in the making of consciousness*. 2000, London: W. Heinemann.
+
+4.	Damasio, A.R., *Looking for Spinoza : joy, sorrow and the feeling brain*. 2004, London: Vintage.
+
+5.	Russell, B., *History of Western Philosophy*. 2000 [1946], London: Routledge.
+
+Chapter Notes

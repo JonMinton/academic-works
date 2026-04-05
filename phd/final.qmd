@@ -1,0 +1,26 @@
+---
+title: "Final Submitted Thesis (2009)"
+---
+
+::: {.archive-notice}
+**The final submitted thesis** is available as a PDF download (4.7 MB, 322 pages). A post-viva revised Word document (January 2011, 307 pages) also exists in the archive.
+:::
+
+## Download
+
+The PDF of the final submitted thesis will be made available here once it has been copied from the archive.
+
+**Title:** *Work and its Other: A Multiple-perspective Analysis of Incapacity Benefit Reform*
+
+**Author:** Jon Minton
+
+**Date:** September 2009
+
+**Pages:** 322
+
+---
+
+::: {.callout-note}
+## About the two versions
+The author prefers the [pre-revision draft (2008)](pre-ch1.qmd), which presents the theoretical framework in its most expansive form before it was condensed through the viva revision process. Both versions are presented for completeness.
+:::
