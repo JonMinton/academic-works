@@ -16,17 +16,11 @@ title: "Theory"
 
 ***2.1	Section introduction***
 
-******
-
 This section details the theory behind the two different types of technique used within the project, digital image correlation (DIC) and fiduciary marker analysis.
 
 ***2.2	Digital Image Correlation***
 
-******
-
 ***2.2.1	Introduction*********
-
-******
 
 Digital Image Correlation techniques are those that use computers to compare two or more images for common features. They are often based on fast Fourier transforms (FFTs) which are themselves a computer-optimised form of discrete Fourier transforms (DFTs).
 
@@ -65,21 +59,18 @@ i.e. both s~1~ and s~2~ are impulse functions translated to a position +x~1~, s~
 ***Representing this graphically: ***
 
 If s~1~(x) and s~2~(x) are as follows:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
 
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Input signal 1				Input signal 2*
 
 *[Fig. 2.2.1]*
 
 then the cross-correlation is:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Output signal of cross-correlation function*
 
 *[Fig. 2.2.2]*
@@ -94,28 +85,21 @@ and: [*equation*]{.eqn-ref} *(where k is a real constant)*
 
 i.e. Both signals comprise of two impulse functions, but shifted by dx. [*equation*]{.eqn-ref}  [*equation*]{.eqn-ref} *[Eqn. 2.2.15]***
 
-******
-
 ***Representing this graphically:***
 
 If s~1~(x) is:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
 
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Input signal 1				Input signal 2*
 
 *[Fig. 2.2.3]*
 
-**
-
 then the output signal, cc(x), is:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Output signal*
 
 *[Fig. 2.2.4]***
@@ -133,17 +117,15 @@ If: [*equation*]{.eqn-ref} *[Eqn. 2.2.19]***
 then: [*equation*]{.eqn-ref} *[Eqn. 2.2.20]***
 
 An array of this form could also be represented as a sequence of coloured blocks, whose colour (or intensity of colour) is dependent upon the value of the array element:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Two ways of representing the contents of a one-dimensional array: As a set of equally spaced impulse functions of variable value, and as a set of coloured blocks, whose colour depends upon the element value*
 
 *[Fig. 2.2.5]*
 
 Similarly, a two-dimensional matrix (**M** by **N** elements) could be represented as a two dimensional block of M by N value-dependent pixels:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Two-dimensional graphical equivalent of the above method for representing the contents of a matrix*
 
 *[Fig. 2.2.6]***
@@ -184,21 +166,13 @@ As you can see, the intensity peak exists at the position of the displacement be
 
 ***2.3	Fiduciary Markers***
 
-******
-
 ***2.3.1	Introduction*********
-
-******
 
 The other broad area involved in this project is fiduciary marker identification and analysis. Fiduciary markers are distinguishable parts of a physical body that can be used to help determine positions of real features from images.  
 
 For fiduciary markers to be useful, they need to be easily identifiable, and something about how the markers represent parts of the physical body (such as real-life distance between two markers), needs to be known.
 
-******
-
 ***2.3.2	Marker Identification By Colour***
-
-******
 
 For a computer to recognise a marker in an image, something about the visual properties of the marker needs to be identifiable, by the computer, from those of the rest of the image. One of the most common approaches is to make fiduciary markers of a distinct colour, not naturally present on the object of interest.
 
@@ -222,8 +196,6 @@ Similarly, for a colour image taken using a webcam, stored as a bitmap image:
 
 *[Fig. 2.3.3]*
 
-**
-
 The image is stored as the following three intensity planes:
 
 *Red				Green*
@@ -234,15 +206,11 @@ The image is stored as the following three intensity planes:
 
 *[Fig. 2.3.4]*
 
-**
-
 Different combinations of the three stored colour intensity planes produce other intensity planes whose intensity is greatest only at specific colours. For example, a red colour has a high intensity value on the red intensity plane, but a white area also has a high intensity value on the red intensity plane (as white light is a combination of all colours of visible light). By subtracting the average (greyscale) intensity of all three planes from the red intensity plane, a resulting intensity plane is created where the greatest intensity values occur only at parts of the image that are *exclusively* red; thus it takes information from all three colour planes to determine areas of a specific colour:
 
 ***Exclusive**** red intensity planes for both test images: Note the increased contrast compared with the non-exclusive red intensity images, which would make identifying markers of the specific colour easier.*
 
 *[Fig. 2.3.5]*
-
-**
 
 This kind of processing is useful in determining marker positions based on colour. A first stage in identifying a marker could be to find the areas of greatest intensity in the exclusive intensity plane of the colour of the marker, although more processing needs to take place to make sure the marker is correctly identified.
 
@@ -252,11 +220,7 @@ A fiduciary marker need not be of a red, green or blue colour, as any colour can
 
 *[Fig. 2.3.6]*
 
-******
-
 ***2.3.3	Further Marker Identification Processes***
-
-******
 
 For a marker to be useful, it should ideally be identifiable in a Boolean sense: A particular point of an image should either 1) contain the marker, or 2) not contain the marker. There should be no ambiguity as to where the marker exists within the image. In practice, this means that the computer should be able to create a 1-bit mask of the marker from the original image:
 
@@ -286,23 +250,13 @@ inverting the average of the green and blue planes:
 
 *[Fig. 2.3.8c]*
 
-**
-
 ***Subtract the mean*** value of the image (its DC component) from itself, then     
 
  normalise, to increase contrast. (*Repeat more than once if necessary*)* *
 
-**
-
-**
-
 *DC subtracted and normalised once*
 
 *[Fig. 2.3.9a]*
-
-**
-
-**
 
 *DC subtracted and normalised twice*
 
@@ -310,17 +264,11 @@ inverting the average of the green and blue planes:
 
 ***Apply an edge-finding filter to the image***: This essentially works by creating a blank mask (all 0s) of the original image. It then *sets a pixel at a particular position ****within the mask***, if there is a significant gradient change between neighbouring pixels of the corresponding position in the intensity plane (original) image. There are a number of methods for determining whether a particular point on an image represents the edge of an object. The Sobel method is the standard one used in Matlab for edge-detection [5].* *
 
-**
-
 *1-bit edge mask of intensity plane*
 
 *[Fig. 2.3.10]*
 
-**
-
 4. 	***Dilate the mask***: If a pixel in the mask is set to 1, then the pixels adjacent to it are also set to 1. This effectively thickens any lines created by the edge detector [6].* *
-
-**
 
 *Dilated mask*
 
@@ -329,8 +277,6 @@ inverting the average of the green and blue planes:
 5.	***Fill any holes***: All unset pixels that exist within a closed boundary of set pixels are themselves set. This effectively fills any ‘holes’ existing in the closed bounds of a detected edge. As the edge filter is designed to identify possible edges of distinct objects, filling the areas in between these boundaries should fill in the part of the image where the marker exists.
 
 * *
-
-**
 
 *Filled mask*
 
@@ -348,10 +294,6 @@ inverting the average of the green and blue planes:
 
 7.	***Restore the marker object***: The mask created in the previous stage [Fig. 3.3.12b] contains only one object. This exists at the same position as the marker object, but is smaller, and of a slightly different shape (due to the arbitrary nature of the erosion process) than the actual marker object within the original image. The location of this eroded object can, though, be used to determine which of the objects in the un-eroded mask [Fig. 3.3.11] is the marker object. The location of the eroded object can be determined, and the object that exists at this location in the un-eroded mask can be located. All other objects can be removed, leaving a mask containing only the marker object, as desired [7].
 
-**
-
-**
-
 *Marker mask: This result is the right image in [Fig. 3.3.7]*
 
 *[Fig. 2.3.14]***
@@ -367,8 +309,6 @@ Using the same mask example as before: *[Fig. 3.3.13]***
 *Example marker mask*
 
 *[Fig. 2.3.15]*
-
-**
 
 The marker object is located and loaded into a separate 1-bit matrix:
 

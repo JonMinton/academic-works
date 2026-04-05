@@ -1,0 +1,24 @@
+---
+title: "Early PhD Direction: Simulating Geographies of Homelessness and Worklessness"
+subtitle: "Pre-PhD research document, April 2006"
+---
+
+::: {.archive-notice}
+**Context:** This document was written during the transition from the MA to the PhD (2005--2006). It represents the early theoretical direction for the PhD — an ambitious attempt to bridge complexity theory, behavioural economics, and critical social theory to understand the spatial dynamics of disadvantage. The PhD later pivoted from this direction towards an analysis of the Pathways to Work programme, resulting in the submitted thesis *Work and its Other*.
+:::
+
+This extended research document is presented here as an optional appendix to the PhD materials. It provides insight into the intellectual territory that preceded and informed the final thesis, even though the thesis ultimately took a different direction.
+
+The document is explicitly a work in progress, with visible authorial notes, structural uncertainty, and bracketed working commentary preserved as-is.
+
+## Chapters
+
+1. [Preface](preface.qmd) — Personal context and writing process
+2. [Concepts](concepts.qmd) — How home and work map onto pension and place
+3. [House and Home](house-and-home.qmd) — Home as multi-valued asset; chaos and catastrophe theory
+4. [Work and Worklessness](work-and-worklessness.qmd) — Work as community worthiness; relative deprivation
+5. [Heuristics and Attitudes](heuristics-and-attitudes.qmd) — Cognitive psychology and public attitudes to non-working populations
+6. [Chaos and Complexity](chaos-and-complexity.qmd) — Chaotic, complex, and complicated phenomena
+7. [Statistical Theory as Model](statistical-theory.qmd) — Gary King's statistical modelling approaches
+8. [Literature Review](literature-review.qmd) — Extensive reading notes (Bourdieu, Ball, Diamond, Wilkinson)
+9. [Bibliography](bibliography.qmd)

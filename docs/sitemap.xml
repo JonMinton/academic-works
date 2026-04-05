@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/appendix.html</loc>
-    <lastmod>2026-04-05T16:12:18.039Z</lastmod>
+    <lastmod>2026-04-05T16:30:53.318Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/code-overview.html</loc>
@@ -10,23 +10,43 @@
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/conclusion.html</loc>
-    <lastmod>2026-04-05T16:12:18.028Z</lastmod>
+    <lastmod>2026-04-05T16:30:53.318Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/theory.html</loc>
-    <lastmod>2026-04-05T16:12:17.991Z</lastmod>
+    <lastmod>2026-04-05T16:45:58.152Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/results.html</loc>
-    <lastmod>2026-04-05T16:12:18.017Z</lastmod>
+    <lastmod>2026-04-05T16:30:53.317Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/phd/pre-ch1.html</loc>
     <lastmod>2026-04-05T16:12:18.167Z</lastmod>
   </url>
   <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/house-and-home.html</loc>
+    <lastmod>2026-04-05T16:12:18.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/chaos-and-complexity.html</loc>
+    <lastmod>2026-04-05T16:12:18.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/statistical-theory.html</loc>
+    <lastmod>2026-04-05T16:12:18.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/bibliography.html</loc>
+    <lastmod>2026-04-05T16:12:18.142Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/work-and-worklessness.html</loc>
+    <lastmod>2026-04-05T16:12:18.084Z</lastmod>
+  </url>
+  <url>
     <loc>https://jonminton.github.io/academic-works/phd/pre-ch2.html</loc>
-    <lastmod>2026-04-05T16:12:18.182Z</lastmod>
+    <lastmod>2026-04-05T16:30:53.320Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/phd/final.html</loc>
@@ -37,44 +57,8 @@
     <lastmod>2026-04-05T16:12:18.153Z</lastmod>
   </url>
   <url>
-    <loc>https://jonminton.github.io/academic-works/ma/preface.html</loc>
-    <lastmod>2026-04-05T16:12:18.050Z</lastmod>
-  </url>
-  <url>
     <loc>https://jonminton.github.io/academic-works/ma/index.html</loc>
-    <lastmod>2026-04-05T16:15:06.255Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/concepts.html</loc>
-    <lastmod>2026-04-05T16:12:18.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/heuristics-and-attitudes.html</loc>
-    <lastmod>2026-04-05T16:12:18.096Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/literature-review.html</loc>
-    <lastmod>2026-04-05T16:12:18.131Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/work-and-worklessness.html</loc>
-    <lastmod>2026-04-05T16:12:18.084Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/bibliography.html</loc>
-    <lastmod>2026-04-05T16:12:18.142Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/statistical-theory.html</loc>
-    <lastmod>2026-04-05T16:12:18.119Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/chaos-and-complexity.html</loc>
-    <lastmod>2026-04-05T16:12:18.107Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jonminton.github.io/academic-works/ma/house-and-home.html</loc>
-    <lastmod>2026-04-05T16:12:18.073Z</lastmod>
+    <lastmod>2026-04-05T16:54:23.890Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/phd/pre-ch4.html</loc>
@@ -82,15 +66,35 @@
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/phd/pre-ch3.html</loc>
-    <lastmod>2026-04-05T16:12:18.197Z</lastmod>
+    <lastmod>2026-04-05T16:30:53.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/literature-review.html</loc>
+    <lastmod>2026-04-05T16:12:18.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/heuristics-and-attitudes.html</loc>
+    <lastmod>2026-04-05T16:12:18.096Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/concepts.html</loc>
+    <lastmod>2026-04-05T16:12:18.062Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/index.html</loc>
+    <lastmod>2026-04-05T16:28:03.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jonminton.github.io/academic-works/phd/early-direction/preface.html</loc>
+    <lastmod>2026-04-05T16:12:18.050Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/phd/index.html</loc>
-    <lastmod>2026-04-05T16:13:02.987Z</lastmod>
+    <lastmod>2026-04-05T16:28:58.481Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/index.html</loc>
-    <lastmod>2026-04-05T16:15:24.038Z</lastmod>
+    <lastmod>2026-04-05T16:28:47.375Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/abstract.html</loc>
@@ -98,14 +102,14 @@
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/index.html</loc>
-    <lastmod>2026-04-05T16:11:43.766Z</lastmod>
+    <lastmod>2026-04-05T16:54:17.808Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/methods.html</loc>
-    <lastmod>2026-04-05T16:12:18.003Z</lastmod>
+    <lastmod>2026-04-05T16:45:58.152Z</lastmod>
   </url>
   <url>
     <loc>https://jonminton.github.io/academic-works/beng/introduction.html</loc>
-    <lastmod>2026-04-05T16:12:17.979Z</lastmod>
+    <lastmod>2026-04-05T16:45:58.152Z</lastmod>
   </url>
 </urlset>

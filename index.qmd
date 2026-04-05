@@ -34,16 +34,16 @@ The purpose of this project is to create a working prototype for a machine visio
 MA Critical Theory and Cultural Studies — Distinction
 :::
 
-### [Richard Rorty and the New Left / Pre-PhD Research](ma/index.qmd)
+### [Richard Rorty and the New Left](ma/index.qmd)
 
 ::: {.institution}
-University of Nottingham, 2004 (MA) + 2006 (pre-PhD research document)
+University of Nottingham, 2003--2004
 :::
 
-The MA dissertation ("Richard Rorty and the New Left") is not in the archive, but an extended pre-PhD research document *is* — "Simulating Geographies of Homelessness and Worklessness" (2006), which represents an early direction for the PhD before it pivoted towards Pathways to Work. This section presents the MA context alongside the pre-PhD research document.
+The MA dissertation is not currently available in the digital archive (a physical copy is being sought). This section records the degree context and coursework. An extended pre-PhD research document from this transition period ("Simulating Geographies of Homelessness and Worklessness", 2006) is presented as an [optional appendix under the PhD section](phd/early-direction/index.qmd).
 
 ::: {}
-[Critical Theory]{.topic-tag} [Complexity Theory]{.topic-tag} [Behavioural Economics]{.topic-tag} [Homelessness]{.topic-tag} [Bourdieu]{.topic-tag} [Wilkinson]{.topic-tag}
+[Critical Theory]{.topic-tag} [Rorty]{.topic-tag} [Pragmatism]{.topic-tag} [New Left]{.topic-tag} [Postmodernism]{.topic-tag}
 :::
 :::
 

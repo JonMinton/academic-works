@@ -4,12 +4,6 @@ title: "Chapter 3: Work, Sickness, and Community"
 
 *Chapter Three: Work, Welfare, Community and the Sociology of Economies***
 
-****
-
-****
-
-****
-
 [T]he significant thing about [political] rights is not that they should exist in the abstract, but that the state, rather than some other organization, should become the focus of their enforcement. Indeed, rather than thinking of abstract rights which are enforced (or violated) by states, it would be more illuminating to think of political rights as claims binding the agents of the state to specific groups of people: religious minorities can call on the state to defend them from persecution, adult citizens can insist the state give them their day in court, the indigent can claim sustenance from the state. These are political rights in a large sense – political in that they constitute binding claims on the agents of government, rather than on some other group. 
 
 [1][pp.  36-7]
@@ -112,8 +106,6 @@ One should also not forget the extent to which much of the modern British welfar
 	With respect to the latter, food, it should be noted that one of the main arguments within *The Great Transformation *is to do with asserting the popularity of a strategy amongst British feudal elites of placating their commoners:
 
 The justices of Berkshire, meeting at the Pelican Inn, in Speenhamland, near Newbury, on May 6, 1796, in a time of great distress, decided that subsidies in aid of wages should be granted in accordance with a scale dependent upon the price of bread, so that a minimum income should be assured to the poor *irrespective of their earnings.*
-
-**
 
 The measure was successful, and lasted for almost forty years. What the peasants asked of God, the feudal elites provided: 
 
@@ -327,8 +319,6 @@ It can be pedagogically helpful (and often correct) to think of Opportunity Hoar
 | Categorically Bounded Network | Capitalists |
 | --- | --- |
 | Monopolised Resource | Means of Production |
-
-**
 
 However, not all instances of Opportunity Hoarding lead to Exploitation, and not all instances of Exploitation can easily be shown to have arisen from particular instances of Opportunity Hoarding. 
 

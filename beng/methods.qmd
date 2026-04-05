@@ -18,13 +18,7 @@ title: "Methods and Process"
 
 This section considers the processes required for the prototype system to deliver the required results. This involves both a schematic description- involving inputs, processes and outputs- and a more detailed description of each of these processes.
 
-**
-
-**
-
 ***Overall Process***
-
-******
 
 ***3.2.1	Introduction***
 
@@ -42,18 +36,13 @@ Tasks 2 and 3 can be handled at the same time: One first has to locate the objec
 
 Whereas tasks 2 and 3 are best combined, the task of positioning the prototype device correctly relative to the plane  (Task 1) is best handled if broken down into a number of sub-stages.
 
-******
-
 ***Stage 1: Prototype Positioning***
-
-******
 
 Ideally, the camera should be positioned such that it faces the bounded area of the plane directly; and at a distance from the plane far enough that all of the marker features are in view, but near enough that the pixel resolution of the camera device does not greatly impair the ability for the device to determine small degrees of object disparity (as the distance increases, so does the area of real space represented by a single pixel).
 
 When dealing with a simple rectangular pattern of features, as in the test case, the camera should ideally be positioned such that the features are as follows:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Ideal Image Position*
 
 *[Fig 3.2.1]*
@@ -61,30 +50,24 @@ When dealing with a simple rectangular pattern of features, as in the test case,
 One could perform a very basic position detection system by attempting to determine that the centre of the features is at the centre of the image, and that the position of the features in the image are equidistant from this central point; but this would only tell the user *whether* the camera is positioned correctly, or not correctly. To aid the user in positioning the device, the system needs to be able to tell the user both *whether* the camera is positioned correctly or not, and – if not correctly aligned – *how* the image is mis-positioned, and what action the user should take to rectify this.
 
 There are a number of specific ways that the camera could be mis-positioned. It could be: parallel to the plane but rotated slightly in this plane (1); rotated slightly in the ‘vertical’ plane perpendicular to that of the object plane (2); or rotated slightly in the ‘horizontal’ plane perpendicular to that of the object plane (3):
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
 
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
 
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
+
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *(1)			(2)			(3)*
 
 *[Fig. 3.2.2]*
 
 The actual skew of the image is likely to be a combination of these three types of rotation:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Combination of skews*
 
 *[Fig. 3.2.3]*
-
-**
 
 Aligning the camera can be handed as a three-stage process. For demonstration purposes, the prototype only works to determine type (1) rotation, and then type (3) rotation. Type (2) rotation is analogous to type (3) rotation, and so showing that the method works for type (3) rotation means that type (2) problems can also be solved.
 
@@ -93,8 +76,6 @@ Thus, the process used to determine whether the camera is correctly positioned a
 Assuming this, the code first corrects type (1) rotation (the Main 1a function), then type (3) rotation (The Main 1b function). A full system would include a third function to determine type (2) rotation, but the process for this is analogous to correcting type (3) rotation, and so the system does not have to demonstrate this in order to demonstrate its effectiveness.
 
 ***Stage 2: Determining Object Displacement***
-
-******
 
 Once correctly positioned, the next stage is to use digital image correlation (DIC) methods to determine the displacement between the current object position, and that in an archived image. 
 
@@ -108,8 +89,6 @@ To convert the displacement in pixels to a displacement in millimetres (or anoth
 
 ***Flow Diagrams***
 
-******
-
 The following pages provide flow diagrams of the Matlab program written for this project. Further details on the implementation of these processes are provided via the example case in the next section (4.2.1), which shows how a single test case is analysed and interpreted by each consecutive stage. 
 
 One may find the test example more useful than the following process schematics when first considering how the prototype system works, and the schematics useful in determining how the system operates in the general case. 
@@ -118,24 +97,9 @@ In attempting to understand the actual techniques used to create markers and det
 
 Black curved rectangles indicate overall start and end processes. Red curved rectangles indicate intermediate (function level) start and end processes. Green diamonds indicate decision nodes. Normal rectangles indicate self-contained processes. Grey rectangles with triangles within indicate internal data acquisition stages (Bracketed entries indicate optional data). Irregular parallelograms indicate external inputs (such as camera image acquisition) if **bold**, and external outputs (feedback to user) if *italic*.
 
-****
-
-****
-
-****
-
-****
-
-****
-
-****
-
-****
-
 **Main Function**
-::: {.missing-figure}
-[Diagram — original PowerPoint file not available in web version]
-:::
+*[Diagram — original PowerPoint file not available in web version]*
+
 "C:\\My Documents\\Final year Project\\FLOW1.PPT" "" \a \p  \* MERGEFORMAT 
 
 ***The Main Function****: This function loads in the real geometry of the markers, an image of the object in the area when both the camera and object are correctly positioned, and the colour scheme used for both the Marker and the Object. See section 4.2 for an example of this function using a test case*
@@ -143,9 +107,8 @@ Black curved rectangles indicate overall start and end processes. Red curved rec
 *[Fig. 3.3.1]*
 
 **Main 1a Function**
-::: {.missing-figure}
-[Diagram — original PowerPoint file not available in web version]
-:::
+*[Diagram — original PowerPoint file not available in web version]*
+
 "C:\\My Documents\\Final year Project\\FLOW1A.PPT" "" \a \p  \* MERGEFORMAT 
 
 ***Main 1a (The first plane positioning function): **** This position locates the positions of the markers, finds the angle between the larger of the two vertical sidebands and the vertical, and reports this to the user if it is not vertical (Solves type (1) rotation). See section 4.2.2.2 for an example of this function*
@@ -153,9 +116,8 @@ Black curved rectangles indicate overall start and end processes. Red curved rec
 *[Fig. 3.3.2]*
 
 **Main 1b Function**
-::: {.missing-figure}
-[Diagram — original PowerPoint file not available in web version]
-:::
+*[Diagram — original PowerPoint file not available in web version]*
+
 "C:\\My Documents\\Final year Project\\FLOW1B.PPT" "" \a \p  \* MERGEFORMAT 
 
 ***Main 1b (The second plane positioning function): **** This function locates the positions of the markers, finds the angle between the larger of the two vertical sidebands and the vertical, and reports this to the user if it is not vertical (Solves Type (3) rotation). See section 4.2.3 for an example of this function*
@@ -163,17 +125,15 @@ Black curved rectangles indicate overall start and end processes. Red curved rec
 *[Fig. 3.3.3]***
 
 **Main 2 Function**
-::: {.missing-figure}
-[Figure — original PowerPoint diagram not available in web version]
-:::
+*[Figure — original PowerPoint diagram not available in web version]*
+
 ***Main 2: **** This function finds the real object displacement, compared to the archive position, and notifies the user and repeats if the object is not in this original position. This stage combines both rigid body disparity determination and object disparity determination (stage 2), and conversion of object disparity figures into real-life values (stage 2) into a single function. See section 4.2.4 for an example of this function*
 
 *[Fig. 3.3.4]***
 
 **Find Object Disparity Function**
-::: {.missing-figure}
-[Diagram — original PowerPoint file not available in web version]
-:::
+*[Diagram — original PowerPoint file not available in web version]*
+
 "C:\\My Documents\\Final year Project\\DISPMAIN.PPT" "" \a \p  \* MERGEFORMAT 
 
 ***Find Object Disparity: **** This function performs a digital image correlation of the two masks (current and archive) to determine rigid body disparity, then uses this rigid body disparity figure to create rigid body disparity-adjusted images of the objects, to determine object the object disparity in pixels. See 4.2.4.2-4 for an example of this function*
@@ -181,14 +141,11 @@ Black curved rectangles indicate overall start and end processes. Red curved rec
 *[Fig. 3.3.5]***
 
 **Get Marker Coordinates Function**
-::: {.missing-figure}
-[Diagram — original PowerPoint file not available in web version]
-:::
+*[Diagram — original PowerPoint file not available in web version]*
+
 "C:\\My Documents\\Final year Project\\MARKERCOORDS.PPT" "" \a \p  \* MERGEFORMAT 
 
 ***Get Marker Coordinates: **** This function uses information on the marker colour scheme (and the techniques discussed in section 2.3.3) to create a one-bit mask of the marker. As the test shape is of a rectangle, it then converts this single mask into masks of the four quarters, and finds the centres of each the marker objects in each. From this, it determines the position of the centres of the markers in the overall mask, and thus the image. See section 4.2.2.1 for an example of this function*
 
 *[Fig. 3.3.6]*
 
-
-**

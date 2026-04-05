@@ -61,6 +61,10 @@ The PhD evolved significantly from its original proposal. The 2005 application d
 
 By 2008, the thesis had become a theoretical hybrid: the proposal's ambitious framework (Damasio on consciousness, Weber on bureaucracy, Diamond on government evolution, Polanyi on economics) was being applied to analyse the **Pathways to Work** policy as a concrete case study. The pre-revision chapters show this theoretical scaffold being constructed.
 
+## Early direction (2006)
+
+Before the thesis took its final shape, an extended research document titled ["Simulating Geographies of Homelessness and Worklessness"](early-direction/index.qmd) was written during the transition from MA to PhD. It represents the early theoretical direction — complexity theory, behavioural economics, and spatial disadvantage — before the pivot towards Pathways to Work. It is presented here as an optional appendix.
+
 ## Key themes
 
 ::: {}

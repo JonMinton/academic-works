@@ -16,8 +16,6 @@ title: "Discussion and Conclusion"
 
 ***Discussion***
 
-******
-
 A great number of areas of investigation and research fell within the acceptable limits of the project specification. Within the project, a large number were tackled, and to varying degrees of depth. A large element of this project is speculative in nature: An exploration of the viability of various approaches in solving a breadth of possible scenarios. 
 
 The project specification was interpreted in certain ways in order to create a more specific form of problem that could be more rigorously analysed, investigated and solved. In doing this, not all possible interpretations of the specification were investigated.

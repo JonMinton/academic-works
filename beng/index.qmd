@@ -7,6 +7,12 @@ subtitle: "Final Year Project, University of Nottingham, 2003"
 **Archive notice:** This document was recovered from a CD-ROM backup (May 2003) and converted from Microsoft Word format. Figures created in CorelDRAW and MATLAB are shown as placeholders; the original image files (430+ bitmaps, 59 vector graphics) and complete MATLAB codebase (175+ source files) are preserved in the archive.
 :::
 
+## Downloads
+
+[Download compiled PDF (142KB, text only — figures not included)](../downloads/BEng-FYP-2003.pdf){.download-btn}
+
+**Source format:** Individual Microsoft Word (.doc) chapter files from CD-ROM backup, May 2003.
+
 ## Overview
 
 | | |

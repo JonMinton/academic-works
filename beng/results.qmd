@@ -26,11 +26,7 @@ Results required for machine calibration and testing system stability.
 
 ***Results Of System Using Single Test Case***
 
-******
-
 ***Introduction***
-
-******
 
 Here, the stages of the prototype system listed in section 3 are demonstrated using a single test case.
 
@@ -89,11 +85,7 @@ The ruler is rested on the top of a table that is horizontally balanced with the
 
 ***Stage 1a: Finding Rotation Parallel To Plane***
 
-******
-
 ***Determining Centres Of Markers***
-
-******
 
 If, to begin with, the camera image is at both the wrong angle in the plane parallel to the image, and horizontally perpendicular to it, then its position can be corrected one stage at time. To begin with, the angle of rotation parallel to the image plane is compensated found.
 
@@ -181,8 +173,6 @@ The co-ordinates of the centres of mass (and thus the central points of each mar
 
 These results are used to determine the following co-ordinate positions for the centre of the markers in the image as a whole:
 
-****
-
   
     
       ****
@@ -227,11 +217,7 @@ These positions are represented on the image below as the red points on the grey
 
    
 
-******
-
 ***Determining Rotation***
-
-******
 
 It is now relatively simple to determine the plane-parallel rotation of the camera to the object plane. The process is as follows:
 
@@ -264,8 +250,6 @@ Rotational Angle OK
 The program now passes the image to the next stage.
 
 ***Stage 1b: Finding Horizontal Rotation Normal To Plane***
-
-******
 
 The next stage is to correct the angle of the camera in the horizontal plane normal to the object plane. The process is as follows:
 
@@ -327,16 +311,6 @@ The left side vertical value is thus: 	131.0 – 0	=	**131.0**
 						**131.0******
 
 Coefficients for a third-degree polynomial are then loaded into the system that allow it to infer a horizontal rotation angle from this ratio. The details for how this is done are given in section 4.4. In the test case, a ratio of 0.89 represents an angle of -16.7 degrees, where the minus sign means the angle is to the left of the normal of the image direction and object plane, in the horizontal plane normal to the object plane:
-
-******
-
-******
-
-******
-
-******
-
-*** *********
 
 *Diagram showing meaning of positive and negative angle values*
 
@@ -411,8 +385,6 @@ Thus, stage two essentially involves three sub-stages, each of which will now be
 
 ***Sub-stage 1: Rigid-body Disparity***
 
-******
-
 Rigid body disparity, the disparity between two images due to a shift between the images as a whole (rather than displacement of a small-sub region of the image – i.e. the movable object), can be determined in a number of ways: 
 
 If the images are of a flat surface with an amorphous (non-repeating) pattern on it – such as wood-chip wallpaper –, and where any movable objects within the image areas occupy only a small image area, and/or of a low intensity within the intensity plane used, then simply performing a DIC of both whole images should produce an output with the greatest intensity peak at the rigid-body displacement position.
@@ -433,8 +405,6 @@ The image and mask for both the current image and the archive image are as follo
 
 *[Fig. 4.2.10]***
 
-******
-
 *(a)					(b)*
 
 *The archive mask (a) and the current mask (b): The differences in lighting are compensated for*
@@ -451,11 +421,7 @@ The position of the peak is identified at x = -20 pixels, and y = 1 pixel. 
 
 This *is* the ***rigid body disparity*** *in pixels*.
 
-**
-
 ***Sub-stage 2: Object Disparity***
-
-******
 
 Having identified the rigid body disparity, one now needs to identify the displacement of the object *within the plane*, rather than in the images.
 
@@ -475,8 +441,6 @@ The displacement between the objects in these two images could be considered to 
 
 *[Fig. 4.2.14]*
 
-**
-
 These images are 20 pixels (the x-axis RB disparity) smaller in width, and 1 pixel (the y-axis RB disparity) smaller in height. As they are smaller, the region containing the object represents a larger proportion of the total image area, and thus has a stronger presence within the image, and produces a slightly more pronounced peak when DIC is used on it:
 
 *NCC of the RB compensated object images *
@@ -492,8 +456,6 @@ One can consider how accurate these values seem by comparing them with the actua
 The ratio between x displacement and y displacement in both cases (actual in mm, and recorded in pixels) is 3/2 (15pixels/10pixels = 6mm/4mm = 3/2), again suggesting that the displacement value found is accurate.
 
 ***Sub-stage 3: Real-life Disparity***
-
-******
 
 The final stage involves converting the pixel disparities into millimetre disparities, by finding the ratio between pixels and millimetres.
 
@@ -548,19 +510,11 @@ The bounded object plane area was 70.0mm x 50.0mm, or 3500.0mm^2^; the object di
 
 ***Other Examples***
 
-******
-
 ***Introduction***
-
-******
 
 Though the example given in the previous section shows how the processes work, it does not show how the processes operate in other conditions.
 
-******
-
 ***Effect Of Non-critical Objects On Identification Of Critical Objects***
-
-******
 
 In the prototype, two types of object need to be identified: those that mark the boundaries of the area of interest, and the movable object of interest. These are identified by colour. Below, three examples are given where camera position, and movable object of interest are fixed, but other objects – of a non-specified colour – differ in position:
 
@@ -572,8 +526,6 @@ In the prototype, two types of object need to be identified: those that mark the
 
 *[Fig. 4.3.2]***
 
-******
-
 *Test Image 3		Marker Mask			Object Mask*
 
 *[Fig. 4.3.3]***
@@ -582,49 +534,29 @@ In two of the three cases, the system is able to identify both the markers and t
 
 Where erroneously identified objects exist that are of similar or greater size to the correctly identified mask features, a more complicated system - that, for example, determines which of the feature objects identified in the mask is *most likely* to be the real one based on the known marker geometry – would have to be used.
 
-******
-
-******
-
 ***Effects Of Lighting***
 
-******
-
 So far, all examples shown have been ones where ambient lighting has been of a normal level; the image was neither dark nor light, and the camera neither over exposed or underexposed. The following images show some of the effects of different types of ambient lighting conditions, including many which are sub-optimal:
-
-******
-
-******
 
 *Test Image 1		Marker Mask			Object Mask*
 
 *[Fig. 4.3.4]*
 
-******
-
 *Test Image 2		Marker Mask			Object Mask*
 
 *[Fig. 4.3.5]***
-
-******
 
 *Test Image 3		Marker Mask			Object Mask*
 
 *[Fig. 4.3.6]***
 
-******
-
 *Test Image 4		Marker Mask			Object Mask*
 
 *[Fig. 4.3.7]***
 
-******
-
 *Test Image 5		Marker Mask			Object Mask*
 
 *[Fig. 4.3.8]***
-
-******
 
 *Test Image 6		Marker Mask			Object Mask*
 
@@ -715,11 +647,7 @@ In a more general case, a strong light source that makes features of a certain c
 
 ***Effects Of Camera Distance***
 
-******
-
 So far, all tests have been conducted at a single distance (154mm). The following table shows the effect changing the distance has on the calculated ratio of right side vertical distance between markers to left side distance- used to calculate the horizontal plane angle of the camera to the object plane – at 30 degrees to the left of the normal angle. 
-
-******
 
   
     
@@ -784,8 +712,6 @@ In DIC, is important that the two images to be correlated are at the same distan
 
 ***4.4	Calibration***
 
-******
-
 For stage 1b, it was required that the prototype device be able to determine an angle from a ratio. This required prior calibration: 10 sets of 17 images, at a set distance and horizontal plane angles varying incrementally from –40 degrees to 40 degrees in 5 degree steps, were taken, and the ratio between left vertical edge and right vertical edge (as in the previous example) were found. 
 
 The average value at each of these angles, from all 10 cases, was found, giving the following results when plotted against angle:
@@ -794,20 +720,13 @@ The average value at each of these angles, from all 10 cases, was found, giving 
 
 *[Fig. 4.4.1]*
 
-******
-
 A third degree polynomial approximation, equating ratio to angle, was found, and the coefficients generated stored. The Matlab functions *polyfit *and *polytool* were used, and the red lines on the above graph show the *polytool* estimated error level of the polynomial fit to the real values. These are loaded into the stage 1b code, and used to calculate the horizontal plane angle.
 
 The coefficients, in descending order, are: **272.6;   -914.3;	1,152.0;   -509.9**
 
 i.e. [*equation*]{.eqn-ref} *[Eqn. 4.4.1]*
 
-**
-
 As an example, the ratio value 1.08 (r = 1.08) leads to an angle (θ) estimate of 11.2 degrees. Using r = 1.04 yields θ = 5.9 degrees.
-
-**
-
 
 *Negative angle*
 
@@ -815,4 +734,3 @@ As an example, the ratio value 1.08 (r = 1.08) leads to an angle (θ) estimate o
 
 **Object plane**
 
-**

@@ -47,21 +47,10 @@ website:
             - beng/code-overview.qmd
 
     - id: ma
-      title: "MA / Pre-PhD Research"
+      title: "MA: Critical Theory"
       style: floating
       contents:
         - ma/index.qmd
-        - section: "Thesis"
-          contents:
-            - ma/preface.qmd
-            - ma/concepts.qmd
-            - ma/house-and-home.qmd
-            - ma/work-and-worklessness.qmd
-            - ma/heuristics-and-attitudes.qmd
-            - ma/chaos-and-complexity.qmd
-            - ma/statistical-theory.qmd
-            - ma/literature-review.qmd
-            - ma/bibliography.qmd
 
     - id: phd
       title: "PhD: Work and its Other"
@@ -78,6 +67,18 @@ website:
         - section: "Final thesis (2009)"
           contents:
             - phd/final.qmd
+        - section: "Early direction (2006)"
+          contents:
+            - phd/early-direction/index.qmd
+            - phd/early-direction/preface.qmd
+            - phd/early-direction/concepts.qmd
+            - phd/early-direction/house-and-home.qmd
+            - phd/early-direction/work-and-worklessness.qmd
+            - phd/early-direction/heuristics-and-attitudes.qmd
+            - phd/early-direction/chaos-and-complexity.qmd
+            - phd/early-direction/statistical-theory.qmd
+            - phd/early-direction/literature-review.qmd
+            - phd/early-direction/bibliography.qmd
 
   page-footer:
     left: "Jon Minton, 2003-2009 (archived 2026)"

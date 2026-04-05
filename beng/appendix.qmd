@@ -14,11 +14,7 @@ Appendix
 
 **Appendix**
 
-****
-
 ***References***
-
-******
 
 **Fourier Series**: *W. Bolton***
 
@@ -40,11 +36,7 @@ Loughborough University Website: Engineering Mathematics – “**Calculating Ce
 
 **Electronic speckle photography: increased accuracy by nonintegral pixel shifting**: *M. Sjodahl***
 
-****
-
 ***Bibliography***
-
-******
 
 **The Image Processing Handbook**: *T. Russ***
 
@@ -52,4 +44,3 @@ Loughborough University Website: Engineering Mathematics – “**Calculating Ce
 
 **Whatis.com: Mathematical Symbols: **http://whatis.techtarget.com/definition/0,,side9_gci803019,00.html
 
-******

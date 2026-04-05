@@ -17,9 +17,8 @@ title: "Introduction"
 ***1.1	Overall Introduction***
 
 The overall aim of this project is to create a functioning prototype for device capable of determining the displacement of an ‘object,’ within a two-dimensional plane, between its current position, and its position at a previous time:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *The Problem: A prototype device needs to be able to know how much an object has moved in a two-dimensional plane from a previous occasion*
 
 *[Fig. 1.1]*
@@ -28,30 +27,16 @@ The prototype should be able to report to the user how much the object is displa
 
 ***1.2 	Examples***
 
-******
-
 ***Introduction***
-
-******
 
 Before continuing, it is useful to consider some real-life scenarios where finding a solution to the problem described is useful.
 
-******
-
 ***1.2.2 	A Specific Example***
-
-****
 
 *Consider a machine designed to solder a component on a circuit board. The machine has a circuit holder, and under which a tool head – holding the soldering device –, moved by two pairs of motors normal to each other, so that the tool head moves in the same plane as the circuit. After finishing soldering a component, the tool head returns to its rest position. If the actual rest position of the tool head is significantly different to the calibrated one, then the soldering device will solder in the wrong position and the component will not be soldered correctly:*
 
-**
+*[Figure — original CorelDRAW graphic not available in web version]*
 
-**
-
-**
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
 *A Specific Example: The tool head moves within a two-dimensional plane. When it has finished machining a part, it returns to a rest position. If the rest position it actually returns to is different to the intended rest position, then all machining operations by the device will be in the wrong place.*
 
 *[Fig. 1.2]*
@@ -76,8 +61,6 @@ Other examples of real-life problems that require this kind of object displaceme
 
 ***Abstraction Of Problem***
 
-******
-
 ***Introduction***
 
 The problem to be solved could be considered analytically as involving three stages:
@@ -89,8 +72,6 @@ The problem to be solved could be considered analytically as involving three sta
 ***Finding object displacement***: The prototype device needs to be able to determine the displacement in the plane of the object, between its current position, and the correct position.
 
 Each stage of the problem will now be described individually:
-
-******
 
 ***Stage One: Locating The Plane***
 
@@ -115,22 +96,18 @@ Assuming the camera is now facing the area of interest, the next stage is to loc
 An object, O, exists somewhere within the fixed boundaries of the area on the two-dimensional plane. 
 
 A certain feature marking part of the area boundary is located and considered the origin point (0,0) of the area. Other features of the area boundary are identified, and used later.
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *The area ****A****: Features marking parts of the boundary of this area are identified, and their positions within the camera images are stored*
 
 *[Fig. 1.3.1]*
 
 The object of interest, existing within the area, is identified, and its position in the camera image is found relative to the origin feature:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *The current position of the position within the bounded area is located in the camera image*
 
 *[Fig. 1.3.2]*** [*equation*]{.eqn-ref} *[Eqn. 1.3.1]*
-
-******
 
 ***1.3.4	Stage Three: Finding Object Disparity***
 
@@ -139,9 +116,8 @@ Having located the current object position, it now has to be compared with its o
 The position of the movable object in the image at the present moment could be translated into a *real* position (in millimetres, centimetres etc) by comparing its position to those of fixed marker objects (the identified boundary features) whose real geometries (the real-life distances and angles between objects) are known. This could be compared with the real-life position of the movable object within the area when correctly positioned, and the displacement between these two positions output to the user. [*equation*]{.eqn-ref} *[Eqn. 1.3.2]*
 
 An image of the object in the area, when in the correct position, could be stored in the prototype system. This could be compared directly with the image of the object in the area at the present moment, and the disparity between the two objects in the two images (in pixels) determined. This disparity in pixels could then be translated into a real-life disparity by comparing the distances of the fixed boundary features in the images, with their actual distances between these fixed features. Again, this essentially provides a scale, which can be used to convert between pixel disparities and real-life disparities.
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *An image of the object when in the correct position*
 
 [Fig. 1.3.3] [*equation*]{.eqn-ref} *[Eqn. 1.3.3]*
@@ -155,38 +131,23 @@ The marker does not have to be painted or connected to something of a specific c
 ***The Test Problem***
 
 For the purpose of testing the prototype in this project, the bounded area used was of a simple rectangle, the boundary features being the four corners. The distances between the centres of the boundary features (i.e. the height and width of the rectangle) were set and known by the prototype system for referencing with the position of these features in images:
-::: {.missing-figure}
-[Figure — original CorelDRAW graphic not available in web version]
-:::
+*[Figure — original CorelDRAW graphic not available in web version]*
+
 *Diagram of the area and boundary features used*
 
 *[Fig. 1.4.1]*
-
-**
-
-**
 
 *Picture of the actual test area*
 
 *[Fig. 1.4.2]*
 
-**
-
 ***1.5	Possible Techniques To Solving The Problem***
-
-******
 
 ***	1.5.1	Introduction***
 
-******
-
 Two basic techniques were considered to solve the test problem: Digital image correlation (DIC) based on fast-Fourier transforms (FFTs), and fiduciary marker analysis:
 
-******
-
 ***	1.5.2	Digital Image Correlation***
-
-******
 
 Digital image correlation is based on two-dimensional fast Fourier transforms (FFTs). It allows two similar images to be compared to locate areas of disparity between the two images as a whole, or sub-areas of the two images.
 
@@ -200,19 +161,13 @@ A more detailed explanation of the theory behind DIC is given in the next sectio
 
 ***1.5.3	Fiduciary Marker Analysis***
 
-******
-
 An imaging device is capable of distinguishing between objects within the image if they have distinctive properties. They can have a size, shape, or colour that distinguishes them from other parts of the image. If the objects within the image can be reliably distinguished from others they can be used as fiduciary markers, to be used as reference points to determine displacement, scale and position of both objects and the imaging device:
 
 If the relative positions of a number of distinguishable markers are fixed and the position of a camera is variable, they can be used to determine the position of the camera relative to the markers. 
 
 If the positions of the markers vary, but the camera position is fixed, they can be used to determine the real displacements of objects and parts on which the markers exist.
 
-******
-
 ***Brief Discussion Of Approaches***
-
-******
 
 Both DIC and fiduciary marker analysis can be applied to solving all three areas of the problem. Each has distinct advantages and disadvantages when applied to different types of task, due to the way they work:
 
@@ -253,7 +208,3 @@ Both DIC and fiduciary marker analysis can be applied to solving all three areas
 
 For the project, a combination of both techniques was used.
 
-**
-
-
-**
