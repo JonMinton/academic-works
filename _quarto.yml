@@ -67,6 +67,7 @@ website:
         - section: "Final thesis (2009)"
           contents:
             - phd/final.qmd
+            - phd/final-ch01.qmd
         - section: "Early direction (2006)"
           contents:
             - phd/early-direction/index.qmd
